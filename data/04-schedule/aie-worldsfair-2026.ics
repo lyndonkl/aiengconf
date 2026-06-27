@@ -24,9 +24,9 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:d1-0900-charlie-guo-cooking-with-codex@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260628T090000
-DTEND;TZID=America/Los_Angeles:20260628T110000
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260629T090000
+DTEND;TZID=America/Los_Angeles:20260629T110000
 SUMMARY:Cooking with Codex — Charlie Guo\, Gabriel Chua
 LOCATION:Track 3
 DESCRIPTION:Speakers: Charlie Guo (OpenAI)\, Gabriel Chua (OpenAI)\nTrack
@@ -38,9 +38,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d1-1420-louis-fran-ois-context-engineering-in-2026-compaction@aiengco
  nf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260628T142000
-DTEND;TZID=America/Los_Angeles:20260628T162000
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260629T142000
+DTEND;TZID=America/Los_Angeles:20260629T162000
 SUMMARY:Context Engineering in 2026: Compaction\, Memory & Cost — Louis
  -François Bouchard\, Samridhi Vaid
 LOCATION:Track 6
@@ -54,9 +54,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d2-0900-swyx-three-years-of-ai-engineering@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260629T090000
-DTEND;TZID=America/Los_Angeles:20260629T090500
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260630T090000
+DTEND;TZID=America/Los_Angeles:20260630T090500
 SUMMARY:Three Years of AI Engineering — swyx
 LOCATION:Main Stage
 DESCRIPTION:Speakers: swyx (Latent Space / AI Engineer)\nTrack: Software 
@@ -67,9 +67,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d2-0925-alexander-embiricos-opening-keynote-topic-tbd@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260629T092500
-DTEND;TZID=America/Los_Angeles:20260629T094500
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260630T092500
+DTEND;TZID=America/Los_Angeles:20260630T094500
 SUMMARY:Opening Keynote: Topic TBD — Alexander Embiricos\, Romain Huet
 LOCATION:Main Stage
 DESCRIPTION:Speakers: Alexander Embiricos (OpenAI)\, Romain Huet (OpenAI)
@@ -80,9 +80,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d2-1110-will-lyon-actionable-knowledge-for-agents-with@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260629T111000
-DTEND;TZID=America/Los_Angeles:20260629T113000
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260630T111000
+DTEND;TZID=America/Los_Angeles:20260630T113000
 SUMMARY:Actionable Knowledge For Agents With Context Graphs — Will Lyon
 LOCATION:Expo Stage 2 NW
 DESCRIPTION:Speakers: Will Lyon (Neo4j)\nTrack: Expo Stage 2\nTheme: Buil
@@ -92,9 +92,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d2-1140-benjamin-guo-everyone-gets-a-software-company@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260629T114000
-DTEND;TZID=America/Los_Angeles:20260629T120000
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260630T114000
+DTEND;TZID=America/Los_Angeles:20260630T120000
 SUMMARY:Everyone Gets A Software Company — Benjamin Guo\, Rob Cheung
 LOCATION:Track 1
 DESCRIPTION:Speakers: Benjamin Guo (Zo Computer)\, Rob Cheung (Zo Compute
@@ -105,9 +105,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d2-1355-lance-martin-claude-for-long-horizon-tasks@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260629T135500
-DTEND;TZID=America/Los_Angeles:20260629T141500
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260630T135500
+DTEND;TZID=America/Los_Angeles:20260630T141500
 SUMMARY:Claude for long-horizon tasks — Lance Martin
 LOCATION:Track 1
 DESCRIPTION:Speakers: Lance Martin (Anthropic)\nTrack: Claws & Personal A
@@ -117,9 +117,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d2-1425-karan-vaidya-tool-execution-layer-for-agents@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260629T142500
-DTEND;TZID=America/Los_Angeles:20260629T144500
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260630T142500
+DTEND;TZID=America/Los_Angeles:20260630T144500
 SUMMARY:Tool Execution layer for agents — Karan Vaidya
 LOCATION:Track 1
 DESCRIPTION:Speakers: Karan Vaidya (Composio)\nTrack: Claws & Personal Ag
@@ -129,9 +129,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d2-1630-dex-horthy-harness-engineering-is-not-enough@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260629T163000
-DTEND;TZID=America/Los_Angeles:20260629T165000
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260630T163000
+DTEND;TZID=America/Los_Angeles:20260630T165000
 SUMMARY:Harness Engineering is not Enough: Why Software Factories Fail 
  — Dex Horthy
 LOCATION:Main Stage
@@ -142,9 +142,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d3-0925-tariq-shaukat-in-the-land-of-ai@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260630T092500
-DTEND;TZID=America/Los_Angeles:20260630T094500
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260701T092500
+DTEND;TZID=America/Los_Angeles:20260701T094500
 SUMMARY:In the Land of AI Agents\, the Verifiers Are King — Tariq Shauk
  at
 LOCATION:Main Stage
@@ -155,9 +155,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d3-1110-kevin-madura-its-tokens-all-the-way@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260630T111000
-DTEND;TZID=America/Los_Angeles:20260630T113000
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260701T111000
+DTEND;TZID=America/Los_Angeles:20260701T113000
 SUMMARY:It's Tokens All The Way Down: How RLMs are Different — Kevin Ma
  dura
 LOCATION:Track 8
@@ -168,9 +168,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d3-1140-ajay-prakash-500-skills-zero-fine-tuning@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260630T114000
-DTEND;TZID=America/Los_Angeles:20260630T120000
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260701T114000
+DTEND;TZID=America/Los_Angeles:20260701T120000
 SUMMARY:500 Skills\, Zero Fine-Tuning: LinkedIn's Playbook for AI Agents 
  That Actually Know Your Codebase — Ajay Prakash
 LOCATION:Track 8
@@ -180,10 +180,38 @@ DESCRIPTION:Speakers: Ajay Prakash (Linkedin)\nTrack: Context Engineering
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:d3-1330-laurie-voss-how-long-can-your-skills@aiengconf
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260701T133000
+DTEND;TZID=America/Los_Angeles:20260701T135000
+SUMMARY:How long can your skills be before your agent forgets what you to
+ ld it? — Laurie Voss
+LOCATION:Track 8
+DESCRIPTION:Speakers: Laurie Voss (Arize AI)\nTrack: Context Engineering\
+ nTheme: Building & Operating Agents\nType: talk\nWhy on your plan: added
+  per user (Wed lunch-gap fill): top Context-Engineering pick\, skills/me
+ mory - your bullseye
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d3-1355-prukalpa-sankar-cut-through-the-context-hype@aiengconf
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260701T135500
+DTEND;TZID=America/Los_Angeles:20260701T141500
+SUMMARY:Cut Through the Context Hype: 4 Layers Your Agent Is Missing — 
+ Prukalpa Sankar
+LOCATION:Track 8
+DESCRIPTION:Speakers: Prukalpa Sankar (Atlan)\nTrack: Context Engineering
+ \nTheme: Building & Operating Agents\nType: talk\nWhy on your plan: adde
+ d per user (Wed lunch-gap fill): Context-Engineering\, your earlier wild
+ card-bucket talk
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:d3-1450-dustin-mihalik-mcp-apps-give-the-model@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260630T145000
-DTEND;TZID=America/Los_Angeles:20260630T151000
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260701T145000
+DTEND;TZID=America/Los_Angeles:20260701T151000
 SUMMARY:MCP Apps: Give the Model Data\, Give the User a UI — Dustin Mih
  alik
 LOCATION:Track 8
@@ -194,9 +222,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d3-1520-cornelia-davis-mcp-tasks-async-why-the@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260630T152000
-DTEND;TZID=America/Los_Angeles:20260630T154000
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260701T152000
+DTEND;TZID=America/Los_Angeles:20260701T154000
 SUMMARY:MCP Tasks (async)/ Why the heck aren't any agents supporting MCP 
  tasks/async? — Cornelia Davis
 LOCATION:Track 8
@@ -207,9 +235,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d3-1545-alex-hancock-the-universal-remote-control-for@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260630T154500
-DTEND;TZID=America/Los_Angeles:20260630T160500
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260701T154500
+DTEND;TZID=America/Los_Angeles:20260701T160500
 SUMMARY:The Universal Remote Control for AI — Alex Hancock
 LOCATION:Track 8
 DESCRIPTION:Speakers: Alex Hancock (Block)\nTrack: Context Engineering\nT
@@ -219,9 +247,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d4-0900-matt-pocock-building-great-agent-skills-the@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260701T090000
-DTEND;TZID=America/Los_Angeles:20260701T092000
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260702T090000
+DTEND;TZID=America/Los_Angeles:20260702T092000
 SUMMARY:Building Great Agent Skills: The Missing Manual — Matt Pocock
 LOCATION:Main Stage
 DESCRIPTION:Speakers: Matt Pocock (Total TypeScript / AI Hero)\nTrack: So
@@ -232,9 +260,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d4-1020-emil-eifrem-why-graphs@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260701T102000
-DTEND;TZID=America/Los_Angeles:20260701T103000
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260702T102000
+DTEND;TZID=America/Los_Angeles:20260702T103000
 SUMMARY:Why Graphs? — Emil Eifrem
 LOCATION:Main Stage
 DESCRIPTION:Speakers: Emil Eifrem (Neo4j)\nTrack: Graphs\nTheme: Retrieva
@@ -244,9 +272,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d4-1045-katelyn-lesse-tokens-should-have-jobs@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260701T104500
-DTEND;TZID=America/Los_Angeles:20260701T110500
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260702T104500
+DTEND;TZID=America/Los_Angeles:20260702T110500
 SUMMARY:Tokens Should Have Jobs — Katelyn Lesse\, Angela Jiang
 LOCATION:Main Stage
 DESCRIPTION:Speakers: Katelyn Lesse (Anthropic)\, Angela Jiang (Anthropic
@@ -257,9 +285,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d4-1110-yohei-nakajima-active-graph-agent-runtime-babyagi@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260701T111000
-DTEND;TZID=America/Los_Angeles:20260701T113000
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260702T111000
+DTEND;TZID=America/Los_Angeles:20260702T113000
 SUMMARY:Active Graph Agent Runtime (BabyAGI 4) — Yohei Nakajima
 LOCATION:Track 5
 DESCRIPTION:Speakers: Yohei Nakajima (Untapped Capital)\nTrack: Graphs\nT
@@ -270,9 +298,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d4-1205-arturo-nunez-the-next-game-engine-wont@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260701T120500
-DTEND;TZID=America/Los_Angeles:20260701T122500
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260702T120500
+DTEND;TZID=America/Los_Angeles:20260702T122500
 SUMMARY:The Next Game Engine Won't Have a Manual — Arturo Nunez
 LOCATION:Track 1
 DESCRIPTION:Speakers: Arturo Nunez (Nereu)\nTrack: Generative Media\nThem
@@ -282,9 +310,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d4-1450-dru-knox-harness-engineering-the-new-core@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260701T145000
-DTEND;TZID=America/Los_Angeles:20260701T151000
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260702T145000
+DTEND;TZID=America/Los_Angeles:20260702T151000
 SUMMARY:Harness Engineering: The New Core Skill for Agentic Developers 
  — Dru Knox
 LOCATION:Expo Stage 1 NE
@@ -295,9 +323,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d4-1520-remy-guercio-an-ai-future-without-the@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260701T152000
-DTEND;TZID=America/Los_Angeles:20260701T154000
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260702T152000
+DTEND;TZID=America/Los_Angeles:20260702T154000
 SUMMARY:An AI Future Without the Lock-In — Remy Guercio
 LOCATION:Expo Stage 4 SE
 DESCRIPTION:Speakers: Remy Guercio (Tailscale)\nTheme: Building & Operati
@@ -306,38 +334,38 @@ DESCRIPTION:Speakers: Remy Guercio (Tailscale)\nTheme: Building & Operati
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-2026-06-29-1200@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260629T120000
-DTEND;TZID=America/Los_Angeles:20260629T135500
-SUMMARY:🍴 Lunch / break (kept free)
-DESCRIPTION:Protected break — your paced plan keeps this open.
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:lunch-2026-06-30-1200@aiengconf
-DTSTAMP:20260627T203500Z
+DTSTAMP:20260627T210000Z
 DTSTART;TZID=America/Los_Angeles:20260630T120000
-DTEND;TZID=America/Los_Angeles:20260630T145000
+DTEND;TZID=America/Los_Angeles:20260630T135500
 SUMMARY:🍴 Lunch / break (kept free)
-DESCRIPTION:Protected break — your paced plan keeps this open.
+DESCRIPTION:Protected break.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-2026-07-01-1130@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260701T113000
-DTEND;TZID=America/Los_Angeles:20260701T120500
+UID:lunch-2026-07-01-1200@aiengconf
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260701T120000
+DTEND;TZID=America/Los_Angeles:20260701T133000
+SUMMARY:🍴 Lunch / break (kept free)
+DESCRIPTION:lunch (before the two added Context-Engineering talks)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-07-02-1130@aiengconf
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260702T113000
+DTEND;TZID=America/Los_Angeles:20260702T120500
 SUMMARY:🍴 Lunch / break (kept free)
 DESCRIPTION:lunch part 1 (flexed for the Next Game Engine wildcard 12:05-
  12:25)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:lunch-2026-07-01-1225@aiengconf
-DTSTAMP:20260627T203500Z
-DTSTART;TZID=America/Los_Angeles:20260701T122500
-DTEND;TZID=America/Los_Angeles:20260701T145000
+UID:lunch-2026-07-02-1225@aiengconf
+DTSTAMP:20260627T210000Z
+DTSTART;TZID=America/Los_Angeles:20260702T122500
+DTEND;TZID=America/Los_Angeles:20260702T145000
 SUMMARY:🍴 Lunch / break (kept free)
 DESCRIPTION:lunch part 2
 TRANSP:OPAQUE

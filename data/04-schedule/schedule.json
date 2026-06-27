@@ -3,7 +3,7 @@
   "method": "greedy-local-search (block-structured, paced; conf-schedule-optimization skill, parameterized for this conference)",
   "selections": [
     {
-      "day": "2026-06-28",
+      "day": "2026-06-29",
       "start": "09:00",
       "end": "11:00",
       "event_id": "d1-0900-charlie-guo-cooking-with-codex",
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "day": "2026-06-28",
+      "day": "2026-06-29",
       "start": "14:20",
       "end": "16:20",
       "event_id": "d1-1420-louis-fran-ois-context-engineering-in-2026-compaction",
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "day": "2026-06-29",
+      "day": "2026-06-30",
       "start": "09:00",
       "end": "09:05",
       "event_id": "d2-0900-swyx-three-years-of-ai-engineering",
@@ -65,7 +65,7 @@
       "alternatives": []
     },
     {
-      "day": "2026-06-29",
+      "day": "2026-06-30",
       "start": "09:25",
       "end": "09:45",
       "event_id": "d2-0925-alexander-embiricos-opening-keynote-topic-tbd",
@@ -80,7 +80,7 @@
       "alternatives": []
     },
     {
-      "day": "2026-06-29",
+      "day": "2026-06-30",
       "start": "11:10",
       "end": "11:30",
       "event_id": "d2-1110-will-lyon-actionable-knowledge-for-agents-with",
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "day": "2026-06-29",
+      "day": "2026-06-30",
       "start": "11:40",
       "end": "12:00",
       "event_id": "d2-1140-benjamin-guo-everyone-gets-a-software-company",
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "day": "2026-06-29",
+      "day": "2026-06-30",
       "start": "13:55",
       "end": "14:15",
       "event_id": "d2-1355-lance-martin-claude-for-long-horizon-tasks",
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "day": "2026-06-29",
+      "day": "2026-06-30",
       "start": "14:25",
       "end": "14:45",
       "event_id": "d2-1425-karan-vaidya-tool-execution-layer-for-agents",
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "day": "2026-06-29",
+      "day": "2026-06-30",
       "start": "16:30",
       "end": "16:50",
       "event_id": "d2-1630-dex-horthy-harness-engineering-is-not-enough",
@@ -199,7 +199,7 @@
       "alternatives": []
     },
     {
-      "day": "2026-06-30",
+      "day": "2026-07-01",
       "start": "09:25",
       "end": "09:45",
       "event_id": "d3-0925-tariq-shaukat-in-the-land-of-ai",
@@ -214,7 +214,7 @@
       "alternatives": []
     },
     {
-      "day": "2026-06-30",
+      "day": "2026-07-01",
       "start": "11:10",
       "end": "11:30",
       "event_id": "d3-1110-kevin-madura-its-tokens-all-the-way",
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "day": "2026-06-30",
+      "day": "2026-07-01",
       "start": "11:40",
       "end": "12:00",
       "event_id": "d3-1140-ajay-prakash-500-skills-zero-fine-tuning",
@@ -266,7 +266,27 @@
       ]
     },
     {
-      "day": "2026-06-30",
+      "day": "2026-07-01",
+      "start": "13:30",
+      "end": "13:50",
+      "event_id": "d3-1330-laurie-voss-how-long-can-your-skills",
+      "room": "Track 8",
+      "score": 0.8,
+      "why": "added per user (Wed lunch-gap fill): top Context-Engineering pick, skills/memory - your bullseye",
+      "alternatives": []
+    },
+    {
+      "day": "2026-07-01",
+      "start": "13:55",
+      "end": "14:15",
+      "event_id": "d3-1355-prukalpa-sankar-cut-through-the-context-hype",
+      "room": "Track 8",
+      "score": 0.8,
+      "why": "added per user (Wed lunch-gap fill): Context-Engineering, your earlier wildcard-bucket talk",
+      "alternatives": []
+    },
+    {
+      "day": "2026-07-01",
       "start": "14:50",
       "end": "15:10",
       "event_id": "d3-1450-dustin-mihalik-mcp-apps-give-the-model",
@@ -292,7 +312,7 @@
       ]
     },
     {
-      "day": "2026-06-30",
+      "day": "2026-07-01",
       "start": "15:20",
       "end": "15:40",
       "event_id": "d3-1520-cornelia-davis-mcp-tasks-async-why-the",
@@ -318,7 +338,7 @@
       ]
     },
     {
-      "day": "2026-06-30",
+      "day": "2026-07-01",
       "start": "15:45",
       "end": "16:05",
       "event_id": "d3-1545-alex-hancock-the-universal-remote-control-for",
@@ -344,7 +364,7 @@
       ]
     },
     {
-      "day": "2026-07-01",
+      "day": "2026-07-02",
       "start": "09:00",
       "end": "09:20",
       "event_id": "d4-0900-matt-pocock-building-great-agent-skills-the",
@@ -359,7 +379,7 @@
       "alternatives": []
     },
     {
-      "day": "2026-07-01",
+      "day": "2026-07-02",
       "start": "10:20",
       "end": "10:30",
       "event_id": "d4-1020-emil-eifrem-why-graphs",
@@ -374,7 +394,7 @@
       "alternatives": []
     },
     {
-      "day": "2026-07-01",
+      "day": "2026-07-02",
       "start": "10:45",
       "end": "11:05",
       "event_id": "d4-1045-katelyn-lesse-tokens-should-have-jobs",
@@ -400,7 +420,7 @@
       ]
     },
     {
-      "day": "2026-07-01",
+      "day": "2026-07-02",
       "start": "11:10",
       "end": "11:30",
       "event_id": "d4-1110-yohei-nakajima-active-graph-agent-runtime-babyagi",
@@ -421,7 +441,7 @@
       ]
     },
     {
-      "day": "2026-07-01",
+      "day": "2026-07-02",
       "start": "12:05",
       "end": "12:25",
       "event_id": "d4-1205-arturo-nunez-the-next-game-engine-wont",
@@ -431,7 +451,7 @@
       "alternatives": []
     },
     {
-      "day": "2026-07-01",
+      "day": "2026-07-02",
       "start": "14:50",
       "end": "15:10",
       "event_id": "d4-1450-dru-knox-harness-engineering-the-new-core",
@@ -457,7 +477,7 @@
       ]
     },
     {
-      "day": "2026-07-01",
+      "day": "2026-07-02",
       "start": "15:20",
       "end": "15:40",
       "event_id": "d4-1520-remy-guercio-an-ai-future-without-the",
@@ -485,162 +505,170 @@
   ],
   "free_blocks": [
     {
-      "day": "2026-06-28",
+      "day": "2026-06-29",
       "start": "08:30",
       "end": "09:00",
       "purpose": "buffer"
     },
     {
-      "day": "2026-06-28",
+      "day": "2026-06-29",
       "start": "11:00",
       "end": "14:20",
       "purpose": "break"
     },
     {
-      "day": "2026-06-28",
+      "day": "2026-06-29",
       "start": "16:20",
       "end": "19:00",
       "purpose": "networking"
     },
     {
-      "day": "2026-06-29",
+      "day": "2026-06-30",
       "start": "08:30",
       "end": "09:00",
       "purpose": "break"
     },
     {
-      "day": "2026-06-29",
+      "day": "2026-06-30",
       "start": "09:45",
       "end": "11:10",
       "purpose": "break"
     },
     {
-      "day": "2026-06-29",
+      "day": "2026-06-30",
       "start": "11:30",
       "end": "11:40",
       "purpose": "buffer"
     },
     {
-      "day": "2026-06-29",
+      "day": "2026-06-30",
       "start": "12:00",
       "end": "13:55",
       "purpose": "meal"
     },
     {
-      "day": "2026-06-29",
+      "day": "2026-06-30",
       "start": "14:15",
       "end": "14:25",
       "purpose": "buffer"
     },
     {
-      "day": "2026-06-29",
+      "day": "2026-06-30",
       "start": "14:45",
       "end": "16:30",
       "purpose": "break"
     },
     {
-      "day": "2026-06-29",
+      "day": "2026-06-30",
       "start": "16:50",
       "end": "19:00",
       "purpose": "networking"
     },
     {
-      "day": "2026-06-30",
+      "day": "2026-07-01",
       "start": "08:30",
       "end": "09:25",
       "purpose": "break"
     },
     {
-      "day": "2026-06-30",
+      "day": "2026-07-01",
       "start": "09:45",
       "end": "11:10",
       "purpose": "break"
     },
     {
-      "day": "2026-06-30",
+      "day": "2026-07-01",
       "start": "11:30",
       "end": "11:40",
       "purpose": "buffer"
     },
     {
-      "day": "2026-06-30",
+      "day": "2026-07-01",
       "start": "12:00",
-      "end": "14:50",
-      "purpose": "meal"
+      "end": "13:30",
+      "purpose": "meal",
+      "note": "lunch (before the two added Context-Engineering talks)"
     },
     {
-      "day": "2026-06-30",
+      "day": "2026-07-01",
       "start": "15:10",
       "end": "15:20",
       "purpose": "buffer"
     },
     {
-      "day": "2026-06-30",
+      "day": "2026-07-01",
       "start": "15:40",
       "end": "15:45",
       "purpose": "buffer"
     },
     {
-      "day": "2026-06-30",
+      "day": "2026-07-01",
       "start": "16:05",
       "end": "19:00",
       "purpose": "networking"
     },
     {
-      "day": "2026-07-01",
+      "day": "2026-07-02",
       "start": "08:30",
       "end": "09:00",
       "purpose": "buffer"
     },
     {
-      "day": "2026-07-01",
+      "day": "2026-07-02",
       "start": "09:20",
       "end": "10:20",
       "purpose": "break"
     },
     {
-      "day": "2026-07-01",
+      "day": "2026-07-02",
       "start": "10:30",
       "end": "10:45",
       "purpose": "buffer"
     },
     {
-      "day": "2026-07-01",
+      "day": "2026-07-02",
       "start": "11:05",
       "end": "11:10",
       "purpose": "buffer"
     },
     {
-      "day": "2026-07-01",
+      "day": "2026-07-02",
       "start": "11:30",
       "end": "12:05",
       "purpose": "meal",
       "note": "lunch part 1 (flexed for the Next Game Engine wildcard 12:05-12:25)"
     },
     {
-      "day": "2026-07-01",
+      "day": "2026-07-02",
       "start": "15:10",
       "end": "15:20",
       "purpose": "buffer"
     },
     {
-      "day": "2026-07-01",
+      "day": "2026-07-02",
       "start": "15:40",
       "end": "19:00",
       "purpose": "break"
     },
     {
-      "day": "2026-07-01",
+      "day": "2026-07-02",
       "start": "12:25",
       "end": "14:50",
       "purpose": "meal",
       "note": "lunch part 2"
     },
     {
-      "day": "2026-06-29",
+      "day": "2026-06-30",
       "start": "09:05",
       "end": "09:25",
       "purpose": "break"
+    },
+    {
+      "day": "2026-07-01",
+      "start": "14:15",
+      "end": "14:50",
+      "purpose": "break",
+      "note": "post-talk breather before the afternoon block"
     }
   ],
   "objective_breakdown": {
@@ -715,5 +743,11 @@
       "resolution": "swyx 'Three Years of AI Engineering' ADDED (Jun 29 09:00, marquee opener)",
       "by": "director"
     }
+  ],
+  "post_decision_note": "",
+  "date_mapping_corrected": "All selection/free-block dates shifted +1 day (Day1=2026-06-29 Mon ... Day4=2026-07-02 Thu). Anchor: Startup Battlefield Day-4 closing = July 2 per source Highlights.",
+  "added_after_schedule": [
+    "d3-1330-laurie-voss-how-long-can-your-skills (Wed Jul 1 13:30)",
+    "d3-1355-prukalpa-sankar-cut-through-the-context-hype (Wed Jul 1 13:55)"
   ]
 }

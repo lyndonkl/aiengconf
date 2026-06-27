@@ -36,10 +36,12 @@
       "method": "greedy-local-search (block-structured, paced)",
       "verified": "gate schedule->done passed: schedule.json present, objective_breakdown with user weights echoed, 4 unresolved_conflicts surfaced (not silently resolved), 4/4 forced_in placed, 0 overlaps",
       "objective_total": 0.689,
-      "selections": 22,
+      "selections": 24,
       "unresolved_conflicts": 0,
       "conflicts_resolved_by_user": "A1 kept Ajay Prakash; A2 -> Yohei Nakajima (T5); B1 declined Human Connection; B2 added Next Game Engine (lunch flex); C swyx opener ADDED",
-      "calendar_export": "data/04-schedule/aie-worldsfair-2026.ics (22 sessions + 4 lunch holds, America/Los_Angeles)",
+      "added_after": "Wed Jul 1 (Session Day 2): Laurie Voss 13:30 + Prukalpa Sankar 13:55 (context-engineering lunch-gap fill, per user)",
+      "date_mapping_corrected": "2026-06-27: shifted ALL event dates +1 day (config placeholders started a day early). Day 1 Workshop = Mon 2026-06-29 ... Day 4 Session Day 3 = Thu 2026-07-02. Anchor: Startup Battlefield (Day-4 closing keynote) = 'July 2nd' per source Highlights.",
+      "calendar_export": "data/04-schedule/aie-worldsfair-2026.ics (24 sessions + 4 lunch holds, America/Los_Angeles, corrected dates)",
       "updated": "2026-06-27"
     }
   },

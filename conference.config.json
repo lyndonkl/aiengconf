@@ -3,15 +3,15 @@
   "name": "AI Engineer World's Fair 2026",
   "source_url": "https://www.ai.engineer/worldsfair/2026/llms-full.md",
   "timezone": "America/Los_Angeles",
-  "_refined": "2026-06-27: rooms, tracks, dates refined from the first real ingest of source_url (556 events). Removed phantom 2026-07-02; replaced inferred track/room placeholders with the program's actual values.",
-  "dates": ["2026-06-28", "2026-06-29", "2026-06-30", "2026-07-01"],
+  "_refined": "2026-06-27: rooms, tracks, dates set from the first real ingest of source_url (556 events). DATE-MAPPING CORRECTION (same day): Day 1-4 had been mapped one day too early; corrected so Day 1 (Workshop) = 2026-06-29 (Mon) ... Day 4 (Session Day 3) = 2026-07-02 (Thu). Anchor: the Day-4 closing keynote 'Startup Battlefield' is 'July 2nd' per the program Highlights.",
+  "dates": ["2026-06-29", "2026-06-30", "2026-07-01", "2026-07-02"],
   "day_themes": {
-    "2026-06-28": "Workshop Day",
-    "2026-06-29": "Session Day 1",
-    "2026-06-30": "Session Day 2",
-    "2026-07-01": "Session Day 3"
+    "2026-06-29": "Workshop Day",
+    "2026-06-30": "Session Day 1",
+    "2026-07-01": "Session Day 2",
+    "2026-07-02": "Session Day 3"
   },
-  "_dates_note": "The program markdown's header claims '5 days' but only 4 are actually scheduled. Config previously listed a 5th date (2026-07-02 'Sessions Day 4') with no program content; removed after ingest confirmed no Day 5 sessions exist.",
+  "_dates_note": "Official span is 'June 28 - July 2, 2026 (5 days)', but the program schedules sessions on only 4 days (Day 1 Workshop ... Day 4 Session Day 3) = 2026-06-29 (Mon) through 2026-07-02 (Thu). 2026-06-28 (Sun) is the opening/expo day with no sessions in the program. An earlier version mis-mapped these starting at 2026-06-28, shifting every event one day early; corrected.",
   "venue": "Moscone West, San Francisco, CA",
   "day_bounds": { "default": { "start": "08:30", "end": "19:00" } },
 

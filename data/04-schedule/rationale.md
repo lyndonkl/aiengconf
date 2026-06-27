@@ -44,7 +44,7 @@ Interest is the largest term, but **pacing at 0.3 is a close second and it is wh
 
 ## 5. How the hard constraints were honored
 
-- **4 anchored keynotes forced in:** Embiricos (opening, Jun 29), Dex Horthy (harness engineering, Jun 29 16:30 — the one keynote allowed into the wind-down window because you anchored it), Tariq Shaukat (verifiers, Jun 30), Matt Pocock (agent skills, Jul 1). Emil Eifrem (Why Graphs, T5) added as your in-lane keynote alternate; swyx offered, not forced.
+- **4 anchored keynotes forced in:** Embiricos (opening, Jun 30), Dex Horthy (harness engineering, Jun 30 16:30 — the one keynote allowed into the wind-down window because you anchored it), Tariq Shaukat (verifiers, Jul 1), Matt Pocock (agent skills, Jul 2). Emil Eifrem (Why Graphs, T5) added as your in-lane keynote alternate; swyx offered, not forced.
 - **Lunch ~12:00–13:30 free every day** (meal block). **Evenings light after ~17:00** (networking/buffer).
 - **All four days scheduled**, including Workshop Day = 2 deep T1 labs: *Cooking with Codex* (harness/codex) + *Context Engineering in 2026: Compaction*.
 - **Feasibility:** zero time-overlaps; room-to-room travel respected (default 5 min, Main↔Expo 10 min).
