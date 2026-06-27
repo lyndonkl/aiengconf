@@ -56,6 +56,16 @@
     },
     {
       "day": "2026-06-29",
+      "start": "09:00",
+      "end": "09:05",
+      "event_id": "d2-0900-swyx-three-years-of-ai-engineering",
+      "room": "Main Stage",
+      "score": 0.44,
+      "why": "user-added marquee opener (decision C); same room as the anchored OpenAI keynote, zero cost",
+      "alternatives": []
+    },
+    {
+      "day": "2026-06-29",
       "start": "09:25",
       "end": "09:45",
       "event_id": "d2-0925-alexander-embiricos-opening-keynote-topic-tbd",
@@ -495,7 +505,7 @@
     {
       "day": "2026-06-29",
       "start": "08:30",
-      "end": "09:25",
+      "end": "09:00",
       "purpose": "break"
     },
     {
@@ -625,6 +635,12 @@
       "end": "14:50",
       "purpose": "meal",
       "note": "lunch part 2"
+    },
+    {
+      "day": "2026-06-29",
+      "start": "09:05",
+      "end": "09:25",
+      "purpose": "break"
     }
   ],
   "objective_breakdown": {
@@ -696,7 +712,7 @@
     },
     {
       "id": "C",
-      "resolution": "swyx opening keynote: not added (left to user; can add on request)",
+      "resolution": "swyx 'Three Years of AI Engineering' ADDED (Jun 29 09:00, marquee opener)",
       "by": "director"
     }
   ]

@@ -36,9 +36,10 @@
       "method": "greedy-local-search (block-structured, paced)",
       "verified": "gate schedule->done passed: schedule.json present, objective_breakdown with user weights echoed, 4 unresolved_conflicts surfaced (not silently resolved), 4/4 forced_in placed, 0 overlaps",
       "objective_total": 0.689,
-      "selections": 21,
+      "selections": 22,
       "unresolved_conflicts": 0,
-      "conflicts_resolved_by_user": "A1 kept Ajay Prakash; A2 -> Yohei Nakajima (T5); B1 declined Human Connection; B2 added Next Game Engine (lunch flex); C swyx not added",
+      "conflicts_resolved_by_user": "A1 kept Ajay Prakash; A2 -> Yohei Nakajima (T5); B1 declined Human Connection; B2 added Next Game Engine (lunch flex); C swyx opener ADDED",
+      "calendar_export": "data/04-schedule/aie-worldsfair-2026.ics (22 sessions + 4 lunch holds, America/Los_Angeles)",
       "updated": "2026-06-27"
     }
   },

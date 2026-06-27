@@ -24,7 +24,10 @@ Legend: **[KEYNOTE]** anchored main-stage · **[LAB]** hands-on workshop (regist
 
 ## 2026-06-29 — Session Day 1  ·  6 sessions
 
-- ~ **08:30–09:25**  _break_ (55 min free)
+- ~ **08:30–09:00**  _buffer_ (30 min free)
+- **09:00–09:05**  [KEYNOTE] **Three Years of AI Engineering** — swyx
+    - Main Stage · _marquee opener — you added it_
+- ~ **09:05–09:25**  _break_ (20 min free)
 - **09:25–09:45**  [ANCHOR] [KEYNOTE] Opening Keynote: Topic TBD — Alexander Embiricos
     - Main Stage · _T2 Coding Agents & AI-Native Dev_ · fit 0.44
     - _why:_ forced in (anchored keynote / must-attend)
@@ -47,7 +50,7 @@ Legend: **[KEYNOTE]** anchored main-stage · **[LAB]** hands-on workshop (regist
     - Main Stage · _T2 Coding Agents & AI-Native Dev_ · fit 0.347
     - _why:_ forced in (anchored keynote / must-attend)
 - ~ **16:50–19:00**  _evening / networking_ (130 min free)
-- _(optional same-room keynote: **swyx — Three Years of AI Engineering**, 09:00, Main Stage — marquee but not anchored; add if you want the full opening. See conflicts.md.)_
+- _(added: **swyx — Three Years of AI Engineering**, 09:00, Main Stage — the marquee opener, now in your plan.)_
 
 ## 2026-06-30 — Session Day 2  ·  6 sessions
 
