@@ -1,0 +1,89 @@
+{
+  "status": "stable",
+  "generated_on": "2026-06-27",
+  "conference_id": "ai-engineer-worldsfair-2026",
+  "_theme_labels": {
+    "T1": "Building & Operating Agents", "T2": "Coding Agents & AI-Native Dev",
+    "T3": "Evaluation, Observability & Data Quality", "T4": "Model & Inference Engineering",
+    "T5": "Retrieval, Memory & Knowledge", "T6": "Multimodal, Voice & Generative Media",
+    "T7": "AI in the Enterprise: Leadership & Verticals", "T8": "Security & Trust for AI Systems"
+  },
+  "region": {
+    "T1": { "interest_lo": 0.80, "interest_hi": 1.00 },
+    "T2": { "interest_lo": 0.25, "interest_hi": 0.50 },
+    "T3": { "interest_lo": 0.55, "interest_hi": 0.80 },
+    "T4": { "interest_lo": 0.15, "interest_hi": 0.40 },
+    "T5": { "interest_lo": 0.55, "interest_hi": 0.80 },
+    "T6": { "interest_lo": 0.10, "interest_hi": 0.35 },
+    "T7": { "interest_lo": 0.10, "interest_hi": 0.30 },
+    "T8": { "interest_lo": 0.20, "interest_hi": 0.45 }
+  },
+  "point_estimate": {
+    "T1": 0.92, "T2": 0.35, "T3": 0.68, "T4": 0.25,
+    "T5": 0.68, "T6": 0.20, "T7": 0.18, "T8": 0.30
+  },
+  "subtheme_focus": {
+    "_note": "Within the core theme T1, prioritize these subclusters (read membership from clusters.json). De-emphasize the rest.",
+    "T1_prioritize": ["Agent Harnesses & Orchestration", "Context Engineering"],
+    "T1_secondary": ["Tools, MCP & Interop", "Computer Use & Browser Agents", "Sandboxes & Agent Platforms"],
+    "neighbors_in": ["T3", "T5"],
+    "neighbors_out": ["T2", "T8"],
+    "low_priority": ["T4", "T6", "T7"]
+  },
+  "axis_preferences": {
+    "depth_target": "advanced",
+    "format_mix": { "talk": 0.70, "workshop": 0.15, "keynote": 0.15, "panel": 0.0 },
+    "recorded_ok_to_skip": true,
+    "time_constraints": [
+      "Lunch kept free ~12:00-13:30 each day",
+      "Evenings light: keep after ~17:00 open for networking / parties / hallway track",
+      "Mornings are fine (no early-start restriction)",
+      "Attending all four days including the Workshop Day 2026-06-28"
+    ]
+  },
+  "objective_weights": { "interest": 0.42, "breadth": 0.16, "pacing": 0.30, "serendipity": 0.12 },
+  "_objective_weights_basis": "User chose 'paced' over 'packed' (pacing up, raw interest tempered), serendipity 'fit when cheap' (modest 0.12), focused interests (breadth moderate not high). Weights are the user's, derived from their choices.",
+  "hard_constraints": [
+    "Paced, not packed - protect breaks; a real break beats six scattered gaps",
+    "Keep lunch free ~12:00-13:30 each day",
+    "Keep evenings light after ~17:00",
+    "Pitch most sessions deep / advanced & hands-on",
+    "Anchor the best few main-stage keynotes (marquee + in-lane) even over a track talk",
+    "Include a couple of standout hands-on workshops, but not workshop-heavy",
+    "Attend all four days incl. the Workshop Day (Jun 28)"
+  ],
+  "forced_in": [
+    "d2-0925-alexander-embiricos-opening-keynote-topic-tbd",
+    "d2-1630-dex-horthy-harness-engineering-is-not-enough",
+    "d3-0925-tariq-shaukat-in-the-land-of-ai",
+    "d4-0900-matt-pocock-building-great-agent-skills-the"
+  ],
+  "_forced_in_basis": "These are my read of 'anchor the best few keynotes': the marquee OpenAI opening keynote + the three most in-lane keynotes (Dex Horthy on harness engineering, Tariq Shaukat on agent verification/evals, Matt Pocock on building agent skills/context engineering). User can swap any.",
+  "keynote_anchor_alternates": [
+    "d2-0900-swyx-three-years-of-ai-engineering",
+    "d4-1020-emil-eifrem-why-graphs"
+  ],
+  "serendipity_candidates": [
+    { "event_id": "d1-1700-joyce-zhang-human-connection-in-the-age", "policy": "fit_when_cheap", "tension": "17:00-18:00 falls in the evenings-light window; include only as a gentle close to Workshop Day if it doesn't fight the evening preference" },
+    { "event_id": "d4-1205-arturo-nunez-the-next-game-engine-wont", "policy": "fit_when_cheap", "tension": "12:05-12:25 overlaps the protected lunch block; include only if lunch can flex that day" }
+  ],
+  "blacked_out": [],
+  "interaction_log": [
+    { "q": "One slot, 4 real talks (T1/T4/T7/T6) - which do you walk into?", "options": ["Building agents (T1)", "Models & inference (T4)", "Enterprise & leadership (T7)", "Multimodal & media (T6)"], "choice": "Building agents (T1)", "inferred": "Center of gravity = T1; T4/T7/T6 ceilings lowered", "info_gain_note": "Broadest split to locate the dominant theme", "type": "explore" },
+    { "q": "Packed vs paced?", "options": ["Packed", "Paced", "Balanced"], "choice": "Paced", "inferred": "pacing & breadth weighted over raw-interest packing", "info_gain_note": "Sets the objective character", "type": "weights" },
+    { "q": "Which days attending?", "options": ["All four", "Session days only", "Workshops matter most", "Flexible"], "choice": "All four days", "inferred": "Schedule scope = all 4 days incl. Workshop Day", "info_gain_note": "Scopes the build", "type": "constraint" },
+    { "q": "Inside T1, which slices? (multi)", "options": ["Harnesses & orchestration", "Tools/MCP & computer-use", "Context engineering", "Sandboxes & platforms"], "choice": "Harnesses & orchestration + Context engineering", "inferred": "T1 subfocus = harnesses/orchestration + context engineering; tools/sandboxes secondary", "info_gain_note": "Splits the 83-talk core theme", "type": "exploit" },
+    { "q": "Which neighboring themes to weave in? (multi)", "options": ["Coding agents (T2)", "Evals & observability (T3)", "Retrieval & memory (T5)", "Security (T8)"], "choice": "Evals & observability (T3) + Retrieval & memory (T5)", "inferred": "T3 & T5 elevated; T2 & T8 lowered", "info_gain_note": "Places the person on the untouched neighbor themes", "type": "explore" },
+    { "q": "What altitude for most sessions?", "options": ["Deep & hands-on", "Practitioner", "Frontier/what's-next", "Strategy/decisions"], "choice": "Deep & hands-on", "inferred": "depth_target = advanced; confirms IC-builder, T7 low", "info_gain_note": "Sets technical depth", "type": "exploit" },
+    { "q": "How hands-on / workshop-heavy?", "options": ["Workshop-heavy", "A couple key labs", "Mostly talks", "You choose"], "choice": "A couple of key labs", "inferred": "format = mostly talks + 1-2 standout workshops", "info_gain_note": "Sets format mix", "type": "constraint" },
+    { "q": "OUTLIER PROBE: any off-lane wildcards spark curiosity? (multi)", "options": ["Guitar + coding agents", "Human Connection workshop", "FinOps for AI agents", "Game engine has no manual"], "choice": "Human Connection workshop + The Next Game Engine", "inferred": "Genuine serendipity appetite; a human-side + creative-systems curiosity beyond pure agent eng", "info_gain_note": "Fights selection bias; surfaced 4 outliers, 2 accepted", "type": "outlier_probe" },
+    { "q": "Hard constraints? (multi)", "options": ["Keep lunch free", "No early starts", "The marquee keynotes", "Evenings stay light"], "choice": "Keep lunch free + Evenings stay light", "inferred": "Lunch blocked ~12-1:30; evenings light after 17:00; mornings OK; keynotes not a blanket must", "info_gain_note": "Captures hard time constraints", "type": "constraint" },
+    { "q": "How hard to lean into serendipity / the 2 wildcards?", "options": ["Lock both in", "Fit when cheap", "Lean in further"], "choice": "Fit when cheap", "inferred": "serendipity modest (~0.12); wildcards soft-include, not forced", "info_gain_note": "Sets serendipity weight", "type": "weights" },
+    { "q": "Stance on the marquee keynotes?", "options": ["Anchor the best few", "Only if topical", "Skip for track depth"], "choice": "Anchor the best few", "inferred": "Include standout opening/closing + in-lane keynotes even over a track talk", "info_gain_note": "Resolves keynote inclusion", "type": "constraint" }
+  ],
+  "outlier_probes_done": 2,
+  "outliers_surfaced": 4,
+  "outliers_accepted": 2,
+  "region_tightness": 0.82,
+  "stop_reason": "region_tightness 0.82 >= 0.7, outlier floor met (2 probes), objective_weights + hard_constraints captured; user opted into deeper questioning and the picture is now stable across all 8 themes."
+}

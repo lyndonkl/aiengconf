@@ -1,0 +1,7790 @@
+{
+  "generated_on": "2026-06-27",
+  "top_k": 3,
+  "affinities": {
+    "d1-0900-laurie-voss-from-vibes-to-production-evaluating": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.756
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.725
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.688
+      }
+    ],
+    "d1-0900-zach-blumenfeld-ai-on-your-lakehouse-context": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.758
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.475
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      }
+    ],
+    "d1-0900-charlie-guo-cooking-with-codex": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.645
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.56
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.526
+      }
+    ],
+    "d1-0900-shane-wolf-the-best-sdlc-is-the": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.481
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.456
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d1-0900-javier-garza-ai-security-engineering-101": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d1-0900-ignacio-martinez-total-recall-agent-memory-and": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.83
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.686
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      }
+    ],
+    "d1-0900-duan-lightfoot-agents-that-own-their-inference": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.741
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.708
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.481
+      }
+    ],
+    "d1-0900-zain-hasan-open-source-inference-engineering-for": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.749
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.639
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.575
+      }
+    ],
+    "d1-0900-doug-guthrie-advanced-workshop-mastering-ai-observability": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.686
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      }
+    ],
+    "d1-0900-pamela-fox-get-started-with-models-in": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.56
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.512
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d1-1105-fuad-ali-how-to-use-arizes-newest": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.824
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.756
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.725
+      }
+    ],
+    "d1-1105-nyah-macklin-rag-needs-a-map-using": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.813
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      }
+    ],
+    "d1-1105-matt-brockman-how-i-learned-to-stop": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.526
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.469
+      }
+    ],
+    "d1-1105-pamela-fox-the-model-swap-workshop": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.645
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.56
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d1-1105-dhruv-nathawani-teaching-agents-to-search-building": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.647
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.643
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.58
+      }
+    ],
+    "d1-1105-ahmad-osman-local-llms-and-workstation-agents": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.835
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.683
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.612
+      }
+    ],
+    "d1-1105-nnenna-ndukwe-how-to-build-quality-gates": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      }
+    ],
+    "d1-1105-charles-frye-what-is-an-inference-engine": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.67
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d1-1105-elizabeth-fuentes-leone-agent-speedrun-idea-code-deploy": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.319
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d1-1105-gustavo-cordido-from-zero-to-deployed-on": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.56
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.481
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d1-1210-tejas-kumar-evals-in-ai-a-deep": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.756
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.681
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      }
+    ],
+    "d1-1210-nick-nisi-lifestyles-of-the-ai-native": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      }
+    ],
+    "d1-1210-harshul-jain-2-hr-deep-dive-on": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.73
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d1-1210-kent-c-dodds-build-the-right-thing-product": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      }
+    ],
+    "d1-1210-wolfram-ravenwolf-from-zero-to-leaderboard-building": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.757
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.739
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.575
+      }
+    ],
+    "d1-1210-ahmad-osman-local-llms-and-workstation-agents": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.835
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d1-1210-peter-werry-beyond-rag-build-a-relational": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d1-1210-yohan-raju-building-ai-agents-with-real": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.628
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.434
+      }
+    ],
+    "d1-1210-paige-bailey-research-to-reality-with-google": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.406
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d1-1315-ankur-duggal-the-cheat-sheet-get-evals": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d1-1315-harshul-jain-2-hr-deep-dive-on": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.73
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d1-1315-kent-c-dodds-build-the-right-thing-product": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      }
+    ],
+    "d1-1315-michael-forrester-build-a-platform-unleash-an": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.372
+      }
+    ],
+    "d1-1315-killian-carlsen-phelan-sonarqube-openai-wiring-your-team": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.512
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d1-1315-build-a-document-triage-agent": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.705
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d1-1315-filip-makraduli-turning-my-obsidian-vault-into": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.743
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.722
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d1-1315-lotte-verheyden-continuously-improving-agents-with-langfuse": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d1-1420-laurie-voss-from-vibes-to-production-evaluating": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.756
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.725
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.688
+      }
+    ],
+    "d1-1420-yoni-michael-the-data-context-layer-why": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.512
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d1-1420-daniel-han-special-topics-in-kernels-rl": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.512
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d1-1420-mark-lummus-burn-your-flags-how-paypal": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d1-1420-micah-silverman-ai-security-engineering-201": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d1-1420-louis-fran-ois-context-engineering-in-2026-compaction": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.852
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.749
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.575
+      }
+    ],
+    "d1-1420-jeff-vestal-vector-isnt-enough-hybrid-search": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.877
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.688
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.625
+      }
+    ],
+    "d1-1420-emile-baizel-build-with-perception-agents": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.712
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.622
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      }
+    ],
+    "d1-1420-zhengyao-jiang-hands-on-autoresearch-cracking-openais": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.56
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.434
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      }
+    ],
+    "d1-1420-pamela-fox-observe-optimize-and-protect-your": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.756
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.72
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.697
+      }
+    ],
+    "d1-1630-ang-li-the-autonomous-computer-full-stack": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.712
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.666
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      }
+    ],
+    "d1-1630-paul-bakaus-the-dark-arts-of-skill": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.686
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      }
+    ],
+    "d1-1630-shubhankar-srivastava-hill-climbing-skills-how-to": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.734
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.683
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.546
+      }
+    ],
+    "d1-1630-bereket-habtemeskel-agent-auth": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.576
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      }
+    ],
+    "d1-1630-will-brown-prime-intellect-forge": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.255
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.215
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d1-1630-john-craft-from-approval-loops-to-autonomous": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.269
+      }
+    ],
+    "d1-1630-joel-hooks-the-art-and-science-of": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.707
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.372
+      }
+    ],
+    "d1-1630-gagan-bhat-evolution-of-agentic-surfaces": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.319
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.273
+      }
+    ],
+    "d1-1700-joyce-zhang-human-connection-in-the-age": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.255
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.215
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d1-1800-sonar-expo-welcome-speech": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d1-1815-runway-ai-film-festival": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.68
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.576
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      }
+    ],
+    "d2-0900-swyx-three-years-of-ai-engineering": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.111
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-0905-pablo-castro-on-ai-and-knowledge": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.111
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-0925-alexander-embiricos-opening-keynote-topic-tbd": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.111
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-0945-thom-wolf-thom-wolf-keynote": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.111
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1005-zixuan-li-glm-5-2-frontier-intelligence": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.434
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.111
+      }
+    ],
+    "d2-1025-swyx-security-track-intro": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.111
+      }
+    ],
+    "d2-1045-jason-liu-getting-the-most-out-of": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.111
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1045-ryan-dahl-security-firewall-for-agents": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.697
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.661
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.434
+      }
+    ],
+    "d2-1045-joseph-nelson-the-state-of-vision": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.677
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1045-edo-liberty-pinecone-2-0": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.773
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d2-1045-priyanka-phatak-claude-managed-agents-workshop-part": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1045-manoj-nair-through-the-ai-fog-the": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.691
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d2-1045-kwindla-kramer-the-new-primitives-building-ai": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.737
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.683
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.68
+      }
+    ],
+    "d2-1045-eno-reyes-how-forward-deployed-engineering-is": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.451
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1045-ari-morcos-data-curation-for-model-training": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.633
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.28
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1045-idan-gazit-build-agents-fast-with-github": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.269
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1045-nilofer-rajpurkar-inside-the-ai-economy-what": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.686
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.543
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d2-1045-david-hsu-governance-is-the-real-bottleneck": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.543
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      }
+    ],
+    "d2-1045-dor-sasson-every-ai-company-is-accidentally": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d2-1045-dan-adler-the-enterprise-agentic-gap-when": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d2-1045-sam-parsons-how-paypal-enterprise-payments-handles": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.769
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.671
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.533
+      }
+    ],
+    "d2-1045-exa-expo-session": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.489
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1100-martin-harrysson-show-your-workflow-reimagining-ai": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.595
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1110-tereza-t-kov-rise-of-the-software-factory": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.666
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      }
+    ],
+    "d2-1110-vinoth-govindarajan-your-agent-didnt-fail-your": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d2-1110-jerry-liu-building-liteparse-the-worlds-fastest": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.677
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1110-jo-kristian-bergum-the-unreasonable-effectiveness-of-bm25": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.773
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d2-1110-priyanka-phatak-claude-managed-agents-workshop-part": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1110-lovina-dmello-your-llm-stack-is-a": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.784
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.752
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.691
+      }
+    ],
+    "d2-1110-valeria-wu-fon-speech-to-speech-model-research": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.68
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.495
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d2-1110-pauline-brunet-how-forward-deployed-engineering-is": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.451
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1110-robert-mchardy-the-messy-reality-of-scale": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.633
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.536
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.385
+      }
+    ],
+    "d2-1110-jesse-lumarie-building-the-engine-while-flying": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.303
+      }
+    ],
+    "d2-1110-ameya-bhatawdekar-your-agent-evolved-your-evals": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.622
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      }
+    ],
+    "d2-1110-owen-halpert-give-your-coding-agents-the": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.58
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d2-1110-will-lyon-actionable-knowledge-for-agents-with": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1110-kimchi-expo-session": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.489
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1110-aditya-khandelwal-agents-codebases-and-teams-what": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.269
+      }
+    ],
+    "d2-1140-charlie-holtz-orchestras-not-factories": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.111
+      }
+    ],
+    "d2-1140-benjamin-guo-everyone-gets-a-software-company": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1140-merve-noyan-skill-issue-stop-deploying-vision": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.677
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.551
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.481
+      }
+    ],
+    "d2-1140-will-bryk-the-search-engine-for-the": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.773
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.706
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      }
+    ],
+    "d2-1140-priyanka-phatak-claude-managed-agents-workshop-part": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1140-moritz-johner-we-gave-an-agent-production": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.691
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      }
+    ],
+    "d2-1140-charlie-guo-voice-agents-can-just-do": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.68
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.434
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d2-1140-vasuman-moza-ai-tools-for-forward-deployed": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.451
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1140-rayan-garg-theta-software": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.633
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.28
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1140-pamela-fox-use-copilot-across-cli-dev": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.385
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.111
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1140-uday-kiran-medisetty-the-ai-native-software-factory": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.671
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.591
+      }
+    ],
+    "d2-1140-itamar-friedman-the-last-human-code-review": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.269
+      }
+    ],
+    "d2-1140-your-stack-has-a-latency": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.706
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.184
+      }
+    ],
+    "d2-1140-jess-wang-agentic-vs-vector-search-an": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.756
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.59
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.58
+      }
+    ],
+    "d2-1140-gabriel-martinez-agents-dont-have-coworkers-they": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d2-1140-andreea-ple-ea-would-your-ai-agent-get": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.757
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.726
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.319
+      }
+    ],
+    "d2-1205-daksh-gupta-what-we-learned-by-analyzing": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.111
+      }
+    ],
+    "d2-1205-shu-fang-tethered-our-agents-are-us": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.543
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1205-aditya-gautam-modality-misalignment-and-originality-attribution": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.773
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.757
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.645
+      }
+    ],
+    "d2-1205-liad-yosef-rebuilding-the-web-for-agents": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.773
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.628
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      }
+    ],
+    "d2-1205-priyanka-phatak-claude-managed-agents-workshop-part": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1205-ezra-tanzer-agentic-development-security": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.691
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d2-1205-neil-zeghidour-your-voice-agent-is-just": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.481
+      }
+    ],
+    "d2-1205-jia-wu-how-forward-deployed-engineering-is": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.451
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1205-david-brumley-bugcrowd-posttraining-talk": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.713
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1205-will-bond-scaling-code-quality-building-ureview": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.812
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.704
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      }
+    ],
+    "d2-1205-hursh-agrawal-prototyping-as-leadership-how-a": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      }
+    ],
+    "d2-1205-dat-ngo-your-agent-is-lying-to": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.705
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.69
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      }
+    ],
+    "d2-1205-hossein-niazmandi-why-building-building-agent-quality": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.72
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.551
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      }
+    ],
+    "d2-1205-simran-arora-can-llms-write-fast-multi": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.789
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d2-1205-rafal-wilinski-self-improving-agents-that-teach": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.708
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.645
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      }
+    ],
+    "d2-1330-kevin-hou-defying-antigravity": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.111
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1330-jean-denis-greze-agents-next-frontier-agent-to": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.741
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.526
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d2-1330-reducto-from-ingestion-to-agents-how": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.814
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.677
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.602
+      }
+    ],
+    "d2-1330-benjamin-clavi-if-we-want-them-to": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.773
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.745
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d2-1330-neil-zeghidour-everybody-gets-a-digital-clone": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.495
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d2-1330-eugene-yan-using-llms-to-secure-source": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.691
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.434
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1330-paula-dozsa-tolan-voice-first-ai-companion": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.68
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1330-tba": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.753
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1330-natalie-meurer-the-dirty-secret-of-forward": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d2-1330-varun-singh-the-base-model-is-dead": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.726
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.618
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.385
+      }
+    ],
+    "d2-1330-salil-subbakrishna-modernize-ci-cd-using-agent": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.481
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.317
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      }
+    ],
+    "d2-1330-andrew-orobator-spin-at-the-gate-until": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.512
+      }
+    ],
+    "d2-1330-arek-borucki-serving-2-million-models-without": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.636
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.475
+      }
+    ],
+    "d2-1330-vlad-luzin-every-agent-everywhere-all-at": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.269
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1330-deepmind-expo-session-1": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.489
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1330-greg-pstrucha-stop-prompting": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.269
+      }
+    ],
+    "d2-1355-zach-lloyd-self-improving-software-factories-the": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.596
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.57
+      }
+    ],
+    "d2-1355-lance-martin-claude-for-long-horizon-tasks": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1355-andrew-dai-the-best-models-still-reason": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.801
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.683
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.512
+      }
+    ],
+    "d2-1355-hiral-shah-your-agreements-are-a-database": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.888
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.688
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.625
+      }
+    ],
+    "d2-1355-neil-zeghidour-everybody-gets-a-digital-clone": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.495
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d2-1355-ethan-jung-min-dual-surface-architecture-serving-humans": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.8
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.704
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.691
+      }
+    ],
+    "d2-1355-venky-b-5-voice-agent-failure-modes": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.68
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.59
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.475
+      }
+    ],
+    "d2-1355-tba": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.753
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1355-sunny-rekhi-how-forward-deployed-engineering-is": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.451
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1355-thais-castello-branco-ending-ai-slop": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.633
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.28
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1355-nachiket-paranjape-ai-evals-platform-for-cross": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.587
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      }
+    ],
+    "d2-1355-sarthak-aggarwal-it-admin-for-the-ai": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.465
+      }
+    ],
+    "d2-1355-jim-clark-who-approved-that-mcp-server": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.303
+      }
+    ],
+    "d2-1355-fuad-ali-voice-agents-are-mostly-invisible": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.686
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.495
+      }
+    ],
+    "d2-1355-greptile-expo-session": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.489
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1355-derek-meegan-deploying-browser-agents-at-scale": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.639
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.622
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.546
+      }
+    ],
+    "d2-1425-jevon-mcdonald-river-shopifys-slack-native-ai": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.269
+      }
+    ],
+    "d2-1425-karan-vaidya-tool-execution-layer-for-agents": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.715
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.326
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1425-cody-menefee-youre-not-thinking-big-enough": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.722
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.686
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.677
+      }
+    ],
+    "d2-1425-simon-eskildsen-how-to-connect-ai-to": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.773
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.697
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.636
+      }
+    ],
+    "d2-1425-neil-zeghidour-everybody-gets-a-digital-clone": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.495
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d2-1425-steve-yegge-agentic-security-permissions-provenance-and": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.757
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.575
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d2-1425-sumanyu-sharma-i-monitored-crime-audio-voice": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.702
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.68
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.578
+      }
+    ],
+    "d2-1425-tba": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.753
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1425-leo-mehr-how-forward-deployed-engineering-is": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.451
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1425-ross-taylor-scaling-to-long-horizons-algorithms": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.761
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.633
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.184
+      }
+    ],
+    "d2-1425-maria-bledsoe-using-ai-tools-to-teach": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.269
+      }
+    ],
+    "d2-1425-kanish-manuja-productionizing-llm-gateways-architecture-tradeoffs": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.757
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.721
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      }
+    ],
+    "d2-1425-kieran-klaassen-the-era-of-compound-engineering": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.587
+      }
+    ],
+    "d2-1425-marina-petzel-beyond-golden-signals-monitoring-in": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.495
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.385
+      }
+    ],
+    "d2-1425-idan-gazit-build-agents-fast-with-github": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.269
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1425-buildkite-expo-1": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.489
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1425-continuous-engineering-software-development-for": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.269
+      }
+    ],
+    "d2-1450-sarah-sachs-notions-token-town": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.111
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1450-tanmai-gopal-your-company-brain-will-leak": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.683
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.586
+      }
+    ],
+    "d2-1450-armen-aghajanyan-perceptron-mk1-perceptron-inc": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.677
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1450-maximilian-david-rumpf-where-rl-will-take-search": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.773
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1450-jason-liu-setting-yourself-up-for-success": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.584
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.576
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      }
+    ],
+    "d2-1450-kim-maida-its-10pm-do-you-know": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.691
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.664
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.645
+      }
+    ],
+    "d2-1450-bohan-li-realtime-voice-agents-with-frontier": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.795
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.68
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      }
+    ],
+    "d2-1450-nick-heiner-when-will-the-benchmaxxing-plague": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.451
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d2-1450-clare-liguori-from-ai-assisted-to-ai": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d2-1450-niels-rogge-how-i-automate-my-own": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.465
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      }
+    ],
+    "d2-1450-varun-krovvidi-6-pillars-of-an-agentic": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.319
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d2-1450-video-discovery-for-agentic-world": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.762
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.722
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.72
+      }
+    ],
+    "d2-1450-baseten-expo-session": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.489
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1450-self-driving-production-ai-wrote": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.269
+      }
+    ],
+    "d2-1520-vaibhav-gupta-fighting-slop-with-slop": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.56
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      }
+    ],
+    "d2-1520-sam-bhagwat-every-harness-will-become-a": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.697
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.487
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d2-1520-krishna-prasad-srinivasan-from-scratch-to-sota-training": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.841
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.708
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.677
+      }
+    ],
+    "d2-1520-yuval-belfer-stop-chunking-like-its-2022": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.773
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.434
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d2-1520-jason-liu-setting-yourself-up-for-success": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.255
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.215
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1520-aaron-stanley-ais-jurassic-park-period": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.691
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.58
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.512
+      }
+    ],
+    "d2-1520-midam-kim-my-name-is-my-name": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.68
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.647
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.46
+      }
+    ],
+    "d2-1520-vinoo-ganesh-how-forward-deployed-engineering-is": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.451
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1520-nicolai-ouporov-building-worlds-for-models": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.672
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.633
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      }
+    ],
+    "d2-1520-harald-kirschner-surviving-your-own-velocity-how": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      }
+    ],
+    "d2-1520-eyal-blum-how-to-get-your-org": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.269
+      }
+    ],
+    "d2-1520-dan-bjornn-your-fine-tuned-model-is": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.743
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.481
+      }
+    ],
+    "d2-1520-anders-swanson-from-context-to-memory-your": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.841
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.576
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.575
+      }
+    ],
+    "d2-1520-bogdan-gaza-running-a-20t-token-data": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.831
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.778
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.647
+      }
+    ],
+    "d2-1520-leo-platzer-from-raw-documents-to-retrievable": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.58
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      }
+    ],
+    "d2-1545-kyle-mistele-the-software-factory-survivors-guide": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.668
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.269
+      }
+    ],
+    "d2-1545-kenton-varda-gadgets-personal-app-vibe-coding": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.697
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.502
+      }
+    ],
+    "d2-1545-jason-liu-setting-yourself-up-for-success": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.255
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.215
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1545-ethan-sutin-secure-cloud-compute": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.691
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1545-amit-desai-reduce-the-ouch-smarter-behavior": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.802
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d2-1545-mahesh-sathiamoorthy-tools-for-data-curation-and": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.738
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.712
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      }
+    ],
+    "d2-1545-oscar-mullin-ai-transforming-18k-engineers-40k": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.495
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      }
+    ],
+    "d2-1545-tushar-jain-unlock-agent-autonomy-the-runtime": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.697
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      }
+    ],
+    "d2-1545-cam-kennedy-how-we-built-the-airbyte": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.628
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      }
+    ],
+    "d2-1545-abhi-arya-from-chatbots-to-agents-how": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.481
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.317
+      }
+    ],
+    "d2-1545-charlie-dickens-towards-reliable-financial-agents-how": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.828
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.475
+      }
+    ],
+    "d2-1545-em-shreve-ai-enablement-at-automattic-how": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.273
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.184
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d2-1630-dex-horthy-harness-engineering-is-not-enough": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.111
+      }
+    ],
+    "d2-1650-erik-meijer-in-code-they-act-in": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.475
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.433
+      }
+    ],
+    "d2-1710-lee-robinson-the-future-of-cursor": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.111
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d3-0900-barr-yaron-2026-ai-engineering-survey": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-0905-thariq-shihipar-seeing-like-an-agent": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-0925-tariq-shaukat-in-the-land-of-ai": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.372
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.273
+      }
+    ],
+    "d3-0945-antje-barth-perception-agents": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.56
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      }
+    ],
+    "d3-1005-benoit-schillings-research-to-reality-with-google": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-1025-laurie-voss-evals-track-intro": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-1045-richard-socher-first-steps-toward-automated-ai": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-1045-adam-azzam-dont-build-agents-build-environments": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.697
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.469
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d3-1045-christopher-manning-building-the-simulation-infrastructure-for": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.801
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      }
+    ],
+    "d3-1045-parth-asawa-beyond-static-intelligence-evaluating-continual": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.67
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.434
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d3-1045-thor-schaeff-build-realtime-multimodal-agents-with": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.721
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-1045-lukas-petersson-vending-bench-long-horizon-agent": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-1045-geoffrey-litt-understanding-is-the-new-bottleneck": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.269
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1045-dhruv-batra-computer-use-models-will-agentify": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.798
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.781
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.683
+      }
+    ],
+    "d3-1045-averi-kitsch-build-time-vs-run-time": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.789
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.704
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.639
+      }
+    ],
+    "d3-1045-diogo-almeida-whats-next-after-rlhf": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.764
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1045-tina-manghnani-from-framework-to-runtime-running": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.319
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.273
+      }
+    ],
+    "d3-1045-varun-shenoy-vertical-superintelligence-making-ai-work": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.625
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      }
+    ],
+    "d3-1045-alex-volkov-the-z-l-continuum-should": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.451
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d3-1045-circle-expo-session": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.489
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1045-wallon-walusayi-ai-engineering-governance-2026-trends": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.406
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1045-gabriel-spencer-harper-why-ai-didnt-actually-make": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.553
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.469
+      }
+    ],
+    "d3-1045-sonar-redesigning-how-software-gets-built": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.481
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.317
+      }
+    ],
+    "d3-1100-martin-harrysson-tokenomics-from-ai-spend-to": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.273
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.184
+      }
+    ],
+    "d3-1110-han-xiao-autoresearch-for-dense-retrieval-test": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.786
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.636
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.61
+      }
+    ],
+    "d3-1110-shashank-goyal-building-a-unified-interface-for": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.659
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.533
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.469
+      }
+    ],
+    "d3-1110-christopher-manning-building-the-simulation-infrastructure-for": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.801
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      }
+    ],
+    "d3-1110-ronak-malde-scaling-up-continual-learning": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.764
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.533
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      }
+    ],
+    "d3-1110-thor-schaeff-build-realtime-multimodal-agents-with": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.721
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-1110-jason-lopatecki-from-alert-to-pr-building": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.751
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.575
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.469
+      }
+    ],
+    "d3-1110-max-drake-the-spatial-harness-bringing-agents": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.659
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.645
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1110-pierluca-doro-computer-use-at-the-edge": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.77
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.669
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.636
+      }
+    ],
+    "d3-1110-kevin-madura-its-tokens-all-the-way": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.716
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.639
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.533
+      }
+    ],
+    "d3-1110-sean-cai-state-of-data": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.713
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1110-andrew-garvin-how-to-avoid-disaster-when": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.697
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.575
+      }
+    ],
+    "d3-1110-vlad-luzin-is-orchestration-the-future": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.545
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.319
+      }
+    ],
+    "d3-1110-viren-baraiya-harnessing-agents-the-durable-runtime": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.645
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.636
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.526
+      }
+    ],
+    "d3-1110-justin-reock-ai-assisted-engineering-5-trends": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1110-nixon-dinh-the-death-of-keyword-search": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.722
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.639
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.622
+      }
+    ],
+    "d3-1110-matt-lawler-fde-playbook-build-an-ai": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.708
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.481
+      }
+    ],
+    "d3-1140-stefania-druga-memory-harnesses-for-long-running": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.812
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.556
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.469
+      }
+    ],
+    "d3-1140-ivan-burazin-kubernetes-is-not-your-sandbox": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.685
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.469
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      }
+    ],
+    "d3-1140-jason-ma-commercial-grade-robots-for-real": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.734
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1140-jack-morris-scaling-compute-on-context": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.67
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.273
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.184
+      }
+    ],
+    "d3-1140-thor-schaeff-build-realtime-multimodal-agents-with": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.721
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-1140-soumya-gupta-building-closed-loop-evals-for": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.713
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.56
+      }
+    ],
+    "d3-1140-jonathan-gordon-the-design-code-roundtrip-that": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.611
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1140-paul-klein-iv-bringing-agents-onto-the-world": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.767
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.738
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      }
+    ],
+    "d3-1140-ajay-prakash-500-skills-zero-fine-tuning": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.789
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.639
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.526
+      }
+    ],
+    "d3-1140-uri-rolls-arithmetic-fka-operating-intelligence": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.633
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.58
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.28
+      }
+    ],
+    "d3-1140-arun-sekhar-openai-anthropic-or-agent-frameworks": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.434
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-1140-varun-pant-your-code-has-bugs-lean4": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.475
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.385
+      }
+    ],
+    "d3-1140-ankit-jain-how-to-kill-the-code": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.451
+      }
+    ],
+    "d3-1140-fault-tolerant-training-at-scale": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.587
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      }
+    ],
+    "d3-1140-peter-werry-how-to-generate-mergeable-code": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.737
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.512
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.487
+      }
+    ],
+    "d3-1140-jake-broekhuizen-the-next-run-should-be": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-1140-ai-agents-dont-read-your": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.575
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.319
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-1205-elie-bakouch-the-era-of-auto-research": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.543
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d3-1205-samuel-colvin-your-agent-needs-a-sandbox": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.766
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.575
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.487
+      }
+    ],
+    "d3-1205-sandhya-subramani-tell-the-robot-what-you": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.802
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.659
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d3-1205-yu-su-intelligence-continual-learning-expertise": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.773
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.434
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d3-1205-thor-schaeff-build-realtime-multimodal-agents-with": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.721
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-1205-rustem-feyzkhanov-from-agent-traces-to-agent": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.712
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.59
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      }
+    ],
+    "d3-1205-maximillian-piras-mousepower-agents-that-cant-be": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.512
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d3-1205-corey-gallon-the-dark-arts-of-web": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.796
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.669
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.487
+      }
+    ],
+    "d3-1205-brandon-waselnuk-your-agents-lack-context-heres": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.749
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.697
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      }
+    ],
+    "d3-1205-raymond-feng-bring-your-own-harness-flexible": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.713
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1205-imad-touil-ai-native-organisations-runs-on": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1205-laurie-voss-the-death-of-the-code": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.683
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.622
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      }
+    ],
+    "d3-1205-dan-farrelly-your-agent-architecture-has-a": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.628
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      }
+    ],
+    "d3-1205-rishab-kumar-from-stateless-to-stateful-orchestrating": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.659
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      }
+    ],
+    "d3-1205-james-zou-harnessing-collective-agent-intelligence-for": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.677
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.575
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.469
+      }
+    ],
+    "d3-1205-anant-srivastava-prompt-memory-weights-the-architecture": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.848
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.777
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.72
+      }
+    ],
+    "d3-1230-martin-harrysson-tokenomics-from-ai-spend-to": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1330-tim-sweeney-closing-the-loop-an-autonomous": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.56
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.515
+      }
+    ],
+    "d3-1330-abhishek-bhardwaj-from-fork-to-fleet-designing": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.685
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.469
+      }
+    ],
+    "d3-1330-unitree-unitree-tbd": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.734
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1330-sara-hooker-adaption-labs-gradient-free-continual": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.67
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1330-john-lindquist-the-agentic-power-users-playbook": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.56
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.319
+      }
+    ],
+    "d3-1330-chris-souza-model-whisperers-how-evals-and": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.773
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.576
+      }
+    ],
+    "d3-1330-paul-bakaus-design-at-the-speed-of": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.68
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.667
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      }
+    ],
+    "d3-1330-gaurav-mishra-from-rl-to-irl": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.712
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.669
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-1330-laurie-voss-how-long-can-your-skills": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.697
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.639
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.536
+      }
+    ],
+    "d3-1330-will-brown-prime-rl-async-decentralized-rl": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.784
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.319
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d3-1330-tina-manghnani-design-multi-agent-systems-that": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.53
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.469
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d3-1330-ben-kus-the-half-life-of-agent": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.58
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d3-1330-nicholas-arcolano-tokenmaxxing-is-the-new-lines": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.693
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.475
+      }
+    ],
+    "d3-1330-harald-kirschner-surviving-your-own-velocity-how": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      }
+    ],
+    "d3-1330-deepmind-expo-session-3": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.489
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1330-daytona-expo-1": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.489
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1355-zhengyao-jiang-an-ai-agent-became-the": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.434
+      }
+    ],
+    "d3-1355-abhishek-bhardwaj-from-fork-to-fleet-designing": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.685
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.469
+      }
+    ],
+    "d3-1355-deepak-pathak-frontier-robotics-research": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.734
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1355-vivek-trivedy-improving-agents-is-a-data": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.67
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.67
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.591
+      }
+    ],
+    "d3-1355-john-lindquist-the-agentic-power-users-playbook": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.56
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.319
+      }
+    ],
+    "d3-1355-maor-bril-evaling-video-slop": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.797
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.705
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.56
+      }
+    ],
+    "d3-1355-thais-castello-branco-training-taste": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.111
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1355-bright-data-speaker-the-rise-of-caas-context": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.767
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.712
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      }
+    ],
+    "d3-1355-prukalpa-sankar-cut-through-the-context-hype": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.685
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.659
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.639
+      }
+    ],
+    "d3-1355-joseph-wang-emulated-the-data-for-fully": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.741
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.319
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d3-1355-rachna-srivastava-guardians-of-the-state-how": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.83
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.737
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.647
+      }
+    ],
+    "d3-1355-matthew-jewkes-superhuman-performance-is-a-shape": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.749
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.451
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d3-1355-thorsten-hans-edge-native-ai-building-ultra": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.657
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.575
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.326
+      }
+    ],
+    "d3-1355-gil-feig-why-your-company-needs-a": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.58
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.575
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d3-1355-suraj-gupta-warp-building-self-improving-agent": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.707
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      }
+    ],
+    "d3-1355-natively-multimodal-from-step-zero": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.721
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1425-lakshya-agrawal-self-improvement-of-context-harness": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.776
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.722
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      }
+    ],
+    "d3-1425-kevin-orellana-1-000-agent-tasks-in": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.685
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.639
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.533
+      }
+    ],
+    "d3-1425-juraj-kabzan-from-manual-drones-to-autonomous": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.734
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.481
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.456
+      }
+    ],
+    "d3-1425-samuel-denton-distillation-and-continual-learning-for": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.67
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1425-john-lindquist-the-agentic-power-users-playbook": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.56
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.319
+      }
+    ],
+    "d3-1425-mihnea-munteanu-dont-summarize-sample-how-youtube": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.828
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.721
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      }
+    ],
+    "d3-1425-eve-bouffard-imagination-engineering": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.111
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1425-francesco-bonacci-computer-use-2-0-agents": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.729
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.669
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.587
+      }
+    ],
+    "d3-1425-liad-yosef-mcp-apps-extending-the-frontier": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.784
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.639
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.56
+      }
+    ],
+    "d3-1425-kenny-workman-latchbio": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.741
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.636
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.184
+      }
+    ],
+    "d3-1425-marco-casalaina-power-agents-with-microsoft-iq": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.269
+      }
+    ],
+    "d3-1425-mingsheng-hong-from-tokenmaxxing-to-trusted-throughput": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.575
+      }
+    ],
+    "d3-1425-keiji-kanazawa-i-let-agents-refactor-my": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.451
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d3-1425-ronak-chokshi-power-agents-with-microsoft-iq": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.269
+      }
+    ],
+    "d3-1425-kamalakannan-nandagopal-beyond-code-generation-api-context": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.636
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d3-1425-jesse-hall-latency-is-a-budget-humanlike": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.495
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d3-1425-lightrun-expo-session": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.489
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1450-tejas-bhakta-autoresearch-for-kernels": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.587
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.563
+      }
+    ],
+    "d3-1450-adi-singh-the-next-trillion-users-of": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.697
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.685
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      }
+    ],
+    "d3-1450-cormac-brick-why-large-tiny-lms-agents": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.734
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.551
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.481
+      }
+    ],
+    "d3-1450-ben-hylak-designing-agents-the-floor-is": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.67
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.495
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d3-1450-brian-douglas-dont-write-skills-train-models": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.862
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.766
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.53
+      }
+    ],
+    "d3-1450-akele-reed-evals-driven-development-engineering-a": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.751
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.683
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      }
+    ],
+    "d3-1450-hassan-el-mghari-the-missing-layer-design-taste": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.659
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.645
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.487
+      }
+    ],
+    "d3-1450-patricija-emaityt-how-web-data-infrastructure-powers": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.71
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.669
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.273
+      }
+    ],
+    "d3-1450-dustin-mihalik-mcp-apps-give-the-model": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.772
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.639
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.303
+      }
+    ],
+    "d3-1450-olive-song-agents-at-scale-inside-minimaxs": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.83
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.708
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d3-1450-roberto-milev-agents-are-where-microservices-were": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.771
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.751
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.591
+      }
+    ],
+    "d3-1450-tom-s-hernando-intelligent-model-routing-frontier-performance": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.685
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.68
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.469
+      }
+    ],
+    "d3-1450-alex-campos-inference-performance-as-a-competitive": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.784
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.708
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.481
+      }
+    ],
+    "d3-1450-garrett-galow-building-an-agent-harness-for": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.602
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.481
+      }
+    ],
+    "d3-1450-dylan-couzon-the-frontier-is-coming-home": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.83
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.656
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d3-1450-eli-cohen-continuous-offensive-security-the-only": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-1520-roland-gavrilescu-autoresearch-in-the-wild": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-1520-robert-brennan-sandboxes-arent-optional-runtime-isolation": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.773
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.697
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      }
+    ],
+    "d3-1520-amit-navindgi-from-self-driving-monorepo-to": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.734
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.671
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.526
+      }
+    ],
+    "d3-1520-shlok-khemani-lessons-from-studying-every-memory": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.67
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      }
+    ],
+    "d3-1520-brian-douglas-dont-write-skills-train-models": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.406
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.406
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1520-ishan-anand-will-ai-predict-people-like": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.708
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      }
+    ],
+    "d3-1520-jeremiah-lowin-generative-ui-in-python": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.659
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.645
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.56
+      }
+    ],
+    "d3-1520-cornelia-davis-mcp-tasks-async-why-the": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.794
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.639
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.326
+      }
+    ],
+    "d3-1520-ali-khial-benchmarks-the-good-the-bad": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.741
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.622
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      }
+    ],
+    "d3-1520-ashu-joshi-deploy-agents-to-users-in": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-1520-carlos-sanchez-agentic-sites-building-hyper-personalized": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.823
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.645
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      }
+    ],
+    "d3-1520-david-corbitt-inference-is-the-new-training": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.797
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.757
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.639
+      }
+    ],
+    "d3-1520-the-self-improving-oss-agent": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.631
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.622
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.319
+      }
+    ],
+    "d3-1520-pranjal-jain-runpod-expo-session": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.489
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1520-morgan-willis-the-infinite-context-window-is": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.826
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.67
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.575
+      }
+    ],
+    "d3-1520-vibe-code-safely-introducing-gadgets": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.385
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.111
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1545-erina-karati-autoresearch-in-a-multi-agent": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.785
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.722
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.68
+      }
+    ],
+    "d3-1545-jonathan-kelley-building-ambitious-software": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.659
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.469
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.273
+      }
+    ],
+    "d3-1545-cyrus-clarke-i-gave-an-ai-a": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.801
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.551
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      }
+    ],
+    "d3-1545-ben-holmes-llm-knowledge-bases-a-practical": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.773
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.434
+      }
+    ],
+    "d3-1545-brian-douglas-dont-write-skills-train-models": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.406
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.406
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1545-philipp-schmid-dont-ship-skills-without-evals": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-1545-vincent-wendy-let-my-people-code": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.111
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1545-alex-hancock-the-universal-remote-control-for": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.784
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.639
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.326
+      }
+    ],
+    "d3-1545-rania-khalaf-the-chief-ai-officer-a": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.451
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      }
+    ],
+    "d3-1545-justin-reock-the-state-of-ai-in": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.643
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      }
+    ],
+    "d3-1545-abdul-dakkak-modular-taming-the-ai-hardware": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.784
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.747
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.708
+      }
+    ],
+    "d3-1545-dominik-kundel-codex-behind-the-harness": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.556
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.487
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.469
+      }
+    ],
+    "d3-1545-jetashree-ravi-stop-renting-intelligence-the-train": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.817
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d3-1545-tarun-sunkaraneni-ray-actors-vision-tokens-and": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.812
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.647
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.56
+      }
+    ],
+    "d3-1630-addy-osmani-closing-keynote": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-1650-george-cameron-trends-in-ai": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d3-1710-anastasios-n-angelopoulos-closing-keynote-tbd": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d4-0900-matt-pocock-building-great-agent-skills-the": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.269
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d4-0920-john-ousterhout-tcp-and-rdma-are-killing": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.576
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.495
+      }
+    ],
+    "d4-0940-maxime-rivest-the-unreasonable-effectiveness-of-separating": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.722
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.686
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.563
+      }
+    ],
+    "d4-1000-mike-krieger-how-tag-changed-labs": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.563
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.273
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d4-1020-emil-eifrem-why-graphs": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.719
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1045-katelyn-lesse-tokens-should-have-jobs": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.563
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.273
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d4-1045-nidhi-kaushik-vyas-designing-multimodal-collaborative-agents-for": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.722
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.722
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.56
+      }
+    ],
+    "d4-1045-brendan-rappazzo-alphalab-autonomous-multi-agent-research": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.737
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.688
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.622
+      }
+    ],
+    "d4-1045-nader-khalil-local-ai-state-of-the": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.787
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1045-stephen-chin-crabrag-why-automated-assistants-need": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.864
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d4-1045-everett-berry-gtm-engineering-the-technical-bits": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.736
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1045-chaitanya-asawa-from-ambient-documentation-to-clinical": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.719
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.67
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d4-1045-serena-ge-deepswe-expert-code-datasets": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.622
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.543
+      }
+    ],
+    "d4-1045-nishant-gupta-operating-distributed-inference-systems-at": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.763
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.639
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.591
+      }
+    ],
+    "d4-1045-pamela-fox-diagnosing-agent-failures-in-production": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      }
+    ],
+    "d4-1045-jennifer-lee-building-safe-payment-infrastructure-for": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.789
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.732
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.326
+      }
+    ],
+    "d4-1045-safia-abdalla-the-agent-behind-the-curtain": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.68
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.545
+      }
+    ],
+    "d4-1045-wallon-walusayi-ai-engineering-governance-2026-trends": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.406
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1045-willem-pienaar-your-agent-cant-tell-if": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.495
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d4-1045-ryan-cooke-no-thats-not-a-software": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.575
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.469
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      }
+    ],
+    "d4-1045-vector-isnt-enough-hybrid-search": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.83
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.625
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      }
+    ],
+    "d4-1100-martin-harrysson-the-agentic-product-development-organization": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.595
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d4-1110-nikita-kothari-mcps-clis-and-skills-choosing": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.725
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.659
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      }
+    ],
+    "d4-1110-james-russo-html-is-all-agents-need": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.809
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.645
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      }
+    ],
+    "d4-1110-harshal-bhangale-why-your-ai-agent-needs": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.789
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.543
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d4-1110-udi-menkes-why-off-the-shelf-ai": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.705
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.636
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.385
+      }
+    ],
+    "d4-1110-local-ai-state-of-the": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.787
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1110-yohei-nakajima-active-graph-agent-runtime-babyagi": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.79
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d4-1110-aliisa-rosenthal-reverse-engineering-the-ai-buyer": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.794
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1110-rashi-agrawal-guardrails-first-engineering-member-facing": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.749
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.69
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.645
+      }
+    ],
+    "d4-1110-frank-coyle-anthropics-cca-exam-as-a": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.799
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.659
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.639
+      }
+    ],
+    "d4-1110-qianru-lao-routing-llm-inference-in-production": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.783
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1110-chang-liu-tracing-and-debugging-agents-across": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d4-1110-dmitry-buykin-tribal-dungeons-of-global-shipping": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.612
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.552
+      }
+    ],
+    "d4-1110-tisha-chawla-finops-for-ai-agents-who": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.775
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.771
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.702
+      }
+    ],
+    "d4-1110-brandon-waselnuk-beyond-rag-see-a-relational": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.487
+      }
+    ],
+    "d4-1110-keycard-ai-expo-1": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.255
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.215
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1110-michael-patterson-the-lethal-trifecta-is-already": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.645
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.526
+      }
+    ],
+    "d4-1110-matt-gibiec-your-ai-agent-has-no": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      }
+    ],
+    "d4-1140-michael-grinich-auth-for-agents-unblock-autonomous": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.543
+      }
+    ],
+    "d4-1140-ekaterina-deyneka-building-an-agentic-video-editor": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.847
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.481
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.456
+      }
+    ],
+    "d4-1140-anil-nadiminti-when-ai-agents-pay-and": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.806
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d4-1140-divakar-kumar-lets-integrate-ai-agents-in": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.705
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      }
+    ],
+    "d4-1140-local-ai-in-industry": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.787
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1140-mike-phipps-your-moat-is-your-data": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.798
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.72
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.645
+      }
+    ],
+    "d4-1140-flora-liu-ai-in-gtm-at-notion": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.736
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1140-jared-joselowitz-shipping-ai-to-a-million": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.839
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.625
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      }
+    ],
+    "d4-1140-manish-kapur-guide-verify-solve-the-engineering": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.667
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      }
+    ],
+    "d4-1140-ashok-chandrasekar-are-llm-performance-benchmarks-reliable": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.82
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.686
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      }
+    ],
+    "d4-1140-ross-wollman-benchmarking-vs-code-with-vsc": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.645
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.526
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.495
+      }
+    ],
+    "d4-1140-daniel-kim-all-the-things-we-have": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.74
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d4-1140-khaled-alashmouny-what-if-your-chip-design": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.747
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.692
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      }
+    ],
+    "d4-1140-miguel-gonz-lez-the-art-of-building-verifiers": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.632
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.622
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.546
+      }
+    ],
+    "d4-1140-sheilah-kirui-seeing-the-plumbing-profiling-vllm": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.737
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.721
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.668
+      }
+    ],
+    "d4-1140-kwindla-kramer-voice-is-the-universal-interface": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.686
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.576
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      }
+    ],
+    "d4-1140-jeff-ng-building-agents-is-trivial-now": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.269
+      }
+    ],
+    "d4-1205-mike-chambers-harness-engineering-building-the-production": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.685
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      }
+    ],
+    "d4-1205-arturo-nunez-the-next-game-engine-wont": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.809
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.434
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      }
+    ],
+    "d4-1205-jan-curn-x402-isnt-good-yet": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.815
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d4-1205-vinoo-ganesh-how-kepler-built-verifiable-ai": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.705
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.273
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.184
+      }
+    ],
+    "d4-1205-local-ai-in-industry": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.787
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1205-omri-bruchim-from-systems-of-record-to": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.833
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.625
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.456
+      }
+    ],
+    "d4-1205-arman-vaziri-the-building-blocks-of-gtm": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.736
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.273
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.184
+      }
+    ],
+    "d4-1205-vivek-muppalla-200-million-patient-interactions-later": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.749
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.721
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.686
+      }
+    ],
+    "d4-1205-denys-linkov-benchmarking-coding-agents-on-new": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.543
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d4-1205-rita-zhang-vertical-mobility-building-an-ai": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.787
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.639
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.481
+      }
+    ],
+    "d4-1205-george-hu-stop-model-shopping-why-ownership": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.787
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.708
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.63
+      }
+    ],
+    "d4-1205-archana-kamath-preferences-benchmarks-model-routing-for": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.643
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      }
+    ],
+    "d4-1205-giedrius-steimantas-the-missing-layer-in-agentic": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.58
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.53
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.469
+      }
+    ],
+    "d4-1205-ali-adl-tabatabai-while-you-were-generating-the": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.765
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.647
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      }
+    ],
+    "d4-1205-ben-dicken-move-fast-and-dont-break": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.526
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.469
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d4-1205-sandhya-subramani-agents-that-forge-their-own": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d4-1330-brendan-rappazzo-loophole-adversarial-agents-to-stress": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.57
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.563
+      }
+    ],
+    "d4-1330-todd-fisher-while-my-guitar-gently-speaks": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.81
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.385
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.111
+      }
+    ],
+    "d4-1330-rodrigo-coelho-agent-spending-without-controls-the": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.828
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.647
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.636
+      }
+    ],
+    "d4-1330-local-ai-best-models": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.787
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1330-ritvik-pandya-ai-learned-execution-graphs-for": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.79
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.704
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.683
+      }
+    ],
+    "d4-1330-alex-bauer-how-juries-and-librarians-can": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.736
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1330-clay-cockrell-al-is-becoming-the-worlds": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.784
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      }
+    ],
+    "d4-1330-dominik-kundel-building-on-the-codex-harness": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.543
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1330-philip-kiely-whats-new-in-inference-engineering": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.783
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1330-chang-liu-evaluating-and-optimizing-ai-agents": [
+      {
+        "theme_id": "T3",
+        "affinity": 0.686
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.512
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      }
+    ],
+    "d4-1330-josh-leavitt-from-zero-to-ai-native": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.273
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.184
+      }
+    ],
+    "d4-1330-patrick-debois-coding-agents-dont-scale-themselves": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.764
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.757
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.624
+      }
+    ],
+    "d4-1330-eric-jia-yolo-mode-safely-microvm-sandboxes": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.556
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.512
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.469
+      }
+    ],
+    "d4-1330-joshua-mo-your-model-is-private-your": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.721
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.704
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d4-1330-video-discovery-for-agentic-world": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.762
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.722
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.72
+      }
+    ],
+    "d4-1355-giselle-van-dongen-every-step-you-take-every": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.685
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.677
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      }
+    ],
+    "d4-1355-lina-colucci-voice-agents-with-realtime-video": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.847
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d4-1355-anna-spysz-teaching-agents-to-pay": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.686
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.543
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d4-1355-lucas-palma-we-vetted-2-000-ai": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.737
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d4-1355-local-ai-best-models-contd": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.787
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1355-frank-coyle-why-agentic-systems-need-ontologies": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.825
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.789
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      }
+    ],
+    "d4-1355-christopher-burns-how-we-got-llms-to": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.806
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.734
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1355-vasant-kearney-healthcares-agent-bytecode-x12-as": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.749
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.566
+      }
+    ],
+    "d4-1355-arjun-singh-multiplayer-agentic-engineering-enabling-your": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d4-1355-rob-wachen-rob-wachen-transformer-only-asics": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.74
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1355-arun-sekhar-blast-radius-zero-one-command": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.575
+      },
+      {
+        "theme_id": "T6",
+        "affinity": 0.56
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.469
+      }
+    ],
+    "d4-1355-brian-lewis-which-ai-startups-actually-land": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.794
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d4-1355-r-mi-louf-agent-frameworks-considered-harmful": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.563
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.273
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d4-1355-dash0-add-on-expo-session": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.255
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.215
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1355-jan-curn-mcp-doesnt-suck-your-agent": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.628
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.61
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      }
+    ],
+    "d4-1355-sharmila-chockalingam-from-agent-prototype-to-production": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.587
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d4-1355-george-he-everyone-talks-about-document-search": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.7
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.625
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.602
+      }
+    ],
+    "d4-1425-sarah-sanders-we-let-an-ai-agent": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.563
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.481
+      }
+    ],
+    "d4-1425-keegan-mccallum-generative-video-at-the-speed": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.847
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1425-ahnaf-prio-the-agentic-commerce-stack": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.815
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.732
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.326
+      }
+    ],
+    "d4-1425-ramana-siddanth-emani-your-finance-agents-bottleneck-is": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.775
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.628
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.326
+      }
+    ],
+    "d4-1425-local-ai-quantization-compression": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.787
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1425-james-le-video-has-no-memory-heres": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.859
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.663
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.625
+      }
+    ],
+    "d4-1425-jeffrey-wang-lessons-from-building-the-worlds": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.736
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.636
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1425-ayush-bhardwaj-trading-desks-to-clinical-trials": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.805
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1425-justin-smith-always-on-agents-run-production": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.737
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.543
+      }
+    ],
+    "d4-1425-byung-gon-gon-the-frontier-ai-inference-cloud": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.8
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.576
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.319
+      }
+    ],
+    "d4-1425-ashu-joshi-operate-agents-safely-at-scale": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d4-1425-kunal-lanjewar-your-hero-agent-needs-a": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.636
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.616
+      }
+    ],
+    "d4-1425-sujee-maniyam-optimizing-open-models-for-production": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.754
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.184
+      }
+    ],
+    "d4-1425-braintrust-expo-session-3": [
+      {
+        "theme_id": "T8",
+        "affinity": 0.406
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1425-melanie-warrick-the-human-is-an-async": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d4-1450-kay-malcolm-no-memory-no-harness-why": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d4-1450-ahmed-ahres-the-next-medium-why-real": [
+      {
+        "theme_id": "T6",
+        "affinity": 0.882
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.273
+      }
+    ],
+    "d4-1450-jay-mok-your-agent-just-authorized-what": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.846
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      }
+    ],
+    "d4-1450-shreya-rajpal-simulationmaxxing-for-20x-faster-agent": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.705
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.434
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      }
+    ],
+    "d4-1450-local-ai-quantization-compression-contd": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.787
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1450-shafik-quoraishee-on-device-agentic-ai-for": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.79
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.656
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d4-1450-justin-joyce-how-ai-agents-let-gtm": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.794
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.475
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.28
+      }
+    ],
+    "d4-1450-dan-feng-how-to-build-an-ai": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.763
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.273
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.184
+      }
+    ],
+    "d4-1450-idan-gazit-realtime-multiplayer-automation-and-you": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.668
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      }
+    ],
+    "d4-1450-yuchen-fama-kv-cache-aware-routing-and": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.74
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1450-salman-munaf-ai-agents-are-just-distributed": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.591
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      }
+    ],
+    "d4-1450-sebastian-fox-inside-847-production-clinical-ai": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.784
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.672
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.625
+      }
+    ],
+    "d4-1450-dru-knox-harness-engineering-the-new-core": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1450-felipe-blanes-designing-evals-that-earn-user": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      }
+    ],
+    "d4-1450-jeremy-adams-small-claws-are-beautiful-edge": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.747
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.195
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.046
+      }
+    ],
+    "d4-1450-the-software-factory": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.515
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.372
+      }
+    ],
+    "d4-1520-andrew-qu-we-solved-agent-building-the": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.696
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.563
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      }
+    ],
+    "d4-1520-gus-iwanaga-the-end-of-the-static": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.722
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.686
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.563
+      }
+    ],
+    "d4-1520-yogendra-miraje-its-a-skill-issue-best": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.705
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1520-local-ai-model-routing": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.787
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1520-daniel-chalef-citation-needed-provenance-for-llm": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.719
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.636
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.551
+      }
+    ],
+    "d4-1520-bil-erdenekhuyag-fin-ai-in-gtm": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.736
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1520-anuj-iravane-dont-be-data-poor": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.749
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.72
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.618
+      }
+    ],
+    "d4-1520-matt-dailey-velocity-sickness-what-happens-when": [
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      }
+    ],
+    "d4-1520-asaf-gardin-two-bugs-that-hid-in": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.783
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.722
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.576
+      }
+    ],
+    "d4-1520-lena-hall-the-signal-layer-what-to": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.372
+      }
+    ],
+    "d4-1520-sachin-malhotra-give-the-agent-a-budget": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.653
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.545
+      }
+    ],
+    "d4-1520-karthik-ranganathan-agent-memory-is-a-solved": [
+      {
+        "theme_id": "T5",
+        "affinity": 0.547
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.53
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.512
+      }
+    ],
+    "d4-1520-deepmind-expo-session-2": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.489
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1520-replicated-expo-session": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.255
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.215
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1520-remy-guercio-an-ai-future-without-the": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.719
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.708
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.707
+      }
+    ],
+    "d4-1545-philipp-schmid-agents-without-code-how-skills": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.563
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.292
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.273
+      }
+    ],
+    "d4-1545-david-levine-beyond-the-lethal-trifecta-agentic": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.828
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.586
+      }
+    ],
+    "d4-1545-sai-krishna-rallabandi-wearing-the-agent-engineering-a": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.775
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.747
+      },
+      {
+        "theme_id": "T4",
+        "affinity": 0.743
+      }
+    ],
+    "d4-1545-local-ai-model-routing-contd": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.787
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1545-subbiah-sethuraman-why-we-killed-our-multi": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.814
+      },
+      {
+        "theme_id": "T5",
+        "affinity": 0.779
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.612
+      }
+    ],
+    "d4-1545-stephanie-jarmak-the-death-of-developer-advocates": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.775
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.403
+      }
+    ],
+    "d4-1545-christopher-lovejoy-why-your-enterprise-tech-stack": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.784
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.647
+      },
+      {
+        "theme_id": "T8",
+        "affinity": 0.586
+      }
+    ],
+    "d4-1545-saoud-rizwan-open-source-is-dead-long": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.73
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.599
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.543
+      }
+    ],
+    "d4-1545-filip-makraduli-weight-folding-cuda-streams-and": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.792
+      },
+      {
+        "theme_id": "T3",
+        "affinity": 0.426
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1545-adam-azzam-taking-reinforcement-learning-cross-datacenter": [
+      {
+        "theme_id": "T4",
+        "affinity": 0.708
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.394
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.385
+      }
+    ],
+    "d4-1545-composio-expo-session": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.255
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.215
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1630-theo-browne-closing-keynote-theo-browne": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.255
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.215
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1650-garry-tan-closing-keynote-garry-tan": [
+      {
+        "theme_id": "T1",
+        "affinity": 0.255
+      },
+      {
+        "theme_id": "T7",
+        "affinity": 0.215
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ],
+    "d4-1710-howie-liu-startup-battlefield": [
+      {
+        "theme_id": "T7",
+        "affinity": 0.406
+      },
+      {
+        "theme_id": "T1",
+        "affinity": 0.0
+      },
+      {
+        "theme_id": "T2",
+        "affinity": 0.0
+      }
+    ]
+  }
+}

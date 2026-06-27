@@ -1,0 +1,1008 @@
+{
+  "method": "llm-reasoned",
+  "generated_on": "2026-06-27",
+  "stability_note": "method=llm-reasoned (embed-hdbscan unavailable: sentence-transformers/umap/hdbscan/sklearn not importable, cluster.py exited 3). Grouping is a DETERMINISTIC, reproducible function of each event's controlled axes.topic vocabulary (34 topics), IDF-weighted so ubiquitous spine topics (agents 359, enterprise-production 220, leadership 172) don't dominate, plus a weak track prior (beta=0.6*mean_idf). Affinities use a saturating map aff=raw/(raw+K), K calibrated so a typical strong match reads ~0.68. The 8 coarse themes cut ACROSS the 36 program tracks (e.g. Security-track talks scatter into Building Agents, Coding, and Enterprise via affinities). What would move a talk: a talk sitting between two themes (e.g. 'agents+code+leadership') flips on small weight changes \u2014 its soft top-k affinities, not the hard theme, are the truth. Re-running on the same events.json reproduces the map exactly (no randomness). CAPS/CAVEATS LOGGED: 22 content-free expo/sponsor slots (no abstract, no topics) were placed into the nearest theme by a company-name/title-keyword floor at low confidence, not dropped; 143 thin-abstract events were clustered on title+track+topic (their axes.topic was pre-extracted in Stage 1), not abstract text; 21 TBD/keynote main-stage holds were kept in themes (NOT made false outliers); outliers are a curated set of 17 genuinely cross-disciplinary/niche talks.",
+  "coarse_themes": [
+    {
+      "id": "T1",
+      "label": "Building & Operating Agents",
+      "gloss": "Engineering the agent itself \u2014 harnesses, orchestration, context, tools/MCP, computer-use, and the sandboxes they run in.",
+      "size": 83,
+      "representative_event_ids": [
+        "d3-1520-cornelia-davis-mcp-tasks-async-why-the",
+        "d4-1110-frank-coyle-anthropics-cca-exam-as-a",
+        "d3-1140-ajay-prakash-500-skills-zero-fine-tuning",
+        "d3-1205-samuel-colvin-your-agent-needs-a-sandbox",
+        "d3-1205-corey-gallon-the-dark-arts-of-web"
+      ],
+      "subclusters": [
+        {
+          "id": "T1.2",
+          "label": "Context Engineering",
+          "gloss": "Curating what goes into the window \u2014 context assembly, compaction, and state.",
+          "size": 15,
+          "event_ids": [
+            "d1-1630-shubhankar-srivastava-hill-climbing-skills-how-to",
+            "d2-1520-sam-bhagwat-every-harness-will-become-a",
+            "d3-1045-averi-kitsch-build-time-vs-run-time",
+            "d3-1110-kevin-madura-its-tokens-all-the-way",
+            "d3-1140-ajay-prakash-500-skills-zero-fine-tuning",
+            "d3-1140-peter-werry-how-to-generate-mergeable-code",
+            "d3-1205-samuel-colvin-your-agent-needs-a-sandbox",
+            "d3-1330-laurie-voss-how-long-can-your-skills",
+            "d3-1425-liad-yosef-mcp-apps-extending-the-frontier",
+            "d3-1450-dustin-mihalik-mcp-apps-give-the-model",
+            "d3-1520-robert-brennan-sandboxes-arent-optional-runtime-isolation",
+            "d3-1520-cornelia-davis-mcp-tasks-async-why-the",
+            "d3-1545-alex-hancock-the-universal-remote-control-for",
+            "d4-1110-frank-coyle-anthropics-cca-exam-as-a",
+            "d4-1110-dmitry-buykin-tribal-dungeons-of-global-shipping"
+          ]
+        },
+        {
+          "id": "T1.3",
+          "label": "Tools, MCP & Interop",
+          "gloss": "The plumbing that lets agents call tools and talk to each other (MCP and friends).",
+          "size": 16,
+          "event_ids": [
+            "d1-0900-charlie-guo-cooking-with-codex",
+            "d1-1210-yohan-raju-building-ai-agents-with-real",
+            "d2-1110-jesse-lumarie-building-the-engine-while-flying",
+            "d2-1140-uday-kiran-medisetty-the-ai-native-software-factory",
+            "d2-1330-jean-denis-greze-agents-next-frontier-agent-to",
+            "d2-1425-karan-vaidya-tool-execution-layer-for-agents",
+            "d2-1545-cam-kennedy-how-we-built-the-airbyte",
+            "d3-1110-viren-baraiya-harnessing-agents-the-durable-runtime",
+            "d3-1205-corey-gallon-the-dark-arts-of-web",
+            "d3-1205-dan-farrelly-your-agent-architecture-has-a",
+            "d3-1355-thorsten-hans-edge-native-ai-building-ultra",
+            "d4-1110-nikita-kothari-mcps-clis-and-skills-choosing",
+            "d4-1110-michael-patterson-the-lethal-trifecta-is-already",
+            "d4-1140-ross-wollman-benchmarking-vs-code-with-vsc",
+            "d4-1355-jan-curn-mcp-doesnt-suck-your-agent",
+            "d4-1520-remy-guercio-an-ai-future-without-the"
+          ]
+        },
+        {
+          "id": "T1.4",
+          "label": "Computer Use & Browser Agents",
+          "gloss": "Agents that drive GUIs, browsers, and the open web.",
+          "size": 6,
+          "event_ids": [
+            "d2-1110-tereza-t-kov-rise-of-the-software-factory",
+            "d2-1355-derek-meegan-deploying-browser-agents-at-scale",
+            "d2-1450-jason-liu-setting-yourself-up-for-success",
+            "d3-1110-pierluca-doro-computer-use-at-the-edge",
+            "d3-1330-gaurav-mishra-from-rl-to-irl",
+            "d3-1425-francesco-bonacci-computer-use-2-0-agents"
+          ]
+        },
+        {
+          "id": "T1.5",
+          "label": "Sandboxes & Agent Platforms",
+          "gloss": "Runtime substrate: sandboxes, isolation, and platform engineering for agents.",
+          "size": 17,
+          "event_ids": [
+            "d3-1045-adam-azzam-dont-build-agents-build-environments",
+            "d3-1045-gabriel-spencer-harper-why-ai-didnt-actually-make",
+            "d3-1110-shashank-goyal-building-a-unified-interface-for",
+            "d3-1140-ivan-burazin-kubernetes-is-not-your-sandbox",
+            "d3-1330-abhishek-bhardwaj-from-fork-to-fleet-designing",
+            "d3-1330-tina-manghnani-design-multi-agent-systems-that",
+            "d3-1355-abhishek-bhardwaj-from-fork-to-fleet-designing",
+            "d3-1425-kevin-orellana-1-000-agent-tasks-in",
+            "d3-1450-tom-s-hernando-intelligent-model-routing-frontier-performance",
+            "d3-1545-jonathan-kelley-building-ambitious-software",
+            "d3-1545-dominik-kundel-codex-behind-the-harness",
+            "d4-1045-ryan-cooke-no-thats-not-a-software",
+            "d4-1205-mike-chambers-harness-engineering-building-the-production",
+            "d4-1205-ben-dicken-move-fast-and-dont-break",
+            "d4-1330-eric-jia-yolo-mode-safely-microvm-sandboxes",
+            "d4-1355-giselle-van-dongen-every-step-you-take-every",
+            "d4-1355-arun-sekhar-blast-radius-zero-one-command"
+          ]
+        },
+        {
+          "id": "T1.1",
+          "label": "Agent Harnesses & Orchestration",
+          "gloss": "Building the loop itself \u2014 harnesses, planning, multi-agent orchestration.",
+          "size": 29,
+          "event_ids": [
+            "d1-1315-lotte-verheyden-continuously-improving-agents-with-langfuse",
+            "d1-1630-will-brown-prime-intellect-forge",
+            "d2-1045-priyanka-phatak-claude-managed-agents-workshop-part",
+            "d2-1110-priyanka-phatak-claude-managed-agents-workshop-part",
+            "d2-1110-will-lyon-actionable-knowledge-for-agents-with",
+            "d2-1140-benjamin-guo-everyone-gets-a-software-company",
+            "d2-1140-priyanka-phatak-claude-managed-agents-workshop-part",
+            "d2-1205-shu-fang-tethered-our-agents-are-us",
+            "d2-1205-priyanka-phatak-claude-managed-agents-workshop-part",
+            "d2-1355-lance-martin-claude-for-long-horizon-tasks",
+            "d2-1520-jason-liu-setting-yourself-up-for-success",
+            "d2-1545-jason-liu-setting-yourself-up-for-success",
+            "d2-1650-erik-meijer-in-code-they-act-in",
+            "d3-1045-tina-manghnani-from-framework-to-runtime-running",
+            "d3-1330-daytona-expo-1",
+            "d3-1520-brian-douglas-dont-write-skills-train-models",
+            "d3-1545-brian-douglas-dont-write-skills-train-models",
+            "d4-1000-mike-krieger-how-tag-changed-labs",
+            "d4-1045-katelyn-lesse-tokens-should-have-jobs",
+            "d4-1110-keycard-ai-expo-1",
+            "d4-1355-r-mi-louf-agent-frameworks-considered-harmful",
+            "d4-1355-dash0-add-on-expo-session",
+            "d4-1450-kay-malcolm-no-memory-no-harness-why",
+            "d4-1450-dru-knox-harness-engineering-the-new-core",
+            "d4-1520-replicated-expo-session",
+            "d4-1545-philipp-schmid-agents-without-code-how-skills",
+            "d4-1545-composio-expo-session",
+            "d4-1630-theo-browne-closing-keynote-theo-browne",
+            "d4-1650-garry-tan-closing-keynote-garry-tan"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Coding Agents & AI-Native Software Development",
+      "gloss": "Using AI to write, review, and ship software \u2014 coding agents, software factories, and design/frontend engineering.",
+      "size": 47,
+      "representative_event_ids": [
+        "d3-1045-geoffrey-litt-understanding-is-the-new-bottleneck",
+        "d2-1140-charlie-holtz-orchestras-not-factories",
+        "d2-1140-pamela-fox-use-copilot-across-cli-dev",
+        "d3-1520-vibe-code-safely-introducing-gadgets",
+        "d3-1205-maximillian-piras-mousepower-agents-that-cant-be"
+      ],
+      "subclusters": [
+        {
+          "id": "T2.2",
+          "label": "Design & Frontend Engineering",
+          "gloss": "AI for UI, design-to-code, and the frontend craft.",
+          "size": 9,
+          "event_ids": [
+            "d3-1045-geoffrey-litt-understanding-is-the-new-bottleneck",
+            "d3-1110-max-drake-the-spatial-harness-bringing-agents",
+            "d3-1140-jonathan-gordon-the-design-code-roundtrip-that",
+            "d3-1205-maximillian-piras-mousepower-agents-that-cant-be",
+            "d3-1355-thais-castello-branco-training-taste",
+            "d3-1425-eve-bouffard-imagination-engineering",
+            "d3-1450-hassan-el-mghari-the-missing-layer-design-taste",
+            "d3-1520-jeremiah-lowin-generative-ui-in-python",
+            "d3-1545-vincent-wendy-let-my-people-code"
+          ]
+        },
+        {
+          "id": "T2.3",
+          "label": "Engineering Org & Workflow",
+          "gloss": "Rolling coding agents across a team \u2014 process, enablement, SDLC change.",
+          "size": 11,
+          "event_ids": [
+            "d2-1110-aditya-khandelwal-agents-codebases-and-teams-what",
+            "d2-1140-charlie-holtz-orchestras-not-factories",
+            "d2-1355-zach-lloyd-self-improving-software-factories-the",
+            "d2-1425-jevon-mcdonald-river-shopifys-slack-native-ai",
+            "d2-1425-continuous-engineering-software-development-for",
+            "d2-1520-vaibhav-gupta-fighting-slop-with-slop",
+            "d2-1630-dex-horthy-harness-engineering-is-not-enough",
+            "d4-1140-jeff-ng-building-agents-is-trivial-now",
+            "d4-1205-denys-linkov-benchmarking-coding-agents-on-new",
+            "d4-1355-arjun-singh-multiplayer-agentic-engineering-enabling-your",
+            "d4-1520-matt-dailey-velocity-sickness-what-happens-when"
+          ]
+        },
+        {
+          "id": "T2.1",
+          "label": "Coding Agents & Software Factories",
+          "gloss": "Agents that write, review, and ship production code at scale.",
+          "size": 27,
+          "event_ids": [
+            "d2-0900-swyx-three-years-of-ai-engineering",
+            "d2-0905-pablo-castro-on-ai-and-knowledge",
+            "d2-0925-alexander-embiricos-opening-keynote-topic-tbd",
+            "d2-0945-thom-wolf-thom-wolf-keynote",
+            "d2-1005-zixuan-li-glm-5-2-frontier-intelligence",
+            "d2-1025-swyx-security-track-intro",
+            "d2-1045-jason-liu-getting-the-most-out-of",
+            "d2-1045-idan-gazit-build-agents-fast-with-github",
+            "d2-1140-pamela-fox-use-copilot-across-cli-dev",
+            "d2-1205-daksh-gupta-what-we-learned-by-analyzing",
+            "d2-1330-kevin-hou-defying-antigravity",
+            "d2-1330-andrew-orobator-spin-at-the-gate-until",
+            "d2-1330-vlad-luzin-every-agent-everywhere-all-at",
+            "d2-1355-greptile-expo-session",
+            "d2-1425-idan-gazit-build-agents-fast-with-github",
+            "d2-1425-buildkite-expo-1",
+            "d2-1450-sarah-sachs-notions-token-town",
+            "d2-1450-self-driving-production-ai-wrote",
+            "d2-1710-lee-robinson-the-future-of-cursor",
+            "d3-0925-tariq-shaukat-in-the-land-of-ai",
+            "d3-1425-marco-casalaina-power-agents-with-microsoft-iq",
+            "d3-1425-ronak-chokshi-power-agents-with-microsoft-iq",
+            "d3-1520-vibe-code-safely-introducing-gadgets",
+            "d4-0900-matt-pocock-building-great-agent-skills-the",
+            "d4-0920-john-ousterhout-tcp-and-rdma-are-killing",
+            "d4-1140-michael-grinich-auth-for-agents-unblock-autonomous",
+            "d4-1330-dominik-kundel-building-on-the-codex-harness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Evaluation, Observability & Data Quality",
+      "gloss": "Knowing whether your AI works and keeping it working \u2014 evals and judges, tracing and monitoring, and the data underneath.",
+      "size": 58,
+      "representative_event_ids": [
+        "d1-0900-doug-guthrie-advanced-workshop-mastering-ai-observability",
+        "d2-1140-jess-wang-agentic-vs-vector-search-an",
+        "d3-1110-jason-lopatecki-from-alert-to-pr-building",
+        "d3-1355-maor-bril-evaling-video-slop",
+        "d2-1205-hossein-niazmandi-why-building-building-agent-quality"
+      ],
+      "subclusters": [
+        {
+          "id": "T3.3",
+          "label": "Observability & Tracing",
+          "gloss": "Seeing inside running systems \u2014 traces, spans, production monitoring.",
+          "size": 21,
+          "event_ids": [
+            "d1-0900-laurie-voss-from-vibes-to-production-evaluating",
+            "d1-0900-doug-guthrie-advanced-workshop-mastering-ai-observability",
+            "d1-1105-matt-brockman-how-i-learned-to-stop",
+            "d1-1105-elizabeth-fuentes-leone-agent-speedrun-idea-code-deploy",
+            "d1-1210-tejas-kumar-evals-in-ai-a-deep",
+            "d1-1210-wolfram-ravenwolf-from-zero-to-leaderboard-building",
+            "d1-1315-michael-forrester-build-a-platform-unleash-an",
+            "d1-1420-laurie-voss-from-vibes-to-production-evaluating",
+            "d1-1420-pamela-fox-observe-optimize-and-protect-your",
+            "d2-1140-jess-wang-agentic-vs-vector-search-an",
+            "d2-1140-andreea-ple-ea-would-your-ai-agent-get",
+            "d2-1355-fuad-ali-voice-agents-are-mostly-invisible",
+            "d2-1425-sumanyu-sharma-i-monitored-crime-audio-voice",
+            "d2-1425-kanish-manuja-productionizing-llm-gateways-architecture-tradeoffs",
+            "d2-1425-marina-petzel-beyond-golden-signals-monitoring-in",
+            "d3-1110-jason-lopatecki-from-alert-to-pr-building",
+            "d3-1140-fault-tolerant-training-at-scale",
+            "d3-1355-maor-bril-evaling-video-slop",
+            "d3-1450-akele-reed-evals-driven-development-engineering-a",
+            "d4-1110-chang-liu-tracing-and-debugging-agents-across",
+            "d4-1330-chang-liu-evaluating-and-optimizing-ai-agents"
+          ]
+        },
+        {
+          "id": "T3.4",
+          "label": "Data Quality & Pipelines",
+          "gloss": "The data substrate evals depend on \u2014 labeling, quality, pipelines.",
+          "size": 14,
+          "event_ids": [
+            "d1-0900-shane-wolf-the-best-sdlc-is-the",
+            "d1-1105-dhruv-nathawani-teaching-agents-to-search-building",
+            "d2-1045-ari-morcos-data-curation-for-model-training",
+            "d2-1110-robert-mchardy-the-messy-reality-of-scale",
+            "d2-1110-ameya-bhatawdekar-your-agent-evolved-your-evals",
+            "d2-1140-rayan-garg-theta-software",
+            "d2-1205-hossein-niazmandi-why-building-building-agent-quality",
+            "d2-1330-varun-singh-the-base-model-is-dead",
+            "d2-1330-salil-subbakrishna-modernize-ci-cd-using-agent",
+            "d2-1355-thais-castello-branco-ending-ai-slop",
+            "d3-1140-soumya-gupta-building-closed-loop-evals-for",
+            "d3-1140-uri-rolls-arithmetic-fka-operating-intelligence",
+            "d3-1205-rustem-feyzkhanov-from-agent-traces-to-agent",
+            "d4-1045-serena-ge-deepswe-expert-code-datasets"
+          ]
+        },
+        {
+          "id": "T3.1",
+          "label": "Eval Methods, Judges & Benchmarks",
+          "gloss": "Benchmarks, LLM-as-judge, and rubrics for model and system quality.",
+          "size": 16,
+          "event_ids": [
+            "d3-0900-barr-yaron-2026-ai-engineering-survey",
+            "d3-0905-thariq-shihipar-seeing-like-an-agent",
+            "d3-0945-antje-barth-perception-agents",
+            "d3-1005-benoit-schillings-research-to-reality-with-google",
+            "d3-1025-laurie-voss-evals-track-intro",
+            "d3-1045-richard-socher-first-steps-toward-automated-ai",
+            "d3-1045-lukas-petersson-vending-bench-long-horizon-agent",
+            "d3-1205-elie-bakouch-the-era-of-auto-research",
+            "d3-1330-tim-sweeney-closing-the-loop-an-autonomous",
+            "d3-1355-zhengyao-jiang-an-ai-agent-became-the",
+            "d3-1450-tejas-bhakta-autoresearch-for-kernels",
+            "d3-1520-roland-gavrilescu-autoresearch-in-the-wild",
+            "d3-1545-philipp-schmid-dont-ship-skills-without-evals",
+            "d3-1630-addy-osmani-closing-keynote",
+            "d3-1650-george-cameron-trends-in-ai",
+            "d3-1710-anastasios-n-angelopoulos-closing-keynote-tbd"
+          ]
+        },
+        {
+          "id": "T3.2",
+          "label": "Agent Evaluation & Reliability",
+          "gloss": "Measuring whether agents actually work over long, multi-step trajectories.",
+          "size": 7,
+          "event_ids": [
+            "d1-1105-nnenna-ndukwe-how-to-build-quality-gates",
+            "d1-1315-ankur-duggal-the-cheat-sheet-get-evals",
+            "d2-1450-varun-krovvidi-6-pillars-of-an-agentic",
+            "d2-1520-harald-kirschner-surviving-your-own-velocity-how",
+            "d3-1330-harald-kirschner-surviving-your-own-velocity-how",
+            "d3-1425-lightrun-expo-session",
+            "d4-1045-pamela-fox-diagnosing-agent-failures-in-production"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Model & Inference Engineering",
+      "gloss": "The systems layer beneath the app \u2014 inference and serving, GPUs and kernels, post-training/RL, and local or open models.",
+      "size": 94,
+      "representative_event_ids": [
+        "d1-1210-ahmad-osman-local-llms-and-workstation-agents",
+        "d4-1330-philip-kiely-whats-new-in-inference-engineering",
+        "d3-1545-jetashree-ravi-stop-renting-intelligence-the-train",
+        "d3-1045-diogo-almeida-whats-next-after-rlhf",
+        "d2-1545-charlie-dickens-towards-reliable-financial-agents-how"
+      ],
+      "subclusters": [
+        {
+          "id": "T4.1",
+          "label": "Inference & Serving",
+          "gloss": "Serving models fast and cheap \u2014 inference stacks, throughput, cost.",
+          "size": 54,
+          "event_ids": [
+            "d1-0900-duan-lightfoot-agents-that-own-their-inference",
+            "d1-0900-zain-hasan-open-source-inference-engineering-for",
+            "d1-1105-ahmad-osman-local-llms-and-workstation-agents",
+            "d1-1105-charles-frye-what-is-an-inference-engine",
+            "d1-1210-harshul-jain-2-hr-deep-dive-on",
+            "d1-1210-ahmad-osman-local-llms-and-workstation-agents",
+            "d1-1315-harshul-jain-2-hr-deep-dive-on",
+            "d1-1315-filip-makraduli-turning-my-obsidian-vault-into",
+            "d2-1045-kwindla-kramer-the-new-primitives-building-ai",
+            "d2-1110-lovina-dmello-your-llm-stack-is-a",
+            "d2-1140-your-stack-has-a-latency",
+            "d2-1205-simran-arora-can-llms-write-fast-multi",
+            "d2-1330-arek-borucki-serving-2-million-models-without",
+            "d2-1450-bohan-li-realtime-voice-agents-with-frontier",
+            "d2-1520-krishna-prasad-srinivasan-from-scratch-to-sota-training",
+            "d2-1520-bogdan-gaza-running-a-20t-token-data",
+            "d3-1140-ai-agents-dont-read-your",
+            "d3-1205-rishab-kumar-from-stateless-to-stateful-orchestrating",
+            "d3-1355-rachna-srivastava-guardians-of-the-state-how",
+            "d3-1450-brian-douglas-dont-write-skills-train-models",
+            "d3-1450-olive-song-agents-at-scale-inside-minimaxs",
+            "d3-1450-alex-campos-inference-performance-as-a-competitive",
+            "d3-1520-david-corbitt-inference-is-the-new-training",
+            "d3-1545-erina-karati-autoresearch-in-a-multi-agent",
+            "d3-1545-abdul-dakkak-modular-taming-the-ai-hardware",
+            "d3-1545-jetashree-ravi-stop-renting-intelligence-the-train",
+            "d4-1045-nader-khalil-local-ai-state-of-the",
+            "d4-1045-nishant-gupta-operating-distributed-inference-systems-at",
+            "d4-1045-willem-pienaar-your-agent-cant-tell-if",
+            "d4-1110-local-ai-state-of-the",
+            "d4-1110-qianru-lao-routing-llm-inference-in-production",
+            "d4-1140-local-ai-in-industry",
+            "d4-1140-ashok-chandrasekar-are-llm-performance-benchmarks-reliable",
+            "d4-1140-daniel-kim-all-the-things-we-have",
+            "d4-1140-sheilah-kirui-seeing-the-plumbing-profiling-vllm",
+            "d4-1205-local-ai-in-industry",
+            "d4-1205-rita-zhang-vertical-mobility-building-an-ai",
+            "d4-1205-george-hu-stop-model-shopping-why-ownership",
+            "d4-1205-ali-adl-tabatabai-while-you-were-generating-the",
+            "d4-1330-local-ai-best-models",
+            "d4-1330-philip-kiely-whats-new-in-inference-engineering",
+            "d4-1330-joshua-mo-your-model-is-private-your",
+            "d4-1355-local-ai-best-models-contd",
+            "d4-1355-rob-wachen-rob-wachen-transformer-only-asics",
+            "d4-1425-local-ai-quantization-compression",
+            "d4-1425-byung-gon-gon-the-frontier-ai-inference-cloud",
+            "d4-1425-sujee-maniyam-optimizing-open-models-for-production",
+            "d4-1450-local-ai-quantization-compression-contd",
+            "d4-1450-yuchen-fama-kv-cache-aware-routing-and",
+            "d4-1520-local-ai-model-routing",
+            "d4-1520-asaf-gardin-two-bugs-that-hid-in",
+            "d4-1545-local-ai-model-routing-contd",
+            "d4-1545-saoud-rizwan-open-source-is-dead-long",
+            "d4-1545-filip-makraduli-weight-folding-cuda-streams-and"
+          ]
+        },
+        {
+          "id": "T4.3",
+          "label": "Post-training, RL & Fine-tuning",
+          "gloss": "Shaping model behavior after pretraining \u2014 RL, fine-tuning, midtraining.",
+          "size": 20,
+          "event_ids": [
+            "d1-1105-fuad-ali-how-to-use-arizes-newest",
+            "d2-1205-david-brumley-bugcrowd-posttraining-talk",
+            "d2-1205-will-bond-scaling-code-quality-building-ureview",
+            "d2-1425-ross-taylor-scaling-to-long-horizons-algorithms",
+            "d2-1520-nicolai-ouporov-building-worlds-for-models",
+            "d2-1520-dan-bjornn-your-fine-tuned-model-is",
+            "d2-1545-mahesh-sathiamoorthy-tools-for-data-curation-and",
+            "d2-1545-charlie-dickens-towards-reliable-financial-agents-how",
+            "d3-1045-diogo-almeida-whats-next-after-rlhf",
+            "d3-1110-sean-cai-state-of-data",
+            "d3-1205-raymond-feng-bring-your-own-harness-flexible",
+            "d3-1330-will-brown-prime-rl-async-decentralized-rl",
+            "d3-1355-vivek-trivedy-improving-agents-is-a-data",
+            "d3-1355-joseph-wang-emulated-the-data-for-fully",
+            "d3-1425-lakshya-agrawal-self-improvement-of-context-harness",
+            "d3-1425-kenny-workman-latchbio",
+            "d3-1520-ishan-anand-will-ai-predict-people-like",
+            "d3-1520-ali-khial-benchmarks-the-good-the-bad",
+            "d3-1545-tarun-sunkaraneni-ray-actors-vision-tokens-and",
+            "d4-1545-adam-azzam-taking-reinforcement-learning-cross-datacenter"
+          ]
+        },
+        {
+          "id": "T4.4",
+          "label": "Local & Open Models",
+          "gloss": "Running open and on-device models outside the big API providers.",
+          "size": 5,
+          "event_ids": [
+            "d3-1205-laurie-voss-the-death-of-the-code",
+            "d3-1205-james-zou-harnessing-collective-agent-intelligence-for",
+            "d3-1520-the-self-improving-oss-agent",
+            "d4-1140-manish-kapur-guide-verify-solve-the-engineering",
+            "d4-1140-miguel-gonz-lez-the-art-of-building-verifiers"
+          ]
+        },
+        {
+          "id": "T4.2",
+          "label": "GPU, Kernels & Hardware",
+          "gloss": "Squeezing the silicon \u2014 GPUs, kernels, and accelerator engineering.",
+          "size": 8,
+          "event_ids": [
+            "d1-1105-pamela-fox-the-model-swap-workshop",
+            "d1-1420-yoni-michael-the-data-context-layer-why",
+            "d1-1420-daniel-han-special-topics-in-kernels-rl",
+            "d1-1630-paul-bakaus-the-dark-arts-of-skill",
+            "d3-1330-nicholas-arcolano-tokenmaxxing-is-the-new-lines",
+            "d3-1450-garrett-galow-building-an-agent-harness-for",
+            "d4-1140-kwindla-kramer-voice-is-the-universal-interface",
+            "d4-1355-sharmila-chockalingam-from-agent-prototype-to-production"
+          ]
+        },
+        {
+          "id": "T4.5",
+          "label": "Models & Frontier Capabilities",
+          "gloss": "Frontier model releases and what new capabilities unlock.",
+          "size": 7,
+          "event_ids": [
+            "d2-1330-deepmind-expo-session-1",
+            "d2-1450-baseten-expo-session",
+            "d2-1545-em-shreve-ai-enablement-at-automattic-how",
+            "d3-1140-arun-sekhar-openai-anthropic-or-agent-frameworks",
+            "d3-1330-deepmind-expo-session-3",
+            "d3-1520-pranjal-jain-runpod-expo-session",
+            "d4-1520-deepmind-expo-session-2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Retrieval, Memory & Knowledge",
+      "gloss": "Giving models the right context \u2014 RAG and search, agent memory, knowledge graphs, embeddings, and recommendation.",
+      "size": 69,
+      "representative_event_ids": [
+        "d2-1355-hiral-shah-your-agreements-are-a-database",
+        "d4-1045-stephen-chin-crabrag-why-automated-assistants-need",
+        "d1-1420-jeff-vestal-vector-isnt-enough-hybrid-search",
+        "d4-1425-james-le-video-has-no-memory-heres",
+        "d2-1520-anders-swanson-from-context-to-memory-your"
+      ],
+      "subclusters": [
+        {
+          "id": "T5.3",
+          "label": "Knowledge Graphs",
+          "gloss": "Graph-structured knowledge for grounding and reasoning.",
+          "size": 15,
+          "event_ids": [
+            "d1-0900-zach-blumenfeld-ai-on-your-lakehouse-context",
+            "d1-1105-nyah-macklin-rag-needs-a-map-using",
+            "d2-1520-anders-swanson-from-context-to-memory-your",
+            "d3-1425-kamalakannan-nandagopal-beyond-code-generation-api-context",
+            "d4-1020-emil-eifrem-why-graphs",
+            "d4-1045-stephen-chin-crabrag-why-automated-assistants-need",
+            "d4-1110-yohei-nakajima-active-graph-agent-runtime-babyagi",
+            "d4-1140-mike-phipps-your-moat-is-your-data",
+            "d4-1140-khaled-alashmouny-what-if-your-chip-design",
+            "d4-1205-omri-bruchim-from-systems-of-record-to",
+            "d4-1330-ritvik-pandya-ai-learned-execution-graphs-for",
+            "d4-1355-frank-coyle-why-agentic-systems-need-ontologies",
+            "d4-1425-james-le-video-has-no-memory-heres",
+            "d4-1450-shafik-quoraishee-on-device-agentic-ai-for",
+            "d4-1450-jeremy-adams-small-claws-are-beautiful-edge"
+          ]
+        },
+        {
+          "id": "T5.2",
+          "label": "Memory & Continual Learning",
+          "gloss": "Giving agents durable memory and the ability to keep learning.",
+          "size": 21,
+          "event_ids": [
+            "d1-0900-ignacio-martinez-total-recall-agent-memory-and",
+            "d1-1420-louis-fran-ois-context-engineering-in-2026-compaction",
+            "d1-1630-joel-hooks-the-art-and-science-of",
+            "d3-1045-parth-asawa-beyond-static-intelligence-evaluating-continual",
+            "d3-1110-ronak-malde-scaling-up-continual-learning",
+            "d3-1140-stefania-druga-memory-harnesses-for-long-running",
+            "d3-1140-jack-morris-scaling-compute-on-context",
+            "d3-1140-jake-broekhuizen-the-next-run-should-be",
+            "d3-1205-yu-su-intelligence-continual-learning-expertise",
+            "d3-1205-anant-srivastava-prompt-memory-weights-the-architecture",
+            "d3-1330-sara-hooker-adaption-labs-gradient-free-continual",
+            "d3-1355-suraj-gupta-warp-building-self-improving-agent",
+            "d3-1425-samuel-denton-distillation-and-continual-learning-for",
+            "d3-1450-ben-hylak-designing-agents-the-floor-is",
+            "d3-1450-roberto-milev-agents-are-where-microservices-were",
+            "d3-1450-dylan-couzon-the-frontier-is-coming-home",
+            "d3-1520-shlok-khemani-lessons-from-studying-every-memory",
+            "d3-1520-carlos-sanchez-agentic-sites-building-hyper-personalized",
+            "d3-1520-morgan-willis-the-infinite-context-window-is",
+            "d3-1545-ben-holmes-llm-knowledge-bases-a-practical",
+            "d4-1520-karthik-ranganathan-agent-memory-is-a-solved"
+          ]
+        },
+        {
+          "id": "T5.4",
+          "label": "Embeddings & Recsys",
+          "gloss": "Vector representations and recommendation systems.",
+          "size": 9,
+          "event_ids": [
+            "d1-1420-jeff-vestal-vector-isnt-enough-hybrid-search",
+            "d2-1330-tba",
+            "d2-1355-hiral-shah-your-agreements-are-a-database",
+            "d2-1355-tba",
+            "d2-1425-tba",
+            "d3-1110-han-xiao-autoresearch-for-dense-retrieval-test",
+            "d3-1425-mihnea-munteanu-dont-summarize-sample-how-youtube",
+            "d4-1045-vector-isnt-enough-hybrid-search",
+            "d4-1520-andrew-qu-we-solved-agent-building-the"
+          ]
+        },
+        {
+          "id": "T5.1",
+          "label": "RAG & Search",
+          "gloss": "Retrieval-augmented generation and the search stack behind it.",
+          "size": 24,
+          "event_ids": [
+            "d1-1210-kent-c-dodds-build-the-right-thing-product",
+            "d1-1210-peter-werry-beyond-rag-build-a-relational",
+            "d1-1210-paige-bailey-research-to-reality-with-google",
+            "d1-1315-kent-c-dodds-build-the-right-thing-product",
+            "d2-1045-edo-liberty-pinecone-2-0",
+            "d2-1045-exa-expo-session",
+            "d2-1110-jo-kristian-bergum-the-unreasonable-effectiveness-of-bm25",
+            "d2-1110-owen-halpert-give-your-coding-agents-the",
+            "d2-1140-will-bryk-the-search-engine-for-the",
+            "d2-1205-liad-yosef-rebuilding-the-web-for-agents",
+            "d2-1330-benjamin-clavi-if-we-want-them-to",
+            "d2-1425-cody-menefee-youre-not-thinking-big-enough",
+            "d2-1425-simon-eskildsen-how-to-connect-ai-to",
+            "d2-1450-maximilian-david-rumpf-where-rl-will-take-search",
+            "d2-1520-yuval-belfer-stop-chunking-like-its-2022",
+            "d2-1520-leo-platzer-from-raw-documents-to-retrievable",
+            "d3-1110-nixon-dinh-the-death-of-keyword-search",
+            "d3-1205-brandon-waselnuk-your-agents-lack-context-heres",
+            "d3-1330-ben-kus-the-half-life-of-agent",
+            "d3-1355-gil-feig-why-your-company-needs-a",
+            "d4-0940-maxime-rivest-the-unreasonable-effectiveness-of-separating",
+            "d4-1110-matt-gibiec-your-ai-agent-has-no",
+            "d4-1205-giedrius-steimantas-the-missing-layer-in-agentic",
+            "d4-1355-george-he-everyone-talks-about-document-search"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Multimodal, Voice & Generative Media",
+      "gloss": "Beyond text \u2014 vision and OCR, voice and realtime, generative image/video, and robotics or world models.",
+      "size": 55,
+      "representative_event_ids": [
+        "d4-1450-ahmed-ahres-the-next-medium-why-real",
+        "d4-1425-keegan-mccallum-generative-video-at-the-speed",
+        "d4-1140-ekaterina-deyneka-building-an-agentic-video-editor",
+        "d3-1545-cyrus-clarke-i-gave-an-ai-a",
+        "d3-1045-christopher-manning-building-the-simulation-infrastructure-for"
+      ],
+      "subclusters": [
+        {
+          "id": "T6.4",
+          "label": "Robotics & World Models",
+          "gloss": "Embodied AI, simulation, and learned world models.",
+          "size": 14,
+          "event_ids": [
+            "d2-1355-andrew-dai-the-best-models-still-reason",
+            "d2-1450-video-discovery-for-agentic-world",
+            "d3-1045-christopher-manning-building-the-simulation-infrastructure-for",
+            "d3-1110-christopher-manning-building-the-simulation-infrastructure-for",
+            "d3-1140-jason-ma-commercial-grade-robots-for-real",
+            "d3-1205-sandhya-subramani-tell-the-robot-what-you",
+            "d3-1330-unitree-unitree-tbd",
+            "d3-1355-deepak-pathak-frontier-robotics-research",
+            "d3-1425-juraj-kabzan-from-manual-drones-to-autonomous",
+            "d3-1450-cormac-brick-why-large-tiny-lms-agents",
+            "d3-1520-amit-navindgi-from-self-driving-monorepo-to",
+            "d3-1545-cyrus-clarke-i-gave-an-ai-a",
+            "d4-1330-video-discovery-for-agentic-world",
+            "d4-1450-ahmed-ahres-the-next-medium-why-real"
+          ]
+        },
+        {
+          "id": "T6.3",
+          "label": "Generative Media",
+          "gloss": "Generating image, video, and creative media.",
+          "size": 6,
+          "event_ids": [
+            "d3-1330-chris-souza-model-whisperers-how-evals-and",
+            "d4-1045-safia-abdalla-the-agent-behind-the-curtain",
+            "d4-1110-james-russo-html-is-all-agents-need",
+            "d4-1140-ekaterina-deyneka-building-an-agentic-video-editor",
+            "d4-1355-lina-colucci-voice-agents-with-realtime-video",
+            "d4-1425-keegan-mccallum-generative-video-at-the-speed"
+          ]
+        },
+        {
+          "id": "T6.2",
+          "label": "Voice & Realtime",
+          "gloss": "Speech, voice agents, and low-latency realtime interaction.",
+          "size": 20,
+          "event_ids": [
+            "d1-1315-killian-carlsen-phelan-sonarqube-openai-wiring-your-team",
+            "d1-1800-sonar-expo-welcome-speech",
+            "d2-1045-dor-sasson-every-ai-company-is-accidentally",
+            "d2-1110-valeria-wu-fon-speech-to-speech-model-research",
+            "d2-1140-charlie-guo-voice-agents-can-just-do",
+            "d2-1205-aditya-gautam-modality-misalignment-and-originality-attribution",
+            "d2-1205-neil-zeghidour-your-voice-agent-is-just",
+            "d2-1330-neil-zeghidour-everybody-gets-a-digital-clone",
+            "d2-1330-paula-dozsa-tolan-voice-first-ai-companion",
+            "d2-1355-neil-zeghidour-everybody-gets-a-digital-clone",
+            "d2-1355-venky-b-5-voice-agent-failure-modes",
+            "d2-1425-neil-zeghidour-everybody-gets-a-digital-clone",
+            "d2-1520-midam-kim-my-name-is-my-name",
+            "d3-1045-thor-schaeff-build-realtime-multimodal-agents-with",
+            "d3-1110-thor-schaeff-build-realtime-multimodal-agents-with",
+            "d3-1140-thor-schaeff-build-realtime-multimodal-agents-with",
+            "d3-1205-thor-schaeff-build-realtime-multimodal-agents-with",
+            "d3-1355-natively-multimodal-from-step-zero",
+            "d3-1425-jesse-hall-latency-is-a-budget-humanlike",
+            "d4-1110-brandon-waselnuk-beyond-rag-see-a-relational"
+          ]
+        },
+        {
+          "id": "T6.1",
+          "label": "Vision, Multimodal & OCR",
+          "gloss": "Seeing and reading \u2014 vision models, multimodal understanding, OCR.",
+          "size": 15,
+          "event_ids": [
+            "d1-0900-pamela-fox-get-started-with-models-in",
+            "d1-1105-gustavo-cordido-from-zero-to-deployed-on",
+            "d1-1420-emile-baizel-build-with-perception-agents",
+            "d1-1420-zhengyao-jiang-hands-on-autoresearch-cracking-openais",
+            "d1-1630-ang-li-the-autonomous-computer-full-stack",
+            "d2-1045-joseph-nelson-the-state-of-vision",
+            "d2-1110-jerry-liu-building-liteparse-the-worlds-fastest",
+            "d2-1110-kimchi-expo-session",
+            "d2-1140-merve-noyan-skill-issue-stop-deploying-vision",
+            "d2-1450-armen-aghajanyan-perceptron-mk1-perceptron-inc",
+            "d3-1140-paul-klein-iv-bringing-agents-onto-the-world",
+            "d3-1330-john-lindquist-the-agentic-power-users-playbook",
+            "d3-1355-john-lindquist-the-agentic-power-users-playbook",
+            "d3-1355-bright-data-speaker-the-rise-of-caas-context",
+            "d3-1425-john-lindquist-the-agentic-power-users-playbook"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "AI in the Enterprise: Leadership & Verticals",
+      "gloss": "Putting AI to work in the business \u2014 enterprise adoption and strategy, plus finance, healthcare, GTM, and commerce.",
+      "size": 106,
+      "representative_event_ids": [
+        "d4-1110-aliisa-rosenthal-reverse-engineering-the-ai-buyer",
+        "d4-1140-jared-joselowitz-shipping-ai-to-a-million",
+        "d4-1545-david-levine-beyond-the-lethal-trifecta-agentic",
+        "d4-1205-jan-curn-x402-isnt-good-yet",
+        "d4-1140-anil-nadiminti-when-ai-agents-pay-and"
+      ],
+      "subclusters": [
+        {
+          "id": "T7.1",
+          "label": "Finance & Fintech",
+          "gloss": "AI in finance, banking, and fintech.",
+          "size": 20,
+          "event_ids": [
+            "d2-1045-sam-parsons-how-paypal-enterprise-payments-handles",
+            "d2-1330-reducto-from-ingestion-to-agents-how",
+            "d2-1355-ethan-jung-min-dual-surface-architecture-serving-humans",
+            "d4-1045-brendan-rappazzo-alphalab-autonomous-multi-agent-research",
+            "d4-1045-jennifer-lee-building-safe-payment-infrastructure-for",
+            "d4-1110-harshal-bhangale-why-your-ai-agent-needs",
+            "d4-1110-udi-menkes-why-off-the-shelf-ai",
+            "d4-1140-anil-nadiminti-when-ai-agents-pay-and",
+            "d4-1140-divakar-kumar-lets-integrate-ai-agents-in",
+            "d4-1140-jared-joselowitz-shipping-ai-to-a-million",
+            "d4-1205-jan-curn-x402-isnt-good-yet",
+            "d4-1205-vinoo-ganesh-how-kepler-built-verifiable-ai",
+            "d4-1330-rodrigo-coelho-agent-spending-without-controls-the",
+            "d4-1355-lucas-palma-we-vetted-2-000-ai",
+            "d4-1425-ahnaf-prio-the-agentic-commerce-stack",
+            "d4-1425-ramana-siddanth-emani-your-finance-agents-bottleneck-is",
+            "d4-1450-shreya-rajpal-simulationmaxxing-for-20x-faster-agent",
+            "d4-1520-yogendra-miraje-its-a-skill-issue-best",
+            "d4-1545-david-levine-beyond-the-lethal-trifecta-agentic",
+            "d4-1545-subbiah-sethuraman-why-we-killed-our-multi"
+          ]
+        },
+        {
+          "id": "T7.2",
+          "label": "Healthcare & Life Sciences",
+          "gloss": "AI in healthcare, clinical, and life-sciences settings.",
+          "size": 13,
+          "event_ids": [
+            "d1-1315-build-a-document-triage-agent",
+            "d2-1450-tanmai-gopal-your-company-brain-will-leak",
+            "d3-1355-matthew-jewkes-superhuman-performance-is-a-shape",
+            "d4-1045-chaitanya-asawa-from-ambient-documentation-to-clinical",
+            "d4-1110-rashi-agrawal-guardrails-first-engineering-member-facing",
+            "d4-1205-vivek-muppalla-200-million-patient-interactions-later",
+            "d4-1330-clay-cockrell-al-is-becoming-the-worlds",
+            "d4-1355-vasant-kearney-healthcares-agent-bytecode-x12-as",
+            "d4-1425-justin-smith-always-on-agents-run-production",
+            "d4-1450-dan-feng-how-to-build-an-ai",
+            "d4-1450-sebastian-fox-inside-847-production-clinical-ai",
+            "d4-1520-anuj-iravane-dont-be-data-poor",
+            "d4-1545-christopher-lovejoy-why-your-enterprise-tech-stack"
+          ]
+        },
+        {
+          "id": "T7.3",
+          "label": "GTM, Sales & Marketing",
+          "gloss": "AI in go-to-market \u2014 sales, marketing, growth.",
+          "size": 10,
+          "event_ids": [
+            "d4-1045-everett-berry-gtm-engineering-the-technical-bits",
+            "d4-1110-aliisa-rosenthal-reverse-engineering-the-ai-buyer",
+            "d4-1140-flora-liu-ai-in-gtm-at-notion",
+            "d4-1205-arman-vaziri-the-building-blocks-of-gtm",
+            "d4-1330-alex-bauer-how-juries-and-librarians-can",
+            "d4-1355-brian-lewis-which-ai-startups-actually-land",
+            "d4-1425-jeffrey-wang-lessons-from-building-the-worlds",
+            "d4-1450-justin-joyce-how-ai-agents-let-gtm",
+            "d4-1520-bil-erdenekhuyag-fin-ai-in-gtm",
+            "d4-1545-stephanie-jarmak-the-death-of-developer-advocates"
+          ]
+        },
+        {
+          "id": "T7.4",
+          "label": "Agentic Commerce & Payments",
+          "gloss": "Agents that transact \u2014 commerce, payments, checkout.",
+          "size": 9,
+          "event_ids": [
+            "d2-1045-nilofer-rajpurkar-inside-the-ai-economy-what",
+            "d2-1205-rafal-wilinski-self-improving-agents-that-teach",
+            "d2-1545-kyle-mistele-the-software-factory-survivors-guide",
+            "d3-1110-matt-lawler-fde-playbook-build-an-ai",
+            "d4-1045-nidhi-kaushik-vyas-designing-multimodal-collaborative-agents-for",
+            "d4-1330-patrick-debois-coding-agents-dont-scale-themselves",
+            "d4-1355-anna-spysz-teaching-agents-to-pay",
+            "d4-1450-idan-gazit-realtime-multiplayer-automation-and-you",
+            "d4-1520-gus-iwanaga-the-end-of-the-static"
+          ]
+        },
+        {
+          "id": "T7.6",
+          "label": "Leadership & Strategy",
+          "gloss": "The CTO/leader view \u2014 strategy, org, and betting on AI.",
+          "size": 32,
+          "event_ids": [
+            "d1-1630-gagan-bhat-evolution-of-agentic-surfaces",
+            "d2-1045-eno-reyes-how-forward-deployed-engineering-is",
+            "d2-1100-martin-harrysson-show-your-workflow-reimagining-ai",
+            "d2-1140-itamar-friedman-the-last-human-code-review",
+            "d2-1140-gabriel-martinez-agents-dont-have-coworkers-they",
+            "d2-1205-hursh-agrawal-prototyping-as-leadership-how-a",
+            "d2-1355-nachiket-paranjape-ai-evals-platform-for-cross",
+            "d2-1425-maria-bledsoe-using-ai-tools-to-teach",
+            "d2-1425-kieran-klaassen-the-era-of-compound-engineering",
+            "d2-1450-clare-liguori-from-ai-assisted-to-ai",
+            "d2-1520-eyal-blum-how-to-get-your-org",
+            "d2-1545-abhi-arya-from-chatbots-to-agents-how",
+            "d3-1045-varun-shenoy-vertical-superintelligence-making-ai-work",
+            "d3-1045-alex-volkov-the-z-l-continuum-should",
+            "d3-1045-sonar-redesigning-how-software-gets-built",
+            "d3-1100-martin-harrysson-tokenomics-from-ai-spend-to",
+            "d3-1110-justin-reock-ai-assisted-engineering-5-trends",
+            "d3-1140-ankit-jain-how-to-kill-the-code",
+            "d3-1230-martin-harrysson-tokenomics-from-ai-spend-to",
+            "d3-1425-mingsheng-hong-from-tokenmaxxing-to-trusted-throughput",
+            "d3-1425-keiji-kanazawa-i-let-agents-refactor-my",
+            "d3-1520-ashu-joshi-deploy-agents-to-users-in",
+            "d3-1545-justin-reock-the-state-of-ai-in",
+            "d4-1100-martin-harrysson-the-agentic-product-development-organization",
+            "d4-1205-archana-kamath-preferences-benchmarks-model-routing-for",
+            "d4-1330-josh-leavitt-from-zero-to-ai-native",
+            "d4-1425-kunal-lanjewar-your-hero-agent-needs-a",
+            "d4-1450-salman-munaf-ai-agents-are-just-distributed",
+            "d4-1450-felipe-blanes-designing-evals-that-earn-user",
+            "d4-1450-the-software-factory",
+            "d4-1520-lena-hall-the-signal-layer-what-to",
+            "d4-1520-sachin-malhotra-give-the-agent-a-budget"
+          ]
+        },
+        {
+          "id": "T7.5",
+          "label": "Enterprise Adoption & AI-Native Orgs",
+          "gloss": "Getting AI into the enterprise \u2014 adoption, rollout, becoming AI-native.",
+          "size": 22,
+          "event_ids": [
+            "d2-1045-dan-adler-the-enterprise-agentic-gap-when",
+            "d2-1110-pauline-brunet-how-forward-deployed-engineering-is",
+            "d2-1140-vasuman-moza-ai-tools-for-forward-deployed",
+            "d2-1205-jia-wu-how-forward-deployed-engineering-is",
+            "d2-1330-natalie-meurer-the-dirty-secret-of-forward",
+            "d2-1355-sunny-rekhi-how-forward-deployed-engineering-is",
+            "d2-1425-leo-mehr-how-forward-deployed-engineering-is",
+            "d2-1450-nick-heiner-when-will-the-benchmaxxing-plague",
+            "d2-1450-niels-rogge-how-i-automate-my-own",
+            "d2-1520-vinoo-ganesh-how-forward-deployed-engineering-is",
+            "d2-1545-oscar-mullin-ai-transforming-18k-engineers-40k",
+            "d3-1045-circle-expo-session",
+            "d3-1045-wallon-walusayi-ai-engineering-governance-2026-trends",
+            "d3-1110-vlad-luzin-is-orchestration-the-future",
+            "d3-1140-varun-pant-your-code-has-bugs-lean4",
+            "d3-1205-imad-touil-ai-native-organisations-runs-on",
+            "d3-1545-rania-khalaf-the-chief-ai-officer-a",
+            "d4-1045-wallon-walusayi-ai-engineering-governance-2026-trends",
+            "d4-1205-sandhya-subramani-agents-that-forge-their-own",
+            "d4-1425-ashu-joshi-operate-agents-safely-at-scale",
+            "d4-1425-melanie-warrick-the-human-is-an-async",
+            "d4-1710-howie-liu-startup-battlefield"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Security & Trust for AI Systems",
+      "gloss": "Keeping agentic systems safe \u2014 agent permissions and the lethal trifecta, secure AI-written code, and trust/governance.",
+      "size": 27,
+      "representative_event_ids": [
+        "d2-1140-moritz-johner-we-gave-an-agent-production",
+        "d2-1425-steve-yegge-agentic-security-permissions-provenance-and",
+        "d1-1420-mark-lummus-burn-your-flags-how-paypal",
+        "d2-1545-kenton-varda-gadgets-personal-app-vibe-coding",
+        "d2-1520-aaron-stanley-ais-jurassic-park-period"
+      ],
+      "subclusters": [
+        {
+          "id": "T8.2",
+          "label": "AppSec & Secure Coding",
+          "gloss": "Security of AI-written code and the software supply chain.",
+          "size": 6,
+          "event_ids": [
+            "d1-1630-john-craft-from-approval-loops-to-autonomous",
+            "d2-1045-david-hsu-governance-is-the-real-bottleneck",
+            "d2-1330-greg-pstrucha-stop-prompting",
+            "d2-1450-kim-maida-its-10pm-do-you-know",
+            "d2-1545-kenton-varda-gadgets-personal-app-vibe-coding",
+            "d2-1545-tushar-jain-unlock-agent-autonomy-the-runtime"
+          ]
+        },
+        {
+          "id": "T8.1",
+          "label": "Agent Security & Permissions",
+          "gloss": "Locking down what agents can do \u2014 permissions, isolation, the lethal trifecta.",
+          "size": 16,
+          "event_ids": [
+            "d1-1210-nick-nisi-lifestyles-of-the-ai-native",
+            "d1-1420-mark-lummus-burn-your-flags-how-paypal",
+            "d1-1630-bereket-habtemeskel-agent-auth",
+            "d2-1045-ryan-dahl-security-firewall-for-agents",
+            "d2-1045-manoj-nair-through-the-ai-fog-the",
+            "d2-1110-vinoth-govindarajan-your-agent-didnt-fail-your",
+            "d2-1140-moritz-johner-we-gave-an-agent-production",
+            "d2-1205-ezra-tanzer-agentic-development-security",
+            "d2-1355-sarthak-aggarwal-it-admin-for-the-ai",
+            "d2-1425-steve-yegge-agentic-security-permissions-provenance-and",
+            "d2-1520-aaron-stanley-ais-jurassic-park-period",
+            "d3-1110-andrew-garvin-how-to-avoid-disaster-when",
+            "d3-1450-adi-singh-the-next-trillion-users-of",
+            "d3-1450-eli-cohen-continuous-offensive-security-the-only",
+            "d4-1330-brendan-rappazzo-loophole-adversarial-agents-to-stress",
+            "d4-1425-sarah-sanders-we-let-an-ai-agent"
+          ]
+        },
+        {
+          "id": "T8.3",
+          "label": "Trust, Safety & Governance",
+          "gloss": "Trust, safety, and governance for AI systems.",
+          "size": 5,
+          "event_ids": [
+            "d1-0900-javier-garza-ai-security-engineering-101",
+            "d1-1420-micah-silverman-ai-security-engineering-201",
+            "d2-1330-eugene-yan-using-llms-to-secure-source",
+            "d2-1545-ethan-sutin-secure-cloud-compute",
+            "d4-1425-braintrust-expo-session-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "event_id": "d1-1815-runway-ai-film-festival",
+      "why": "An AI film-festival screening, not an engineering session \u2014 generative media meets the creative arts (film, fashion, advertising); no topical neighbours in the program."
+    },
+    {
+      "event_id": "d4-1330-todd-fisher-while-my-guitar-gently-speaks",
+      "why": "Live music performance fused with coding agents and generative media \u2014 bridges creative arts and software in a way no single theme holds."
+    },
+    {
+      "event_id": "d4-1205-arturo-nunez-the-next-game-engine-wont",
+      "why": "Game-engine design as its own craft (art + engineering + entertainment), arguing LLMs alone won't crack it \u2014 sits outside the app/infra spine."
+    },
+    {
+      "event_id": "d3-1045-dhruv-batra-computer-use-models-will-agentify",
+      "why": "An embodied/robotics framing of computer-use ('agentify the web, not APIs') that straddles agents, robotics world-models, and HCI."
+    },
+    {
+      "event_id": "d2-1545-amit-desai-reduce-the-ouch-smarter-behavior",
+      "why": "Voice-controlled physical robots optimized for user satisfaction over accuracy \u2014 an HCI/robotics crossover rare in a software-agent program."
+    },
+    {
+      "event_id": "d4-1425-ayush-bhardwaj-trading-desks-to-clinical-trials",
+      "why": "Deliberately bridges two verticals \u2014 finance and healthcare/pharma \u2014 to extract shared vertical-AI patterns; belongs to neither alone."
+    },
+    {
+      "event_id": "d2-1205-dat-ngo-your-agent-is-lying-to",
+      "why": "An agent-honesty / trajectory-truth talk with an unusual healthcare + recsys mix that refuses the standard eval vocabulary."
+    },
+    {
+      "event_id": "d4-1450-jay-mok-your-agent-just-authorized-what",
+      "why": "Agentic-commerce guardrails spanning security, finance, healthcare and payments at once \u2014 a true multi-theme bridge with no dominant home."
+    },
+    {
+      "event_id": "d2-1355-jim-clark-who-approved-that-mcp-server",
+      "why": "Supply-chain governance of the MCP tool layer (vetting/signing servers) \u2014 a narrow security-meets-agent-infra org practice."
+    },
+    {
+      "event_id": "d3-1330-paul-bakaus-design-at-the-speed-of",
+      "why": "Reframes design tooling as the wrong abstraction for AI \u2014 bridges generative media, design craft, and code generation."
+    },
+    {
+      "event_id": "d1-1700-joyce-zhang-human-connection-in-the-age",
+      "why": "A 'Touchy Feely' interpersonal-skills workshop \u2014 a deliberately human, non-technical session amid an engineering program (a selection-bias probe)."
+    },
+    {
+      "event_id": "d4-1545-sai-krishna-rallabandi-wearing-the-agent-engineering-a",
+      "why": "A hyper-personal family-and-friends agent run in production for a year across WhatsApp/Telegram/Discord \u2014 a many-topic build that resists any one theme."
+    },
+    {
+      "event_id": "d4-1355-christopher-burns-how-we-got-llms-to",
+      "why": "LLMs as a new distribution channel \u2014 getting an open-source library recommended by Claude; a GTM/marketing-meets-open-source oddity."
+    },
+    {
+      "event_id": "d3-1355-prukalpa-sankar-cut-through-the-context-hype",
+      "why": "Pulls robotics 'world-model' language into enterprise context engineering ('a world model of your business') \u2014 an unusual cross-framing."
+    },
+    {
+      "event_id": "d3-1450-patricija-emaityt-how-web-data-infrastructure-powers",
+      "why": "Web-data infrastructure purpose-built for computer-use agents \u2014 an infra niche straddling crawling, computer-use, and data."
+    },
+    {
+      "event_id": "d4-1110-tisha-chawla-finops-for-ai-agents-who",
+      "why": "FinOps / cost-engineering for autonomous agents ('who spent all the tokens?') \u2014 a finance-meets-observability discipline that fits no single track."
+    },
+    {
+      "event_id": "d4-1520-daniel-chalef-citation-needed-provenance-for-llm",
+      "why": "Provenance and citation for agent outputs in regulated, knowledge-graph-backed settings \u2014 a trust/grounding niche between themes."
+    }
+  ]
+}

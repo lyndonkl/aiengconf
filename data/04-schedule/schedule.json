@@ -1,0 +1,703 @@
+{
+  "generated_on": "2026-06-27",
+  "method": "greedy-local-search (block-structured, paced; conf-schedule-optimization skill, parameterized for this conference)",
+  "selections": [
+    {
+      "day": "2026-06-28",
+      "start": "09:00",
+      "end": "11:00",
+      "event_id": "d1-0900-charlie-guo-cooking-with-codex",
+      "room": "Track 3",
+      "title": "Cooking with Codex",
+      "speaker": "Charlie Guo",
+      "format": "workshop",
+      "theme": "T1",
+      "capacity_constrained": true,
+      "score": 0.564,
+      "why": "standout hands-on lab in your T1 lane (Codex coding-agent harness / Tools & MCP); Workshop-Day quota",
+      "alternatives": [
+        {
+          "event_id": "d1-0900-doug-guthrie-advanced-workshop-mastering-ai-observability",
+          "score": 0.635,
+          "why_not": "lower fit (0.635 vs 0.564; Evaluation, Observability & Data Quality)"
+        },
+        {
+          "event_id": "d1-0900-zach-blumenfeld-ai-on-your-lakehouse-context",
+          "score": 0.559,
+          "why_not": "near-tie -> see unresolved_conflicts; lower fit (0.559 vs 0.564; Retrieval, Memory & Knowledge)"
+        }
+      ]
+    },
+    {
+      "day": "2026-06-28",
+      "start": "14:20",
+      "end": "16:20",
+      "event_id": "d1-1420-louis-fran-ois-context-engineering-in-2026-compaction",
+      "room": "Track 6",
+      "title": "Context Engineering in 2026: Compaction, Memory & Cost",
+      "speaker": "Louis-Fran\u00e7ois Bouchard",
+      "format": "workshop",
+      "theme": "T5",
+      "capacity_constrained": true,
+      "score": 0.595,
+      "why": "standout hands-on lab in your T1_prioritize 'Context Engineering' (compaction/memory/cost); affinity model files it under T5, but it is the context-engineering lab \u2014 Workshop-Day quota",
+      "alternatives": [
+        {
+          "event_id": "d1-1420-pamela-fox-observe-optimize-and-protect-your",
+          "score": 0.638,
+          "why_not": "near-tie -> see unresolved_conflicts; lower fit (0.638 vs 0.595; Evaluation, Observability & Data Quality)"
+        },
+        {
+          "event_id": "d1-1420-emile-baizel-build-with-perception-agents",
+          "score": 0.578,
+          "why_not": "near-tie -> see unresolved_conflicts; lower fit (0.578 vs 0.595; Multimodal, Voice & Generative Media)"
+        }
+      ]
+    },
+    {
+      "day": "2026-06-29",
+      "start": "09:25",
+      "end": "09:45",
+      "event_id": "d2-0925-alexander-embiricos-opening-keynote-topic-tbd",
+      "room": "Main Stage",
+      "title": "Opening Keynote: Topic TBD",
+      "speaker": "Alexander Embiricos",
+      "format": "keynote",
+      "theme": "T2",
+      "capacity_constrained": false,
+      "score": 0.44,
+      "why": "forced in (anchored keynote / must-attend)",
+      "alternatives": []
+    },
+    {
+      "day": "2026-06-29",
+      "start": "11:10",
+      "end": "11:30",
+      "event_id": "d2-1110-will-lyon-actionable-knowledge-for-agents-with",
+      "room": "Expo Stage 2 NW",
+      "title": "Actionable Knowledge For Agents With Context Graphs",
+      "speaker": "Will Lyon",
+      "format": "talk",
+      "theme": "T1",
+      "capacity_constrained": false,
+      "score": 0.931,
+      "why": "top Agent Harnesses & Orchestration pick for its slot (interest 0.931)",
+      "alternatives": [
+        {
+          "event_id": "d2-1110-jo-kristian-bergum-the-unreasonable-effectiveness-of-bm25",
+          "score": 0.597,
+          "why_not": "lower fit (0.597 vs 0.931; Retrieval, Memory & Knowledge)"
+        },
+        {
+          "event_id": "d2-1110-tereza-t-kov-rise-of-the-software-factory",
+          "score": 0.589,
+          "why_not": "lower fit (0.589 vs 0.931; Building & Operating Agents)"
+        }
+      ]
+    },
+    {
+      "day": "2026-06-29",
+      "start": "11:40",
+      "end": "12:00",
+      "event_id": "d2-1140-benjamin-guo-everyone-gets-a-software-company",
+      "room": "Track 1",
+      "title": "Everyone Gets A Software Company",
+      "speaker": "Benjamin Guo",
+      "format": "talk",
+      "theme": "T1",
+      "capacity_constrained": false,
+      "score": 0.993,
+      "why": "top Agent Harnesses & Orchestration pick for its slot (interest 0.993)",
+      "alternatives": [
+        {
+          "event_id": "d2-1140-uday-kiran-medisetty-the-ai-native-software-factory",
+          "score": 0.644,
+          "why_not": "lower fit (0.644 vs 0.993; Building & Operating Agents)"
+        },
+        {
+          "event_id": "d2-1140-andreea-ple-ea-would-your-ai-agent-get",
+          "score": 0.549,
+          "why_not": "lower fit (0.549 vs 0.993; Evaluation, Observability & Data Quality)"
+        }
+      ]
+    },
+    {
+      "day": "2026-06-29",
+      "start": "13:55",
+      "end": "14:15",
+      "event_id": "d2-1355-lance-martin-claude-for-long-horizon-tasks",
+      "room": "Track 1",
+      "title": "Claude for long-horizon tasks",
+      "speaker": "Lance Martin",
+      "format": "talk",
+      "theme": "T1",
+      "capacity_constrained": false,
+      "score": 0.993,
+      "why": "top Agent Harnesses & Orchestration pick for its slot (interest 0.993)",
+      "alternatives": [
+        {
+          "event_id": "d2-1355-derek-meegan-deploying-browser-agents-at-scale",
+          "score": 0.67,
+          "why_not": "lower fit (0.67 vs 0.993; Building & Operating Agents)"
+        },
+        {
+          "event_id": "d2-1355-jim-clark-who-approved-that-mcp-server",
+          "score": 0.558,
+          "why_not": "lower fit (0.558 vs 0.993; Building & Operating Agents)"
+        }
+      ]
+    },
+    {
+      "day": "2026-06-29",
+      "start": "14:25",
+      "end": "14:45",
+      "event_id": "d2-1425-karan-vaidya-tool-execution-layer-for-agents",
+      "room": "Track 1",
+      "title": "Tool Execution layer for agents",
+      "speaker": "Karan Vaidya",
+      "format": "talk",
+      "theme": "T1",
+      "capacity_constrained": false,
+      "score": 0.791,
+      "why": "highest-fit feasible talk for its slot (interest 0.791)",
+      "alternatives": [
+        {
+          "event_id": "d2-1425-idan-gazit-build-agents-fast-with-github",
+          "score": 0.578,
+          "why_not": "lower fit (0.578 vs 0.791; Coding Agents & AI-Native Dev)"
+        },
+        {
+          "event_id": "d2-1425-cody-menefee-youre-not-thinking-big-enough",
+          "score": 0.524,
+          "why_not": "lower fit (0.524 vs 0.791; Retrieval, Memory & Knowledge)"
+        }
+      ]
+    },
+    {
+      "day": "2026-06-29",
+      "start": "16:30",
+      "end": "16:50",
+      "event_id": "d2-1630-dex-horthy-harness-engineering-is-not-enough",
+      "room": "Main Stage",
+      "title": "Harness Engineering is not Enough: Why Software Factories Fail",
+      "speaker": "Dex Horthy",
+      "format": "keynote",
+      "theme": "T2",
+      "capacity_constrained": false,
+      "score": 0.347,
+      "why": "forced in (anchored keynote / must-attend)",
+      "alternatives": []
+    },
+    {
+      "day": "2026-06-30",
+      "start": "09:25",
+      "end": "09:45",
+      "event_id": "d3-0925-tariq-shaukat-in-the-land-of-ai",
+      "room": "Main Stage",
+      "title": "In the Land of AI Agents, the Verifiers Are King",
+      "speaker": "Tariq Shaukat",
+      "format": "keynote",
+      "theme": "T2",
+      "capacity_constrained": false,
+      "score": 0.499,
+      "why": "forced in (anchored keynote / must-attend)",
+      "alternatives": []
+    },
+    {
+      "day": "2026-06-30",
+      "start": "11:10",
+      "end": "11:30",
+      "event_id": "d3-1110-kevin-madura-its-tokens-all-the-way",
+      "room": "Track 8",
+      "title": "It's Tokens All The Way Down: How RLMs are Different",
+      "speaker": "Kevin Madura",
+      "format": "talk",
+      "theme": "T1",
+      "capacity_constrained": false,
+      "score": 0.77,
+      "why": "top Context Engineering pick for its slot (interest 0.77)",
+      "alternatives": [
+        {
+          "event_id": "d3-1110-viren-baraiya-harnessing-agents-the-durable-runtime",
+          "score": 0.72,
+          "why_not": "lower fit (0.72 vs 0.77; Building & Operating Agents)"
+        },
+        {
+          "event_id": "d3-1110-jason-lopatecki-from-alert-to-pr-building",
+          "score": 0.658,
+          "why_not": "lower fit (0.658 vs 0.77; Evaluation, Observability & Data Quality)"
+        }
+      ]
+    },
+    {
+      "day": "2026-06-30",
+      "start": "11:40",
+      "end": "12:00",
+      "event_id": "d3-1140-ajay-prakash-500-skills-zero-fine-tuning",
+      "room": "Track 8",
+      "title": "500 Skills, Zero Fine-Tuning: LinkedIn's Playbook for AI Agents That Actually Know Your Codebase",
+      "speaker": "Ajay Prakash",
+      "format": "talk",
+      "theme": "T1",
+      "capacity_constrained": false,
+      "score": 0.808,
+      "why": "top Context Engineering pick for its slot (interest 0.808)",
+      "alternatives": [
+        {
+          "event_id": "d3-1140-peter-werry-how-to-generate-mergeable-code",
+          "score": 0.775,
+          "why_not": "near-tie -> see unresolved_conflicts; lower fit (0.775 vs 0.808; Building & Operating Agents)"
+        },
+        {
+          "event_id": "d3-1140-jake-broekhuizen-the-next-run-should-be",
+          "score": 0.72,
+          "why_not": "lower fit (0.72 vs 0.808; Retrieval, Memory & Knowledge)"
+        }
+      ]
+    },
+    {
+      "day": "2026-06-30",
+      "start": "14:50",
+      "end": "15:10",
+      "event_id": "d3-1450-dustin-mihalik-mcp-apps-give-the-model",
+      "room": "Track 8",
+      "title": "MCP Apps: Give the Model Data, Give the User a UI",
+      "speaker": "Dustin Mihalik",
+      "format": "talk",
+      "theme": "T1",
+      "capacity_constrained": false,
+      "score": 0.85,
+      "why": "top Context Engineering pick for its slot (interest 0.85)",
+      "alternatives": [
+        {
+          "event_id": "d3-1450-roberto-milev-agents-are-where-microservices-were",
+          "score": 0.765,
+          "why_not": "lower fit (0.765 vs 0.85; Retrieval, Memory & Knowledge)"
+        },
+        {
+          "event_id": "d3-1450-adi-singh-the-next-trillion-users-of",
+          "score": 0.628,
+          "why_not": "lower fit (0.628 vs 0.85; Security & Trust for AI Systems)"
+        }
+      ]
+    },
+    {
+      "day": "2026-06-30",
+      "start": "15:20",
+      "end": "15:40",
+      "event_id": "d3-1520-cornelia-davis-mcp-tasks-async-why-the",
+      "room": "Track 8",
+      "title": "MCP Tasks (async)/ Why the heck aren't any agents supporting MCP tasks/async?",
+      "speaker": "Cornelia Davis",
+      "format": "talk",
+      "theme": "T1",
+      "capacity_constrained": false,
+      "score": 0.847,
+      "why": "top Context Engineering pick for its slot (interest 0.847)",
+      "alternatives": [
+        {
+          "event_id": "d3-1520-roland-gavrilescu-autoresearch-in-the-wild",
+          "score": 0.773,
+          "why_not": "lower fit (0.773 vs 0.847; Evaluation, Observability & Data Quality)"
+        },
+        {
+          "event_id": "d3-1520-brian-douglas-dont-write-skills-train-models",
+          "score": 0.705,
+          "why_not": "lower fit (0.705 vs 0.847; Building & Operating Agents)"
+        }
+      ]
+    },
+    {
+      "day": "2026-06-30",
+      "start": "15:45",
+      "end": "16:05",
+      "event_id": "d3-1545-alex-hancock-the-universal-remote-control-for",
+      "room": "Track 8",
+      "title": "The Universal Remote Control for AI",
+      "speaker": "Alex Hancock",
+      "format": "talk",
+      "theme": "T1",
+      "capacity_constrained": false,
+      "score": 0.846,
+      "why": "top Context Engineering pick for its slot (interest 0.846)",
+      "alternatives": [
+        {
+          "event_id": "d3-1545-philipp-schmid-dont-ship-skills-without-evals",
+          "score": 0.717,
+          "why_not": "lower fit (0.717 vs 0.846; Evaluation, Observability & Data Quality)"
+        },
+        {
+          "event_id": "d3-1545-brian-douglas-dont-write-skills-train-models",
+          "score": 0.705,
+          "why_not": "lower fit (0.705 vs 0.846; Building & Operating Agents)"
+        }
+      ]
+    },
+    {
+      "day": "2026-07-01",
+      "start": "09:00",
+      "end": "09:20",
+      "event_id": "d4-0900-matt-pocock-building-great-agent-skills-the",
+      "room": "Main Stage",
+      "title": "Building Great Agent Skills: The Missing Manual",
+      "speaker": "Matt Pocock",
+      "format": "keynote",
+      "theme": "T2",
+      "capacity_constrained": false,
+      "score": 0.527,
+      "why": "forced in (anchored keynote / must-attend)",
+      "alternatives": []
+    },
+    {
+      "day": "2026-07-01",
+      "start": "10:20",
+      "end": "10:30",
+      "event_id": "d4-1020-emil-eifrem-why-graphs",
+      "room": "Main Stage",
+      "title": "Why Graphs?",
+      "speaker": "Emil Eifrem",
+      "format": "keynote",
+      "theme": "T5",
+      "capacity_constrained": false,
+      "score": 0.68,
+      "why": "in-lane keynote alternate (T5 Retrieval/Knowledge, neighbors_in); cheap same-room add",
+      "alternatives": []
+    },
+    {
+      "day": "2026-07-01",
+      "start": "10:45",
+      "end": "11:05",
+      "event_id": "d4-1045-katelyn-lesse-tokens-should-have-jobs",
+      "room": "Main Stage",
+      "title": "Tokens Should Have Jobs",
+      "speaker": "Katelyn Lesse",
+      "format": "talk",
+      "theme": "T1",
+      "capacity_constrained": false,
+      "score": 0.803,
+      "why": "top Agent Harnesses & Orchestration pick for its slot (interest 0.803)",
+      "alternatives": [
+        {
+          "event_id": "d4-1045-serena-ge-deepswe-expert-code-datasets",
+          "score": 0.642,
+          "why_not": "lower fit (0.642 vs 0.803; Evaluation, Observability & Data Quality)"
+        },
+        {
+          "event_id": "d4-1045-stephen-chin-crabrag-why-automated-assistants-need",
+          "score": 0.601,
+          "why_not": "lower fit (0.601 vs 0.803; Retrieval, Memory & Knowledge)"
+        }
+      ]
+    },
+    {
+      "day": "2026-07-01",
+      "start": "11:10",
+      "end": "11:30",
+      "event_id": "d4-1110-yohei-nakajima-active-graph-agent-runtime-babyagi",
+      "room": "Track 5",
+      "title": "Tracing and debugging agents across systems with OpenTelemetry",
+      "speaker": "Chang Liu",
+      "format": "talk",
+      "theme": "T3",
+      "capacity_constrained": false,
+      "score": 0.711,
+      "why": "user-resolved tie A2: chose T5 memory/graphs (Yohei Nakajima, Active Graph Agent Runtime / BabyAGI 4) over T3 tracing",
+      "alternatives": [
+        {
+          "event_id": "d4-1110-chang-liu-tracing-and-debugging-agents-across",
+          "score": 0.718,
+          "why_not": "Chang Liu OTel tracing (T3) - user picked the T5 option in the tie"
+        }
+      ]
+    },
+    {
+      "day": "2026-07-01",
+      "start": "12:05",
+      "end": "12:25",
+      "event_id": "d4-1205-arturo-nunez-the-next-game-engine-wont",
+      "room": "Track 1",
+      "score": 0.2,
+      "why": "user-added serendipity wildcard (B2); lunch flexes 20 min on Jul 1",
+      "alternatives": []
+    },
+    {
+      "day": "2026-07-01",
+      "start": "14:50",
+      "end": "15:10",
+      "event_id": "d4-1450-dru-knox-harness-engineering-the-new-core",
+      "room": "Expo Stage 1 NE",
+      "title": "Harness Engineering: The New Core Skill for Agentic Developers",
+      "speaker": "Dru Knox",
+      "format": "talk",
+      "theme": "T1",
+      "capacity_constrained": false,
+      "score": 0.931,
+      "why": "top Agent Harnesses & Orchestration pick for its slot (interest 0.931)",
+      "alternatives": [
+        {
+          "event_id": "d4-1450-kay-malcolm-no-memory-no-harness-why",
+          "score": 0.805,
+          "why_not": "lower fit (0.805 vs 0.931; Building & Operating Agents)"
+        },
+        {
+          "event_id": "d4-1450-jeremy-adams-small-claws-are-beautiful-edge",
+          "score": 0.712,
+          "why_not": "lower fit (0.712 vs 0.931; Retrieval, Memory & Knowledge)"
+        }
+      ]
+    },
+    {
+      "day": "2026-07-01",
+      "start": "15:20",
+      "end": "15:40",
+      "event_id": "d4-1520-remy-guercio-an-ai-future-without-the",
+      "room": "Expo Stage 4 SE",
+      "title": "An AI Future Without the Lock-In",
+      "speaker": "Remy Guercio",
+      "format": "talk",
+      "theme": "T1",
+      "capacity_constrained": false,
+      "score": 0.645,
+      "why": "highest-fit feasible talk for its slot (interest 0.645)",
+      "alternatives": [
+        {
+          "event_id": "d4-1520-andrew-qu-we-solved-agent-building-the",
+          "score": 0.643,
+          "why_not": "near-tie -> see unresolved_conflicts; lower fit (0.643 vs 0.645; Retrieval, Memory & Knowledge)"
+        },
+        {
+          "event_id": "d4-1520-karthik-ranganathan-agent-memory-is-a-solved",
+          "score": 0.621,
+          "why_not": "near-tie -> see unresolved_conflicts; lower fit (0.621 vs 0.645; Retrieval, Memory & Knowledge)"
+        }
+      ]
+    }
+  ],
+  "free_blocks": [
+    {
+      "day": "2026-06-28",
+      "start": "08:30",
+      "end": "09:00",
+      "purpose": "buffer"
+    },
+    {
+      "day": "2026-06-28",
+      "start": "11:00",
+      "end": "14:20",
+      "purpose": "break"
+    },
+    {
+      "day": "2026-06-28",
+      "start": "16:20",
+      "end": "19:00",
+      "purpose": "networking"
+    },
+    {
+      "day": "2026-06-29",
+      "start": "08:30",
+      "end": "09:25",
+      "purpose": "break"
+    },
+    {
+      "day": "2026-06-29",
+      "start": "09:45",
+      "end": "11:10",
+      "purpose": "break"
+    },
+    {
+      "day": "2026-06-29",
+      "start": "11:30",
+      "end": "11:40",
+      "purpose": "buffer"
+    },
+    {
+      "day": "2026-06-29",
+      "start": "12:00",
+      "end": "13:55",
+      "purpose": "meal"
+    },
+    {
+      "day": "2026-06-29",
+      "start": "14:15",
+      "end": "14:25",
+      "purpose": "buffer"
+    },
+    {
+      "day": "2026-06-29",
+      "start": "14:45",
+      "end": "16:30",
+      "purpose": "break"
+    },
+    {
+      "day": "2026-06-29",
+      "start": "16:50",
+      "end": "19:00",
+      "purpose": "networking"
+    },
+    {
+      "day": "2026-06-30",
+      "start": "08:30",
+      "end": "09:25",
+      "purpose": "break"
+    },
+    {
+      "day": "2026-06-30",
+      "start": "09:45",
+      "end": "11:10",
+      "purpose": "break"
+    },
+    {
+      "day": "2026-06-30",
+      "start": "11:30",
+      "end": "11:40",
+      "purpose": "buffer"
+    },
+    {
+      "day": "2026-06-30",
+      "start": "12:00",
+      "end": "14:50",
+      "purpose": "meal"
+    },
+    {
+      "day": "2026-06-30",
+      "start": "15:10",
+      "end": "15:20",
+      "purpose": "buffer"
+    },
+    {
+      "day": "2026-06-30",
+      "start": "15:40",
+      "end": "15:45",
+      "purpose": "buffer"
+    },
+    {
+      "day": "2026-06-30",
+      "start": "16:05",
+      "end": "19:00",
+      "purpose": "networking"
+    },
+    {
+      "day": "2026-07-01",
+      "start": "08:30",
+      "end": "09:00",
+      "purpose": "buffer"
+    },
+    {
+      "day": "2026-07-01",
+      "start": "09:20",
+      "end": "10:20",
+      "purpose": "break"
+    },
+    {
+      "day": "2026-07-01",
+      "start": "10:30",
+      "end": "10:45",
+      "purpose": "buffer"
+    },
+    {
+      "day": "2026-07-01",
+      "start": "11:05",
+      "end": "11:10",
+      "purpose": "buffer"
+    },
+    {
+      "day": "2026-07-01",
+      "start": "11:30",
+      "end": "12:05",
+      "purpose": "meal",
+      "note": "lunch part 1 (flexed for the Next Game Engine wildcard 12:05-12:25)"
+    },
+    {
+      "day": "2026-07-01",
+      "start": "15:10",
+      "end": "15:20",
+      "purpose": "buffer"
+    },
+    {
+      "day": "2026-07-01",
+      "start": "15:40",
+      "end": "19:00",
+      "purpose": "break"
+    },
+    {
+      "day": "2026-07-01",
+      "start": "12:25",
+      "end": "14:50",
+      "purpose": "meal",
+      "note": "lunch part 2"
+    }
+  ],
+  "objective_breakdown": {
+    "interest": 0.729,
+    "breadth": 0.5,
+    "pacing": 0.988,
+    "serendipity": 0.054,
+    "total": 0.689,
+    "weights": {
+      "interest": 0.42,
+      "breadth": 0.16,
+      "pacing": 0.3,
+      "serendipity": 0.12
+    },
+    "post_decision_note": "User resolutions applied. A2 swap is interest-neutral (0.718->0.711, delta -0.007). Adding 1 serendipity wildcard raises the serendipity component above the provisional 0.054; selection count 20->21. Component scores below are the optimizer's provisional values pre-decision; the deltas are negligible and the plan shape (paced, T1-focused) is unchanged."
+  },
+  "unresolved_conflicts": [],
+  "constraints_applied": {
+    "travel_time": "default 5 min; overrides: Main Stage<->Expo 10 min (config travel_time_matrix)",
+    "capacity": "workshops are capacity_constrained (config capacity_rules) \u2014 register early; the 2 Workshop-Day labs + the Human-Connection wildcard are capped sessions",
+    "recorded": "config recorded_policy=unknown for ALL 556 sessions \u2014 recorded status could not break any tie; capacity-constrained (live-only) labs treated as least-replayable",
+    "forced_in": [
+      "d2-0925-alexander-embiricos-opening-keynote-topic-tbd",
+      "d2-1630-dex-horthy-harness-engineering-is-not-enough",
+      "d3-0925-tariq-shaukat-in-the-land-of-ai",
+      "d4-0900-matt-pocock-building-great-agent-skills-the"
+    ],
+    "blackouts": [],
+    "time_blocks": [
+      "lunch kept free ~12:00-13:30 each day (meal)",
+      "evenings kept light after ~17:00 (networking/buffer); only the anchored Dex Horthy 16:30 keynote sits in the wind-down window",
+      "Workshop Day midday kept as a long contiguous break"
+    ],
+    "hard_constraints": [
+      "no time overlap",
+      "room-to-room travel respected",
+      "must-attends forced in",
+      "paced block-caps: ~2 morning + 2-3 afternoon talks/day, contiguous breaks protected",
+      "session days are talks+keynotes only; workshops confined to Workshop Day"
+    ]
+  },
+  "caps_logged": [
+    "content-free placeholders de-prioritised: 21 expo/sponsor/TBA slots excluded from the selectable talk pool (clusters.json flagged 22 content-free expo/sponsor placements); kept in program, never silently dropped",
+    "paced block-caps applied: considered top feasible talk per slot, selected best contiguous run (2 morning / 2-3 afternoon) per day rather than filling every slot \u2014 a deliberate pacing cap, not data loss",
+    "session-day talk pool restricted to format=talk (+ anchored keynotes); multi-part Claude-Managed-Agents labs etc. excluded from session days to honor format_mix",
+    "unresolved-conflict surfacing limited to high-value ties (both candidates >=0.70 and within 0.05); lower-value overlaps recorded as per-pick alternatives only"
+  ],
+  "tradeoffs_note": "Weights are the user's: interest 0.42 / pacing 0.30 / breadth 0.16 / serendipity 0.12. PACING (0.30) bought breathing room at the cost of INTEREST: each session day leaves 3-4 parallel talks per afternoon unattended and Workshop Day runs only two deep labs with a long midday break \u2014 several 0.7-0.85 talks were dropped to keep contiguous recovery time and light evenings. The T1-prioritise focus (harnesses/orchestration + context engineering) plus modest BREADTH (0.16) means the plan tunnels into T1/T3/T5: you will see almost nothing of T4 (model/inference), T6 (multimodal/voice/media) or T7 (enterprise/verticals) \u2014 by design, but that is the substitution. SERENDIPITY (0.12, 'fit when cheap') is left deliberately low: both wildcards are surfaced as your decision rather than forced in, so the serendipity term stays small unless you opt one in. Goodhart honesty: optimizing this weighting maximizes 'paced time in your bullseye theme', which is exactly what under-counts cross-theme discovery and the marginal high-interest talk you'll walk past.",
+  "resolved_decisions": [
+    {
+      "id": "A1",
+      "resolution": "kept Ajay Prakash (500 Skills, LinkedIn)",
+      "by": "user"
+    },
+    {
+      "id": "A2",
+      "resolution": "swapped to Yohei Nakajima (Active Graph Agent / BabyAGI 4, T5)",
+      "by": "user"
+    },
+    {
+      "id": "B1",
+      "resolution": "declined Human Connection wildcard (evenings-light protected)",
+      "by": "user"
+    },
+    {
+      "id": "B2",
+      "resolution": "added The Next Game Engine wildcard (lunch flexed 20 min Jul 1)",
+      "by": "user"
+    },
+    {
+      "id": "C",
+      "resolution": "swyx opening keynote: not added (left to user; can add on request)",
+      "by": "director"
+    }
+  ]
+}

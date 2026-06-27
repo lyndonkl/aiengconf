@@ -11,26 +11,35 @@
       "updated": "2026-06-27"
     },
     "cluster": {
-      "status": "pending",
+      "status": "done",
       "artifact": "data/02-clusters/clusters.json",
       "affinities_artifact": "data/02-clusters/affinities.json",
-      "method": null,
-      "updated": null
+      "method": "llm-reasoned",
+      "verified": "gate cluster->elicit passed: 8 coarse themes, 17 outliers, affinities cover 556/556 ids (top_k=3)",
+      "coarse_themes": 8,
+      "outliers": 17,
+      "updated": "2026-06-27"
     },
     "elicit": {
-      "status": "pending",
+      "status": "done",
       "artifact": "data/03-preferences/profile.json",
       "interactive": true,
-      "region_tightness": null,
-      "outlier_probes_done": null,
-      "updated": null
+      "verified": "gate elicit->schedule passed: status=stable, objective_weights present, outlier_probes_done=2 >= 1 (diversity floor met)",
+      "region_tightness": 0.82,
+      "outlier_probes_done": 2,
+      "profile_summary": "Hands-on agent builder; T1 core (harnesses/orchestration + context engineering) >> T3 evals & T5 memory >> rest; paced; all 4 days; deep/advanced; anchor best keynotes; lunch free + evenings light",
+      "updated": "2026-06-27"
     },
     "schedule": {
-      "status": "pending",
+      "status": "done",
       "artifact": "data/04-schedule/schedule.json",
-      "objective_total": null,
-      "unresolved_conflicts": null,
-      "updated": null
+      "method": "greedy-local-search (block-structured, paced)",
+      "verified": "gate schedule->done passed: schedule.json present, objective_breakdown with user weights echoed, 4 unresolved_conflicts surfaced (not silently resolved), 4/4 forced_in placed, 0 overlaps",
+      "objective_total": 0.689,
+      "selections": 21,
+      "unresolved_conflicts": 0,
+      "conflicts_resolved_by_user": "A1 kept Ajay Prakash; A2 -> Yohei Nakajima (T5); B1 declined Human Connection; B2 added Next Game Engine (lunch flex); C swyx not added",
+      "updated": "2026-06-27"
     }
   },
   "gates": {
