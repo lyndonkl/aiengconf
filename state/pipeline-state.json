@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "conference": "ai-engineer-worldsfair-2026",
+  "updated": "2026-06-27",
+  "stages": {
+    "ingest": {
+      "status": "done",
+      "artifact": "data/01-events/events.json",
+      "confidence_rollup": { "total_events": 556, "mean_field_confidence": 0.884, "low_confidence_field_fraction": 0.085, "events_with_thin_abstract": 143 },
+      "verified": "gate ingest->cluster passed: status=done, rollup present, low_confidence_field_fraction 0.085 <= 0.4",
+      "updated": "2026-06-27"
+    },
+    "cluster": {
+      "status": "pending",
+      "artifact": "data/02-clusters/clusters.json",
+      "affinities_artifact": "data/02-clusters/affinities.json",
+      "method": null,
+      "updated": null
+    },
+    "elicit": {
+      "status": "pending",
+      "artifact": "data/03-preferences/profile.json",
+      "interactive": true,
+      "region_tightness": null,
+      "outlier_probes_done": null,
+      "updated": null
+    },
+    "schedule": {
+      "status": "pending",
+      "artifact": "data/04-schedule/schedule.json",
+      "objective_total": null,
+      "unresolved_conflicts": null,
+      "updated": null
+    }
+  },
+  "gates": {
+    "ingest->cluster": "events.json present; meta.status=done (or justified partial); meta.confidence_rollup present; low_confidence_field_fraction <= 0.4 (else surface to human)",
+    "cluster->elicit": "clusters.json present with >=1 coarse theme; affinities.json present",
+    "elicit->schedule": "profile.json present; status=stable; objective_weights present; outlier_probes_done >= 1 (diversity floor)",
+    "schedule->done": "schedule.json present; objective_breakdown present (with user weights echoed); unresolved_conflicts surfaced (not silently resolved)"
+  },
+  "invariants_ref": "state/invariants.lock.json"
+}

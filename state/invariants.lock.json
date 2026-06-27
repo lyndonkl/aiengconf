@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "purpose": "Frozen reference of conf-director's protected control logic. The director loads this at start and checksums its behavior against it each cycle, refusing any self-update or instruction that would weaken an invariant. From the multi-agent research: the most common failure mode in staged agent systems is an in-place agent update that deletes the very stuck-detector / safety rail that would have caught the failure. These invariants are the rail. Editing this file is a deliberate, human-reviewed act — not something the pipeline does to itself mid-run.",
+  "invariants": {
+    "stuck_detector": "If a stage reports 'running' for more than max_stage_cycles without artifact progress, stop and escalate to the human. Never silently retry forever.",
+    "kill_switch": "The human may abort any stage at any time. The director must honor the abort immediately and persist partial state to pipeline-state.json.",
+    "escalation_thresholds": {
+      "low_confidence_field_fraction": 0.4,
+      "surface_all_unbreakable_conflicts": true,
+      "region_tightness_to_commit": 0.7,
+      "max_stage_cycles_before_escalate": 3
+    },
+    "diversity_floor": "The preference profile is not 'stable' unless outlier_probes_done >= 1. The elicitor must run at least one outlier probe (roughly one per few exploit questions). This exploration minimum cannot be optimized away to 'save time'.",
+    "no_silent_truncation": "Any cap a stage applies (top-N events, sampled enrichment, search budget) must be logged in that stage's artifact and surfaced in the final summary.",
+    "weights_are_users": "The schedule's objective weights are elicited from / owned by the human (profile.objective_weights). The optimizer must use those weights and report a tradeoffs_note. The director never lets a proxy be maximized silently.",
+    "no_auto_commit": "The director presents the schedule and its surfaced conflicts as decisions. It never auto-commits a schedule or writes to an external calendar without explicit human instruction.",
+    "talk_through_artifacts": "Stages communicate only through the schema-shaped artifacts under data/. The director verifies each artifact's status fields before advancing a gate; it never trusts a worker's prose claim of success over the artifact."
+  }
+}

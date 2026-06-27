@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:ai.engineer)",
+      "WebFetch(domain:www.ai.engineer)",
+      "Bash(python3:*)",
+      "Bash(node:*)",
+      "Bash(mkdir:*)",
+      "Bash(ls:*)",
+      "Write(./data/**)",
+      "Write(./state/**)",
+      "Edit(./data/**)",
+      "Edit(./state/**)"
+    ],
+    "deny": []
+  }
+}

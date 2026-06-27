@@ -1,0 +1,115 @@
+{
+  "conference_id": "ai-engineer-worldsfair-2026",
+  "name": "AI Engineer World's Fair 2026",
+  "source_url": "https://www.ai.engineer/worldsfair/2026/llms-full.md",
+  "timezone": "America/Los_Angeles",
+  "_refined": "2026-06-27: rooms, tracks, dates refined from the first real ingest of source_url (556 events). Removed phantom 2026-07-02; replaced inferred track/room placeholders with the program's actual values.",
+  "dates": ["2026-06-28", "2026-06-29", "2026-06-30", "2026-07-01"],
+  "day_themes": {
+    "2026-06-28": "Workshop Day",
+    "2026-06-29": "Session Day 1",
+    "2026-06-30": "Session Day 2",
+    "2026-07-01": "Session Day 3"
+  },
+  "_dates_note": "The program markdown's header claims '5 days' but only 4 are actually scheduled. Config previously listed a 5th date (2026-07-02 'Sessions Day 4') with no program content; removed after ingest confirmed no Day 5 sessions exist.",
+  "venue": "Moscone West, San Francisco, CA",
+  "day_bounds": { "default": { "start": "08:30", "end": "19:00" } },
+
+  "_comment_rooms": "The 18 rooms/stages actually observed in the program's [room] tags after ingest. An event record's room must match one of these (or be null).",
+  "rooms": [
+    "Main Stage",
+    "Track 1", "Track 2", "Track 3", "Track 4", "Track 5",
+    "Track 6", "Track 7", "Track 8", "Track 9",
+    "Track M",
+    "Expo Stage 1 NE", "Expo Stage 2 NW", "Expo Stage 3 SW", "Expo Stage 4 SE",
+    "Leadership 1", "Leadership 2", "Leadership Lounge"
+  ],
+
+  "_comment_tracks": "The actual named tracks from the program's ## Tracks section (39 across days 2-4; union deduped below; Day 1 is hands-on workshops across all tracks with no track table). These are NOT the clustering -- conf-theme-cartographer derives themes independently and may cut across these. Tracks are weak priors / labels only.",
+  "tracks": [
+    "Keynote",
+    "Software Factories",
+    "Claws & Personal Agents",
+    "Vision & OCR",
+    "Search & Retrieval",
+    "Security",
+    "Voice & Realtime AI",
+    "LLM Recsys",
+    "Forward Deployed Engineering",
+    "Data Quality",
+    "AI-Native Enterprises",
+    "AI Architects: Show my Workflow",
+    "AI Architects: Tokenmaxxing",
+    "AI Architects: AI Factories",
+    "CTO Circle",
+    "Autoresearch",
+    "Sandbox & Platform Engineering",
+    "Robotics & World Models",
+    "Memory & Continual Learning",
+    "Evals",
+    "Design Engineering",
+    "Computer Use",
+    "Context Engineering",
+    "Posttraining & Midtraining",
+    "Harness Engineering",
+    "Generative Media",
+    "Agentic Commerce",
+    "AI in Finance",
+    "Local AI",
+    "Graphs",
+    "AI in GTM",
+    "AI in Healthcare",
+    "Agentic Engineering",
+    "Inference",
+    "Workshops Day 2",
+    "Workshops Day 3"
+  ],
+  "_tracks_by_day": {
+    "2026-06-29": ["Software Factories", "Claws & Personal Agents", "Vision & OCR", "Search & Retrieval", "Workshops Day 2", "Security", "Voice & Realtime AI", "LLM Recsys", "Forward Deployed Engineering", "Data Quality", "AI-Native Enterprises", "AI Architects: Show my Workflow", "CTO Circle"],
+    "2026-06-30": ["Autoresearch", "Sandbox & Platform Engineering", "Robotics & World Models", "Memory & Continual Learning", "Workshops Day 3", "Evals", "Design Engineering", "Computer Use", "Context Engineering", "Posttraining & Midtraining", "AI-Native Enterprises", "AI Architects: Tokenmaxxing", "CTO Circle"],
+    "2026-07-01": ["Harness Engineering", "Generative Media", "Agentic Commerce", "AI in Finance", "Local AI", "Graphs", "AI in GTM", "AI in Healthcare", "Agentic Engineering", "Inference", "AI-Native Enterprises", "AI Architects: AI Factories", "CTO Circle"]
+  },
+
+  "travel_time_matrix": {
+    "default_minutes": 5,
+    "_comment": "Minutes to move between rooms in Moscone West. Default 5 min; overrides capture longer hops (Expo floor to Main Stage). Keys are 'RoomA|RoomB' (symmetric).",
+    "overrides": {
+      "Main Stage|Expo Stage 1 NE": 10,
+      "Main Stage|Expo Stage 2 NW": 10,
+      "Main Stage|Expo Stage 3 SW": 10,
+      "Main Stage|Expo Stage 4 SE": 10
+    }
+  },
+
+  "default_objective_weights": {
+    "_comment": "DEFAULTS only. conf-preference-elicitor elicits the attendee's actual weights into profile.json; the optimizer uses THOSE, never these. Provided so a smoke-test run has something to use.",
+    "interest": 0.5,
+    "breadth": 0.2,
+    "pacing": 0.2,
+    "serendipity": 0.1
+  },
+
+  "capacity_rules": {
+    "workshop": { "capacity_constrained": true, "note": "workshops/labs typically require registration and may fill" },
+    "keynote": { "capacity_constrained": false, "note": "main-stage keynotes are open seating" },
+    "talk": { "capacity_constrained": false },
+    "expo": { "capacity_constrained": false },
+    "sponsor": { "capacity_constrained": false },
+    "default": { "capacity_constrained": false }
+  },
+
+  "recorded_policy": {
+    "default": "unknown",
+    "note": "The program does not state recording status per session. Treat recorded=unknown talks as POTENTIALLY skippable when they overlap a higher-priority, capacity-constrained, or non-recorded session. Update this if the conference publishes a recording policy."
+  },
+
+  "data_root": "./data",
+  "state_root": "./state",
+  "stage_dirs": {
+    "source": "./data/00-source",
+    "events": "./data/01-events",
+    "clusters": "./data/02-clusters",
+    "preferences": "./data/03-preferences",
+    "schedule": "./data/04-schedule"
+  }
+}

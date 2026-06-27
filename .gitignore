@@ -1,0 +1,11 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Local-only Claude settings (the shared .claude/settings.json stays tracked)
+.claude/settings.local.json
+.claude/*.local.json
+
+# Logs / scratch
+*.log
+scratchpad/

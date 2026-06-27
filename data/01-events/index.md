@@ -1,0 +1,572 @@
+# AI Engineer World's Fair 2026 - Event Index
+
+556 events across 4 days. Parsed from `data/00-source/llms-full.md`. Markers: [THIN]=thin/absent abstract, [REC]=abstract recovered locally, [TENT]=tentative.
+
+
+## Day 1 - Workshop Day (2026-06-28)
+
+- `09:00-11:00` **From Vibes to Production: Evaluating and Shipping AI Agents That Work 101** - Laurie Voss _(sponsor, Track 1, Track 1)_  `d1-0900-laurie-voss-from-vibes-to-production-evaluating`
+- `09:00-11:00` **AI on Your Lakehouse: Context Comes in Shapes, Not Queries** - Zach Blumenfeld _(sponsor, Track 2, Track 2)_  `d1-0900-zach-blumenfeld-ai-on-your-lakehouse-context`
+- `09:00-11:00` **Cooking with Codex** - Charlie Guo, Gabriel Chua _(sponsor, Track 3, Workshops Day 1)_  `d1-0900-charlie-guo-cooking-with-codex`
+- `09:00-11:00` **The best SDLC is the one you build yourself: Why orchestration changes everything** - Shane Wolf, Andrei Bocan _(sponsor, Track 4, Workshops Day 1)_  `d1-0900-shane-wolf-the-best-sdlc-is-the`
+- `09:00-11:00` **AI Security Engineering 101** - Javier Garza _(sponsor, Track 5, Workshops Day 1)_ [THIN] [TENT]  `d1-0900-javier-garza-ai-security-engineering-101`
+- `09:00-11:00` **Total Recall: Agent Memory and Harness Engineering** - Ignacio Martinez _(sponsor, Track 6, Workshops Day 1)_  `d1-0900-ignacio-martinez-total-recall-agent-memory-and`
+- `09:00-11:00` **Agents That Own Their Inference: Building Production AI Agents on Dedicated GPUs** - Du'an Lightfoot _(sponsor, Track 7, no track)_  `d1-0900-duan-lightfoot-agents-that-own-their-inference`
+- `09:00-11:00` **Open-Source Inference Engineering for the Agentic Era** - Zain Hasan, Yubo Wang, Qingyang Wu, Jue Wang _(sponsor, Track 8, Workshops Day 1)_  `d1-0900-zain-hasan-open-source-inference-engineering-for`
+- `09:00-11:00` **Advanced workshop: Mastering AI Observability** - Doug Guthrie _(talk, Track 9, no track)_  `d1-0900-doug-guthrie-advanced-workshop-mastering-ai-observability`
+- `09:00-10:15` **Get Started with Models in Microsoft Foundry to Build AI Apps** - Pamela Fox _(sponsor, Track M, Track M)_  `d1-0900-pamela-fox-get-started-with-models-in`
+- `11:05-12:05` **How to use Arize's newest features** - Fuad Ali _(sponsor, Track 1, Posttraining & Midtraining)_  `d1-1105-fuad-ali-how-to-use-arizes-newest`
+- `11:05-12:05` **RAG Needs a Map: Using GraphRAG to Retrieve Connected Context** - Nyah Macklin _(sponsor, Track 2, Track 2)_  `d1-1105-nyah-macklin-rag-needs-a-map-using`
+- `11:05-12:05` **How I learned to stop worrying and love the sandbox** - Matt Brockman _(workshop, Track 3, Workshops Day 1)_  `d1-1105-matt-brockman-how-i-learned-to-stop`
+- `11:05-12:05` **The model swap workshop** - Pamela Fox, Arun Sekhar _(workshop, Track 4, Workshops Day 1)_  `d1-1105-pamela-fox-the-model-swap-workshop`
+- `11:05-12:05` **Teaching Agents to Search: Building Synthetic Training Pipelines with NVIDIA Data Designer** - Dhruv Nathawani _(workshop, Track 5, Workshops Day 1)_  `d1-1105-dhruv-nathawani-teaching-agents-to-search-building`
+- `11:05-12:05` **Local LLMs and workstation agents: Part 1** - Ahmad Osman _(workshop, Track 6, Workshops Day 1)_  `d1-1105-ahmad-osman-local-llms-and-workstation-agents`
+- `11:05-12:05` **How to Build Quality Gates into Agentic Coding Workflows** - Nnenna Ndukwe _(workshop, Track 7, Workshops Day 1)_  `d1-1105-nnenna-ndukwe-how-to-build-quality-gates`
+- `11:05-12:05` **What is an Inference Engine, Anyway?** - Charles Frye _(workshop, Track 8, Workshops Day 1)_  `d1-1105-charles-frye-what-is-an-inference-engine`
+- `11:05-12:05` **Agent Speedrun: Idea → Code → Deploy → Observe, Fix → Ship** - Elizabeth Fuentes Leone, Sandhya Subramani _(talk, Track 9, Workshops Day 1)_  `d1-1105-elizabeth-fuentes-leone-agent-speedrun-idea-code-deploy`
+- `11:05-12:05` **From zero to deployed on Azure with AI agents** - Gustavo Cordido _(sponsor, Track M, Track M)_  `d1-1105-gustavo-cordido-from-zero-to-deployed-on`
+- `12:10-13:10` **Evals in AI: A Deep Dive** - Tejas Kumar _(workshop, Track 1, Workshops Day 1)_  `d1-1210-tejas-kumar-evals-in-ai-a-deep`
+- `12:10-13:10` **Lifestyles of the AI-Native: Voice-coding, agent skills, hooks and scheduled tasks** - Nick Nisi, Zack Proser _(workshop, Track 2, Workshops Day 1)_  `d1-1210-nick-nisi-lifestyles-of-the-ai-native`
+- `12:10-13:10` **2 hr deep dive on LLM Inference at Scale — Part 1 of 2** - Harshul Jain, Tanmay Sah _(workshop, Track 3, Workshops Day 1)_  `d1-1210-harshul-jain-2-hr-deep-dive-on`
+- `12:10-13:10` **Build the Right Thing: Product Engineering for Software Developers (Part 1)** - Kent C. Dodds _(workshop, Track 4, Workshops Day 1)_  `d1-1210-kent-c-dodds-build-the-right-thing-product`
+- `12:10-13:10` **From Zero to Leaderboard: Building an End-to-End AI Agent Evaluation Pipeline** - Wolfram Ravenwolf _(workshop, Track 5, Workshops Day 1)_  `d1-1210-wolfram-ravenwolf-from-zero-to-leaderboard-building`
+- `12:10-13:10` **Local LLMs and workstation agents: Part 2** - Ahmad Osman _(workshop, Track 6, Workshops Day 1)_  `d1-1210-ahmad-osman-local-llms-and-workstation-agents`
+- `12:10-13:10` **Beyond RAG: Build a Relational Context Engine from Scratch** - Peter Werry _(workshop, Track 7, Workshops Day 1)_  `d1-1210-peter-werry-beyond-rag-build-a-relational`
+- `12:10-13:10` **Building AI Agents with Real-Time Web Data** - Yohan Raju _(workshop, Track 8, Track 8)_  `d1-1210-yohan-raju-building-ai-agents-with-real`
+- `12:10-13:10` **Research to Reality with Google DeepMind** - Paige Bailey _(workshop, Track 9, Workshops Day 1)_ [THIN]  `d1-1210-paige-bailey-research-to-reality-with-google`
+- `13:15-14:15` **The Cheat Sheet: get evals up and running in minute with Agent Skills** - Ankur Duggal _(sponsor, Track 1, Track 1)_ [THIN]  `d1-1315-ankur-duggal-the-cheat-sheet-get-evals`
+- `13:15-14:15` **2 hr deep dive on LLM Inference at Scale — Part 2 of 2** - Harshul Jain, Tanmay Sah _(sponsor, Track 3, Workshops Day 1)_  `d1-1315-harshul-jain-2-hr-deep-dive-on`
+- `13:15-14:15` **Build the Right Thing: Product Engineering for Software Developers — Part 2** - Kent C. Dodds _(sponsor, Track 4, Workshops Day 1)_  `d1-1315-kent-c-dodds-build-the-right-thing-product`
+- `13:15-14:15` **Build a Platform, Unleash an Agent on it.... and Watch it Burn!** - Michael Forrester, Whitney Lee _(sponsor, Track 5, Workshops Day 1)_  `d1-1315-michael-forrester-build-a-platform-unleash-an`
+- `13:15-14:15` **SonarQube + OpenAI: Wiring Your Team for Agentic Development** - Killian Carlsen-Phelan _(sponsor, Track 6, Track 6)_  `d1-1315-killian-carlsen-phelan-sonarqube-openai-wiring-your-team`
+- `13:15-14:15` **Build a Document Triage Agent with Reducto: Classify, Extract, and More** - (no speaker listed) _(sponsor, Track 7, no track)_  `d1-1315-build-a-document-triage-agent`
+- `13:15-14:15` **Turning My Obsidian Vault Into a Local AI Engineer** - Filip Makraduli _(sponsor, Track 8, Workshops Day 1)_  `d1-1315-filip-makraduli-turning-my-obsidian-vault-into`
+- `13:15-14:15` **Continuously improving agents with Langfuse** - Lotte Verheyden, Annabell Schäfer _(sponsor, Track 9, Workshops Day 1)_  `d1-1315-lotte-verheyden-continuously-improving-agents-with-langfuse`
+- `14:20-16:20` **From Vibes to Production: Evaluating and Shipping AI Agents That Work 201** - Laurie Voss _(sponsor, Track 1, Track 1)_  `d1-1420-laurie-voss-from-vibes-to-production-evaluating`
+- `14:20-16:20` **The Data Context Layer: Why Data Engineering Agents Need More Than Code and Databases** - Yoni Michael _(sponsor, Track 2, Track 2)_  `d1-1420-yoni-michael-the-data-context-layer-why`
+- `14:20-17:30` **Special topics in Kernels, RL, Reward Hacking in Agents** - Daniel Han _(talk, Track 3, Workshops Day 1)_ [THIN]  `d1-1420-daniel-han-special-topics-in-kernels-rl`
+- `14:20-16:20` **Burn your flags: How PayPal designs interactive CLI tools for agents** - Mark Lummus, Navinkumar Patil _(sponsor, Track 4, Workshops Day 1)_  `d1-1420-mark-lummus-burn-your-flags-how-paypal`
+- `14:20-16:20` **AI Security Engineering 201** - Micah Silverman _(sponsor, Track 5, Workshops Day 1)_ [THIN] [TENT]  `d1-1420-micah-silverman-ai-security-engineering-201`
+- `14:20-16:20` **Context Engineering in 2026: Compaction, Memory & Cost** - Louis-François Bouchard, Samridhi Vaid, Omar Solano _(sponsor, Track 6, no track)_  `d1-1420-louis-fran-ois-context-engineering-in-2026-compaction`
+- `14:20-16:20` **Vector Isn't Enough: Hybrid Search & Retrieval for AI Engineers** - Jeff Vestal _(sponsor, Track 7, Track 7)_  `d1-1420-jeff-vestal-vector-isnt-enough-hybrid-search`
+- `14:20-16:20` **Build with Perception Agents** - Emile Baizel, Shruti Arora _(talk, Track 8, Workshops Day 1)_  `d1-1420-emile-baizel-build-with-perception-agents`
+- `14:20-16:20` **Hands-on AutoResearch: Cracking OpenAI's Parameter Golf** - Zhengyao Jiang, Dixing Xu, Vayum Arora, Dhruv Srikanth _(talk, Track 9, Workshops Day 1)_  `d1-1420-zhengyao-jiang-hands-on-autoresearch-cracking-openais`
+- `14:20-15:35` **Observe, optimize and protect your hosted agents in Microsoft Foundry** - Pamela Fox _(sponsor, Track M, Track M)_  `d1-1420-pamela-fox-observe-optimize-and-protect-your`
+- `16:30-17:30` **The Autonomous Computer: Full-stack Infrastructure for Computer Use Agents** - Ang Li _(talk, Track 1, Workshops Day 1)_  `d1-1630-ang-li-the-autonomous-computer-full-stack`
+- `16:30-17:30` **The Dark Arts of Skill Engineering** - Paul Bakaus _(talk, Track 2, no track)_  `d1-1630-paul-bakaus-the-dark-arts-of-skill`
+- `16:30-17:30` **Hill-climbing Skills: How to Improve Agents Without Touching the Model** - Shubhankar Srivastava _(workshop, Track 4, Workshops Day 1)_  `d1-1630-shubhankar-srivastava-hill-climbing-skills-how-to`
+- `16:30-17:30` **Agent Auth** - Bereket Habtemeskel, Paola Estefania _(workshop, Track 5, Workshops Day 1)_  `d1-1630-bereket-habtemeskel-agent-auth`
+- `16:30-17:30` **Prime Intellect Forge** - Will Brown _(workshop, Track 6, Workshops Day 1)_ [THIN] [TENT]  `d1-1630-will-brown-prime-intellect-forge`
+- `16:30-17:30` **From approval loops to autonomous agents with Docker** - John Craft, Dan Ndombe _(workshop, Track 7, Workshops Day 1)_  `d1-1630-john-craft-from-approval-loops-to-autonomous`
+- `16:30-17:30` **The Art and Science of Loopcraft with Pi (and friends)** - Joel Hooks _(workshop, Track 8, Workshops Day 1)_  `d1-1630-joel-hooks-the-art-and-science-of`
+- `16:30-17:30` **Evolution of agentic surfaces** - Gagan Bhat, Isabella Kai He _(workshop, Track 9, Workshops Day 1)_  `d1-1630-gagan-bhat-evolution-of-agentic-surfaces`
+- `17:00-18:00` **Human Connection in the Age of AI** - Joyce Zhang, Carole Robin, Ph.D. _(workshop, Expo Stage 2 NW, Expo Stage 2)_  `d1-1700-joyce-zhang-human-connection-in-the-age`
+- `18:00-18:15` **Expo Welcome Speech** - Sonar, Extend AI _(talk, Expo Stage 3 SW, Expo Stage 3)_ [THIN]  `d1-1800-sonar-expo-welcome-speech`
+- `18:15-19:15` **Runway AI Film Festival** - (no speaker listed) _(talk, Expo Stage 3 SW, Expo Stage 3)_  `d1-1815-runway-ai-film-festival`
+
+## Day 2 - Session Day 1 (2026-06-29)
+
+- `09:00-09:05` **Three Years of AI Engineering** - swyx _(keynote, Main Stage, Software Factories)_ [THIN]  `d2-0900-swyx-three-years-of-ai-engineering`
+- `09:05-09:25` **On AI and Knowledge** - Pablo Castro _(keynote, Main Stage, Software Factories)_ [THIN]  `d2-0905-pablo-castro-on-ai-and-knowledge`
+- `09:25-09:45` **Opening Keynote: Topic TBD** - Alexander Embiricos, Romain Huet _(keynote, Main Stage, Software Factories)_ [THIN]  `d2-0925-alexander-embiricos-opening-keynote-topic-tbd`
+- `09:45-10:05` **Thom Wolf keynote** - Thom Wolf _(keynote, Main Stage, Software Factories)_ [THIN]  `d2-0945-thom-wolf-thom-wolf-keynote`
+- `10:05-10:25` **GLM-5.2: Frontier Intelligence, Open Weights.** - Zixuan Li _(keynote, Main Stage, Software Factories)_ [THIN]  `d2-1005-zixuan-li-glm-5-2-frontier-intelligence`
+- `10:25-10:30` **Security Track intro** - swyx _(keynote, Main Stage, Software Factories)_ [THIN]  `d2-1025-swyx-security-track-intro`
+- `10:45-11:05` **Every AI company is accidentally building a bank.** - Dor Sasson _(talk, Expo Stage 1 NE, Expo Stage NE)_ [THIN]  `d2-1045-dor-sasson-every-ai-company-is-accidentally`
+- `10:45-11:05` **The Enterprise Agentic Gap: When Developer-Level AI Tools Hit Millions of Lines** - Dan Adler _(talk, Expo Stage 2 NW, no track)_  `d2-1045-dan-adler-the-enterprise-agentic-gap-when`
+- `10:45-11:05` **How PayPal Enterprise Payments handles agent-initiated payments across ChatGPT and Google AI Mode** - Sam Parsons _(talk, Expo Stage 3 SW, no track)_  `d2-1045-sam-parsons-how-paypal-enterprise-payments-handles`
+- `10:45-11:05` **Exa Expo Session** - (no speaker listed) _(talk, Expo Stage 4 SE, no track)_ [THIN] [TENT]  `d2-1045-exa-expo-session`
+- `10:45-11:05` **Inside the AI economy: What Stripe's data reveals** - Nilofer Rajpurkar _(talk, Leadership 1, Agentic Commerce)_  `d2-1045-nilofer-rajpurkar-inside-the-ai-economy-what`
+- `10:45-11:05` **Governance Is the Real Bottleneck to AI ROI** - David Hsu _(talk, Leadership 2, Claws & Personal Agents)_  `d2-1045-david-hsu-governance-is-the-real-bottleneck`
+- `10:45-11:05` **Getting the most out of Codex** - Jason Liu _(talk, Main Stage, Software Factories)_ [THIN]  `d2-1045-jason-liu-getting-the-most-out-of`
+- `10:45-11:05` **Security Firewall for Agents** - Ryan Dahl _(talk, Track 1, Claws & Personal Agents)_ [THIN]  `d2-1045-ryan-dahl-security-firewall-for-agents`
+- `10:45-11:05` **The State of Vision** - Joseph Nelson _(sponsor, Track 2, Vision & OCR)_ [THIN]  `d2-1045-joseph-nelson-the-state-of-vision`
+- `10:45-11:05` **Pinecone 2.0** - Edo Liberty _(talk, Track 3, Search & Retrieval)_  `d2-1045-edo-liberty-pinecone-2-0`
+- `10:45-11:05` **Claude Managed Agents Workshop (Part 1)** - Priyanka Phatak, Gabriel Cemaj _(talk, Track 4, Workshops Day 2)_ [THIN]  `d2-1045-priyanka-phatak-claude-managed-agents-workshop-part`
+- `10:45-11:05` **Through the AI Fog: The architectural decision the next 24 months of agentic security depends on.** - Manoj Nair _(sponsor, Track 5, Security)_ [THIN]  `d2-1045-manoj-nair-through-the-ai-fog-the`
+- `10:45-11:05` **The New Primitives: Building AI-Native Software** - Kwindla Kramer _(talk, Track 6, Voice & Realtime AI)_  `d2-1045-kwindla-kramer-the-new-primitives-building-ai`
+- `10:45-11:05` **How Forward Deployed Engineering is done at Factory** - Eno Reyes _(talk, Track 8, Forward Deployed Engineering)_ [THIN]  `d2-1045-eno-reyes-how-forward-deployed-engineering-is`
+- `10:45-11:05` **Data curation for model training** - Ari Morcos _(talk, Track 9, Data Quality)_ [THIN]  `d2-1045-ari-morcos-data-curation-for-model-training`
+- `10:45-11:05` **Build agents fast with GitHub Copilot (from idea to working app)** - Idan Gazit _(sponsor, Track M, Track M)_  `d2-1045-idan-gazit-build-agents-fast-with-github`
+- `11:00-12:00` **Show your workflow: Reimagining AI PDLC with Skills** - Martin Harrysson, Matt Linderman, Prakhar Dixit _(talk, Leadership Lounge, CTO Circle)_  `d2-1100-martin-harrysson-show-your-workflow-reimagining-ai`
+- `11:10-11:30` **Give your coding agents the power of turbogrep!** - Owen Halpert _(talk, Expo Stage 1 NE, no track)_  `d2-1110-owen-halpert-give-your-coding-agents-the`
+- `11:10-11:30` **Actionable Knowledge For Agents With Context Graphs** - Will Lyon _(talk, Expo Stage 2 NW, Expo Stage 2)_ [THIN]  `d2-1110-will-lyon-actionable-knowledge-for-agents-with`
+- `11:10-11:30` **Kimchi Expo Session** - (no speaker listed) _(talk, Expo Stage 3 SW, no track)_ [THIN] [TENT]  `d2-1110-kimchi-expo-session`
+- `11:10-11:30` **Agents, codebases, and teams: what it actually takes to ship together** - Aditya Khandelwal _(talk, Expo Stage 4 SE, no track)_  `d2-1110-aditya-khandelwal-agents-codebases-and-teams-what`
+- `11:10-11:30` **Building the engine while flying the plane — launching the Figma MCP server** - Jesse Lumarie _(talk, Leadership 1, AI-Native Enterprises)_  `d2-1110-jesse-lumarie-building-the-engine-while-flying`
+- `11:10-11:30` **Your Agent Evolved. Your Evals Didn't.** - Ameya Bhatawdekar _(talk, Leadership 2, AI Architects: Show my Workflow)_  `d2-1110-ameya-bhatawdekar-your-agent-evolved-your-evals`
+- `11:10-11:30` **Rise of the Software Factory** - Tereza Tížková _(talk, Main Stage, Software Factories)_  `d2-1110-tereza-t-kov-rise-of-the-software-factory`
+- `11:10-11:30` **Your Agent Didn't Fail. Your Harness Did.** - Vinoth Govindarajan _(talk, Track 1, Claws & Personal Agents)_  `d2-1110-vinoth-govindarajan-your-agent-didnt-fail-your`
+- `11:10-11:30` **Building LiteParse: the world's fastest PDF -> markdown parser** - Jerry Liu _(sponsor, Track 2, Vision & OCR)_ [THIN]  `d2-1110-jerry-liu-building-liteparse-the-worlds-fastest`
+- `11:10-11:30` **The unreasonable effectiveness of BM25 for agentic search** - Jo Kristian Bergum _(talk, Track 3, Search & Retrieval)_  `d2-1110-jo-kristian-bergum-the-unreasonable-effectiveness-of-bm25`
+- `11:10-11:30` **Claude Managed Agents workshop (Part 2)** - Priyanka Phatak, Gabriel Cemaj _(talk, Track 4, Workshops Day 2)_ [THIN]  `d2-1110-priyanka-phatak-claude-managed-agents-workshop-part`
+- `11:10-11:30` **Your LLM Stack Is a 2008 Database With Better Marketing: Why ML Security Is Dominated by Misconfiguration, Not Missing Features** - Lovina Dmello _(sponsor, Track 5, Security)_  `d2-1110-lovina-dmello-your-llm-stack-is-a`
+- `11:10-11:30` **Speech-to-Speech Model Research at Google DeepMind** - Valeria Wu Fon, Tom Ouyang _(talk, Track 6, Voice & Realtime AI)_  `d2-1110-valeria-wu-fon-speech-to-speech-model-research`
+- `11:10-11:30` **How Forward Deployed Engineering is done at Cursor** - Pauline Brunet _(talk, Track 8, Forward Deployed Engineering)_ [THIN]  `d2-1110-pauline-brunet-how-forward-deployed-engineering-is`
+- `11:10-11:30` **The Messy Reality of Scale: Synthetic Data and Pre-Training at Poolside** - Robert McHardy, Marah Abdin _(talk, Track 9, Data Quality)_ [THIN]  `d2-1110-robert-mchardy-the-messy-reality-of-scale`
+- `11:40-12:00` **Your Stack Has a Latency Problem You Can't See** - (no speaker listed) _(talk, Expo Stage 1 NE, no track)_  `d2-1140-your-stack-has-a-latency`
+- `11:40-12:00` **Agentic vs. Vector Search: An Eval-Driven Approach to Coding Agent Performance** - Jess Wang _(talk, Expo Stage 2 NW, no track)_  `d2-1140-jess-wang-agentic-vs-vector-search-an`
+- `11:40-12:00` **Agents Don't Have Coworkers, They Have Hostages** - Gabriel Martinez _(talk, Expo Stage 3 SW, no track)_  `d2-1140-gabriel-martinez-agents-dont-have-coworkers-they`
+- `11:40-12:00` **Would your AI agent get the job? A performance review framework for enterprise agents** - Andreea Pleşea, Dan Bălăceanu _(talk, Expo Stage 4 SE, no track)_  `d2-1140-andreea-ple-ea-would-your-ai-agent-get`
+- `11:40-12:00` **The AI-Native Software Factory: How Uber Agentified Every Stage of the SDLC** - Uday Kiran Medisetty, Adam Huda _(talk, Leadership 1, AI-Native Enterprises)_  `d2-1140-uday-kiran-medisetty-the-ai-native-software-factory`
+- `11:40-12:00` **The Last Human Code Review: Building Trust in AI-Generated Code** - Itamar Friedman _(talk, Leadership 2, AI Architects: Show my Workflow)_  `d2-1140-itamar-friedman-the-last-human-code-review`
+- `11:40-12:00` **Orchestras, not Factories** - Charlie Holtz _(talk, Main Stage, Software Factories)_  `d2-1140-charlie-holtz-orchestras-not-factories`
+- `11:40-12:00` **Everyone Gets A Software Company** - Benjamin Guo, Rob Cheung _(talk, Track 1, Claws & Personal Agents)_ [THIN]  `d2-1140-benjamin-guo-everyone-gets-a-software-company`
+- `11:40-12:00` **Skill issue: stop deploying vision language models, use them with Skills to build e2e vision apps on edge** - Merve Noyan _(sponsor, Track 2, Vision & OCR)_  `d2-1140-merve-noyan-skill-issue-stop-deploying-vision`
+- `11:40-12:00` **The Search Engine for the Agentic Web** - Will Bryk _(talk, Track 3, Search & Retrieval)_  `d2-1140-will-bryk-the-search-engine-for-the`
+- `11:40-12:00` **Claude Managed Agents workshop (Part 3)** - Priyanka Phatak, Gabriel Cemaj _(talk, Track 4, Workshops Day 2)_ [THIN]  `d2-1140-priyanka-phatak-claude-managed-agents-workshop-part`
+- `11:40-12:00` **We Gave an Agent Production Code Access and Then Tried to Sleep at Night** - Moritz Johner _(sponsor, Track 5, Security)_  `d2-1140-moritz-johner-we-gave-an-agent-production`
+- `11:40-12:00` **Voice Agents Can Just Do Things** - Charlie Guo _(talk, Track 6, Voice & Realtime AI)_  `d2-1140-charlie-guo-voice-agents-can-just-do`
+- `11:40-12:00` **AI tools for Forward Deployed Engineering** - Vasuman Moza _(talk, Track 8, Forward Deployed Engineering)_ [THIN]  `d2-1140-vasuman-moza-ai-tools-for-forward-deployed`
+- `11:40-12:00` **Theta Software** - Rayan Garg _(talk, Track 9, Data Quality)_ [THIN]  `d2-1140-rayan-garg-theta-software`
+- `11:40-12:00` **Use Copilot across CLI, dev, and cloud workflows to move faster end-to-end** - Pamela Fox _(sponsor, Track M, Track M)_  `d2-1140-pamela-fox-use-copilot-across-cli-dev`
+- `12:05-12:25` **Your Agent Is Lying to You About Whether It Worked** - Dat Ngo _(talk, Expo Stage 1 NE, no track)_  `d2-1205-dat-ngo-your-agent-is-lying-to`
+- `12:05-12:25` **Why building building agent quality platforms is hard.** - Hossein Niazmandi _(talk, Expo Stage 2 NW, no track)_  `d2-1205-hossein-niazmandi-why-building-building-agent-quality`
+- `12:05-12:25` **Can LLMs write fast multi-GPU kernels? We built a benchmark to find out.** - Simran Arora _(talk, Expo Stage 3 SW, no track)_  `d2-1205-simran-arora-can-llms-write-fast-multi`
+- `12:05-12:25` **Self-Improving Agents That Teach the Company Back** - Rafal Wilinski _(talk, Expo Stage 4 SE, no track)_  `d2-1205-rafal-wilinski-self-improving-agents-that-teach`
+- `12:05-12:25` **Scaling Code Quality: Building uReview, Uber's Multi-Agent Code Review Engine** - Will Bond, Ameya Ketkar _(talk, Leadership 1, AI-Native Enterprises)_  `d2-1205-will-bond-scaling-code-quality-building-ureview`
+- `12:05-12:25` **Prototyping as Leadership: How a CTO Ships with AI Agents** - Hursh Agrawal _(talk, Leadership 2, AI Architects: Show my Workflow)_  `d2-1205-hursh-agrawal-prototyping-as-leadership-how-a`
+- `12:05-12:25` **What we learned by analyzing 1M AI-generated PRs** - Daksh Gupta _(talk, Main Stage, Software Factories)_  `d2-1205-daksh-gupta-what-we-learned-by-analyzing`
+- `12:05-12:25` **Tethered: Our Agents Are Us** - Shu Fang _(talk, Track 1, Claws & Personal Agents)_  `d2-1205-shu-fang-tethered-our-agents-are-us`
+- `12:05-12:25` **Modality Misalignment and Originality Attribution in Short-Form Video: A Multi-Agent Approach at Platform Scale** - Aditya Gautam _(sponsor, Track 2, Vision & OCR)_  `d2-1205-aditya-gautam-modality-misalignment-and-originality-attribution`
+- `12:05-12:25` **Rebuilding the web for agents** - Liad Yosef _(talk, Track 3, Search & Retrieval)_  `d2-1205-liad-yosef-rebuilding-the-web-for-agents`
+- `12:05-12:25` **Claude Managed Agents workshop (Part 4)** - Priyanka Phatak, Gabriel Cemaj _(talk, Track 4, Workshops Day 2)_ [THIN]  `d2-1205-priyanka-phatak-claude-managed-agents-workshop-part`
+- `12:05-12:25` **Agentic Development Security** - Ezra Tanzer _(sponsor, Track 5, Security)_ [THIN]  `d2-1205-ezra-tanzer-agentic-development-security`
+- `12:05-12:25` **Your Voice Agent is Just a Walkie-Talkie** - Neil Zeghidour _(talk, Track 6, Claws & Personal Agents)_  `d2-1205-neil-zeghidour-your-voice-agent-is-just`
+- `12:05-12:25` **How Forward Deployed Engineering is done at Cognition** - Jia Wu _(talk, Track 8, Forward Deployed Engineering)_ [THIN]  `d2-1205-jia-wu-how-forward-deployed-engineering-is`
+- `12:05-12:25` **Bugcrowd posttraining talk** - David Brumley _(talk, Track 9, Posttraining & Midtraining)_ [THIN] [TENT]  `d2-1205-david-brumley-bugcrowd-posttraining-talk`
+- `13:30-13:50` **Every Agent, Everywhere, All at Once** - Vlad Luzin _(talk, Expo Stage 1 NE, no track)_  `d2-1330-vlad-luzin-every-agent-everywhere-all-at`
+- `13:30-13:50` **Deepmind Expo Session 1** - (no speaker listed) _(talk, Expo Stage 2 NW, no track)_ [THIN]  `d2-1330-deepmind-expo-session-1`
+- `13:30-13:50` **Stop prompting** - Greg Pstrucha _(talk, Expo Stage 4 SE, Expo Stage 4)_  `d2-1330-greg-pstrucha-stop-prompting`
+- `13:30-13:50` **Spin at the Gate Until Green: The Engineering Primitives Behind Self-Driving Codebases** - Andrew Orobator _(talk, Leadership 1, Software Factories)_  `d2-1330-andrew-orobator-spin-at-the-gate-until`
+- `13:30-13:50` **Serving 2 Million Models Without Melting: Scaling the Hugging Face Hub** - Arek Borucki _(talk, Leadership 2, AI Architects: Show my Workflow)_  `d2-1330-arek-borucki-serving-2-million-models-without`
+- `13:30-13:50` **Defying Antigravity** - Kevin Hou _(talk, Main Stage, Software Factories)_ [THIN]  `d2-1330-kevin-hou-defying-antigravity`
+- `13:30-13:50` **Agents' next frontier: agent-to-agent and network effects** - Jean-Denis Greze _(talk, Track 1, Claws & Personal Agents)_  `d2-1330-jean-denis-greze-agents-next-frontier-agent-to`
+- `13:30-13:50` **From Ingestion to Agents: How Leading AI Teams Build on Document Intelligence — TBD** - Reducto _(sponsor, Track 2, Vision & OCR)_  `d2-1330-reducto-from-ingestion-to-agents-how`
+- `13:30-13:50` **If we want them to do Knowledge Work, we need to design Knowledge Agents** - Benjamin Clavié _(talk, Track 3, Search & Retrieval)_  `d2-1330-benjamin-clavi-if-we-want-them-to`
+- `13:30-13:50` **Everybody Gets a Digital Clone! (Part 1 of 3)** - Neil Zeghidour _(talk, Track 4, Workshops Day 2)_  `d2-1330-neil-zeghidour-everybody-gets-a-digital-clone`
+- `13:30-13:50` **Using LLMs to Secure Source Code** - Eugene Yan _(sponsor, Track 5, Security)_ [THIN]  `d2-1330-eugene-yan-using-llms-to-secure-source`
+- `13:30-13:50` **Tolan: Voice-First AI Companion** - Paula Dozsa _(talk, Track 6, Voice & Realtime AI)_ [THIN]  `d2-1330-paula-dozsa-tolan-voice-first-ai-companion`
+- `13:30-13:50` **TBA** - (no speaker listed) _(talk, Track 7, LLM Recsys)_ [THIN] [TENT]  `d2-1330-tba`
+- `13:30-13:50` **The Dirty Secret of Forward Deployed Engineering** - Natalie Meurer _(talk, Track 8, Forward Deployed Engineering)_  `d2-1330-natalie-meurer-the-dirty-secret-of-forward`
+- `13:30-13:50` **The Base Model is Dead** - Varun Singh _(talk, Track 9, Data Quality)_  `d2-1330-varun-singh-the-base-model-is-dead`
+- `13:30-13:50` **Modernize CI/CD using agent-assisted workflows that reduce manual debugging** - Salil Subbakrishna _(sponsor, Track M, Track M)_ [THIN]  `d2-1330-salil-subbakrishna-modernize-ci-cd-using-agent`
+- `13:55-14:15` **Who Approved That MCP Server? Governing the Tool Layer** - Jim Clark _(talk, Expo Stage 1 NE, no track)_  `d2-1355-jim-clark-who-approved-that-mcp-server`
+- `13:55-14:15` **Voice Agents Are Mostly Invisible. Here's How to See Them.** - Fuad Ali _(talk, Expo Stage 2 NW, no track)_  `d2-1355-fuad-ali-voice-agents-are-mostly-invisible`
+- `13:55-14:15` **Greptile Expo Session** - (no speaker listed) _(talk, Expo Stage 3 SW, no track)_ [THIN] [TENT]  `d2-1355-greptile-expo-session`
+- `13:55-14:15` **Deploying browser agents at scale** - Derek Meegan _(talk, Expo Stage 4 SE, no track)_  `d2-1355-derek-meegan-deploying-browser-agents-at-scale`
+- `13:55-14:15` **AI Evals Platform for Cross-Functional Teams at Scale** - Nachiket Paranjape, Swaroop Chitlur Haridas _(talk, Leadership 1, AI-Native Enterprises)_  `d2-1355-nachiket-paranjape-ai-evals-platform-for-cross`
+- `13:55-14:15` **IT Admin for the AI Workforce: Why Your AI Agents Will Need Their Own IT Department** - Sarthak Aggarwal _(talk, Leadership 2, AI Architects: Show my Workflow)_  `d2-1355-sarthak-aggarwal-it-admin-for-the-ai`
+- `13:55-14:15` **Self-Improving software factories: The new open source model"** - Zach Lloyd _(talk, Main Stage, Software Factories)_  `d2-1355-zach-lloyd-self-improving-software-factories-the`
+- `13:55-14:15` **Claude for long-horizon tasks** - Lance Martin _(talk, Track 1, Claws & Personal Agents)_  `d2-1355-lance-martin-claude-for-long-horizon-tasks`
+- `13:55-14:15` **The Best Models Still Reason Like Toddlers** - Andrew Dai _(sponsor, Track 2, Vision & OCR)_  `d2-1355-andrew-dai-the-best-models-still-reason`
+- `13:55-14:15` **Your Agreements Are a Database You Can't Query. We're Fixing That** - Hiral Shah, Sean Sodha _(talk, Track 3, Search & Retrieval)_  `d2-1355-hiral-shah-your-agreements-are-a-database`
+- `13:55-14:15` **Everybody Gets a Digital Clone! (Part 2 of 3)** - Neil Zeghidour _(talk, Track 4, Workshops Day 2)_  `d2-1355-neil-zeghidour-everybody-gets-a-digital-clone`
+- `13:55-14:15` **Dual-Surface Architecture: Serving Humans and Agents from the Same Tool Layer** - Ethan (Jung Min) Cha _(sponsor, Track 5, Security)_  `d2-1355-ethan-jung-min-dual-surface-architecture-serving-humans`
+- `13:55-14:15` **5 Voice Agent Failure Modes You'll Hit in Week One** - Venky B, Vyas A _(talk, Track 6, Voice & Realtime AI)_  `d2-1355-venky-b-5-voice-agent-failure-modes`
+- `13:55-14:15` **TBA** - (no speaker listed) _(talk, Track 7, LLM Recsys)_ [THIN] [TENT]  `d2-1355-tba`
+- `13:55-14:15` **How Forward Deployed Engineering is done at Decagon** - Sunny Rekhi _(talk, Track 8, Forward Deployed Engineering)_ [THIN]  `d2-1355-sunny-rekhi-how-forward-deployed-engineering-is`
+- `13:55-14:15` **Ending AI Slop** - Thais Castello Branco _(talk, Track 9, Data Quality)_ [THIN]  `d2-1355-thais-castello-branco-ending-ai-slop`
+- `14:25-14:45` **Beyond Golden Signals: Monitoring in the Age of GenAI** - Marina Petzel _(talk, Expo Stage 1 NE, no track)_  `d2-1425-marina-petzel-beyond-golden-signals-monitoring-in`
+- `14:25-14:45` **Build agents fast with GitHub Copilot (from idea to working app)** - Idan Gazit _(talk, Expo Stage 2 NW, Expo Stage 2)_ [REC]  `d2-1425-idan-gazit-build-agents-fast-with-github`
+- `14:25-14:45` **Buildkite Expo 1** - (no speaker listed) _(talk, Expo Stage 3 SW, no track)_ [THIN]  `d2-1425-buildkite-expo-1`
+- `14:25-14:45` **Continuous Engineering: Software Development for the Age of Agents** - (no speaker listed) _(talk, Expo Stage 4 SE, no track)_  `d2-1425-continuous-engineering-software-development-for`
+- `14:25-14:45` **Productionizing LLM Gateways: Architecture, Tradeoffs, and Hard Lessons from the Trenches** - Kanish Manuja _(talk, Leadership 1, AI-Native Enterprises)_  `d2-1425-kanish-manuja-productionizing-llm-gateways-architecture-tradeoffs`
+- `14:25-14:45` **The Era of Compound Engineering** - Kieran Klaassen _(talk, Leadership 2, AI Architects: Show my Workflow)_  `d2-1425-kieran-klaassen-the-era-of-compound-engineering`
+- `14:25-14:45` **River: Shopify's Slack-Native AI Agent** - Jevon McDonald _(talk, Main Stage, Software Factories)_ [TENT]  `d2-1425-jevon-mcdonald-river-shopifys-slack-native-ai`
+- `14:25-14:45` **Tool Execution layer for agents** - Karan Vaidya _(talk, Track 1, Claws & Personal Agents)_ [THIN]  `d2-1425-karan-vaidya-tool-execution-layer-for-agents`
+- `14:25-14:45` **You're Not Thinking Big Enough: Rebuilding Food Systems from First Principles with AI Agents** - Cody Menefee _(sponsor, Track 2, Vision & OCR)_  `d2-1425-cody-menefee-youre-not-thinking-big-enough`
+- `14:25-14:45` **How to Connect AI to Billions of Legal Documents** - Simon Eskildsen, Jacob Lauritzen _(talk, Track 3, Search & Retrieval)_  `d2-1425-simon-eskildsen-how-to-connect-ai-to`
+- `14:25-14:45` **Everybody Gets a Digital Clone! (Part 3 of 3)** - Neil Zeghidour _(talk, Track 4, Workshops Day 2)_  `d2-1425-neil-zeghidour-everybody-gets-a-digital-clone`
+- `14:25-14:45` **Agentic Security: Permissions, Provenance, and the Agent Supply Chain** - Steve Yegge _(sponsor, Track 5, Security)_  `d2-1425-steve-yegge-agentic-security-permissions-provenance-and`
+- `14:25-14:45` **I Monitored Crime Audio. Voice Agents Scare Me More.** - Sumanyu Sharma _(talk, Track 6, Voice & Realtime AI)_  `d2-1425-sumanyu-sharma-i-monitored-crime-audio-voice`
+- `14:25-14:45` **TBA** - (no speaker listed) _(talk, Track 7, LLM Recsys)_ [THIN] [TENT]  `d2-1425-tba`
+- `14:25-14:45` **How Forward Deployed Engineering is done at Ramp** - Leo Mehr _(talk, Track 8, Forward Deployed Engineering)_ [THIN]  `d2-1425-leo-mehr-how-forward-deployed-engineering-is`
+- `14:25-14:45` **Scaling to Long-Horizons: Algorithms, Environments, Compute** - Ross Taylor, Chengxi Taylor _(talk, Track 9, Data Quality)_  `d2-1425-ross-taylor-scaling-to-long-horizons-algorithms`
+- `14:25-14:45` **Using AI tools to teach old apps new tricks** - Maria Bledsoe _(sponsor, Track M, Track M)_  `d2-1425-maria-bledsoe-using-ai-tools-to-teach`
+- `14:50-15:10` **6 Pillars of an Agentic Harness That Fixes Production Incidents** - Varun Krovvidi _(talk, Expo Stage 1 NE, no track)_  `d2-1450-varun-krovvidi-6-pillars-of-an-agentic`
+- `14:50-15:10` **Video Discovery for Agentic World-Model Training** - (no speaker listed) _(talk, Expo Stage 2 NW, no track)_  `d2-1450-video-discovery-for-agentic-world`
+- `14:50-15:10` **Baseten Expo Session** - (no speaker listed) _(talk, Expo Stage 3 SW, no track)_ [THIN]  `d2-1450-baseten-expo-session`
+- `14:50-15:10` **Self-Driving Production: AI Wrote your Code. AI Should Fix It, Too** - (no speaker listed) _(talk, Expo Stage 4 SE, no track)_  `d2-1450-self-driving-production-ai-wrote`
+- `14:50-15:10` **From AI-Assisted to AI-Native: Building a Frontier Development Team** - Clare Liguori _(talk, Leadership 1, AI-Native Enterprises)_  `d2-1450-clare-liguori-from-ai-assisted-to-ai`
+- `14:50-15:10` **How I automate my own job at Hugging Face using agents** - Niels Rogge _(talk, Leadership 2, AI Architects: Show my Workflow)_  `d2-1450-niels-rogge-how-i-automate-my-own`
+- `14:50-15:10` **Notion's Token Town** - Sarah Sachs _(talk, Main Stage, Software Factories)_ [THIN]  `d2-1450-sarah-sachs-notions-token-town`
+- `14:50-15:10` **Your company brain will leak secrets. Here's how we stopped it for big banks and ourselves.** - Tanmai Gopal _(talk, Track 1, Claws & Personal Agents)_  `d2-1450-tanmai-gopal-your-company-brain-will-leak`
+- `14:50-15:10` **Perceptron Mk1 — Perceptron Inc** - Armen Aghajanyan _(sponsor, Track 2, Vision & OCR)_ [THIN]  `d2-1450-armen-aghajanyan-perceptron-mk1-perceptron-inc`
+- `14:50-15:10` **Where RL Will Take Search** - Maximilian-David Rumpf, Lotte Seifert _(talk, Track 3, Search & Retrieval)_  `d2-1450-maximilian-david-rumpf-where-rl-will-take-search`
+- `14:50-15:10` **Setting Yourself Up for Success — Part 1** - Jason Liu _(talk, Track 4, Workshops Day 2)_  `d2-1450-jason-liu-setting-yourself-up-for-success`
+- `14:50-15:10` **It's 10pm. Do You Know Where Your Agents Are?** - Kim Maida _(sponsor, Track 5, Security)_  `d2-1450-kim-maida-its-10pm-do-you-know`
+- `14:50-15:10` **Realtime Voice Agents with Frontier Intelligence** - Bohan Li _(talk, Track 6, Voice & Realtime AI)_  `d2-1450-bohan-li-realtime-voice-agents-with-frontier`
+- `14:50-15:10` **When Will The Benchmaxxing Plague End?** - Nick Heiner _(talk, Track 9, AI Architects: Show my Workflow)_  `d2-1450-nick-heiner-when-will-the-benchmaxxing-plague`
+- `15:20-15:40` **From Context to Memory: Your Agents Need a Real Memory Layer** - Anders Swanson _(talk, Expo Stage 2 NW, no track)_  `d2-1520-anders-swanson-from-context-to-memory-your`
+- `15:20-15:40` **Running a 20T-Token Data Pipeline: Infrastructure Lessons from Production** - Bogdan Gaza _(talk, Expo Stage 3 SW, no track)_  `d2-1520-bogdan-gaza-running-a-20t-token-data`
+- `15:20-15:40` **From raw documents to retrievable knowledge** - Leo Platzer _(talk, Expo Stage 4 SE, no track)_  `d2-1520-leo-platzer-from-raw-documents-to-retrievable`
+- `15:20-15:40` **How to Get Your Org to Adopt Coding Agents (Without Shipping Garbage)** - Eyal Blum _(talk, Leadership 1, AI-Native Enterprises)_  `d2-1520-eyal-blum-how-to-get-your-org`
+- `15:20-15:40` **Your Fine-Tuned Model Is Tech Debt: A 50x ROI House of Cards** - Dan Bjornn _(talk, Leadership 2, AI Architects: Show my Workflow)_  `d2-1520-dan-bjornn-your-fine-tuned-model-is`
+- `15:20-15:40` **fighting slop with slop** - Vaibhav Gupta _(talk, Main Stage, Software Factories)_  `d2-1520-vaibhav-gupta-fighting-slop-with-slop`
+- `15:20-15:40` **Every Harness Will Become A Claw** - Sam Bhagwat _(talk, Track 1, Claws & Personal Agents)_  `d2-1520-sam-bhagwat-every-harness-will-become-a`
+- `15:20-15:40` **From Scratch to SOTA: Training a 3B State-Space Vision Model for 1.4 Billion People** - Krishna Prasad Srinivasan _(sponsor, Track 2, Vision & OCR)_  `d2-1520-krishna-prasad-srinivasan-from-scratch-to-sota-training`
+- `15:20-15:40` **Stop Chunking Like It's 2022** - Yuval Belfer, Niv Granot _(talk, Track 3, Search & Retrieval)_  `d2-1520-yuval-belfer-stop-chunking-like-its-2022`
+- `15:20-15:40` **Setting Yourself Up for Success — Part 2** - Jason Liu _(talk, Track 4, Workshops Day 2)_  `d2-1520-jason-liu-setting-yourself-up-for-success`
+- `15:20-15:40` **AI's Jurassic Park Period** - Aaron Stanley _(sponsor, Track 5, Security)_  `d2-1520-aaron-stanley-ais-jurassic-park-period`
+- `15:20-15:40` **"My name is... my name is...": A Linguistic Map for Building and Debugging Voice Agents** - Midam Kim _(talk, Track 6, Voice & Realtime AI)_  `d2-1520-midam-kim-my-name-is-my-name`
+- `15:20-15:40` **How Forward Deployed Engineering is done at Kepler** - Vinoo Ganesh _(talk, Track 8, Forward Deployed Engineering)_ [THIN]  `d2-1520-vinoo-ganesh-how-forward-deployed-engineering-is`
+- `15:20-15:40` **Building Worlds for Models** - Nicolai Ouporov _(talk, Track 9, Data Quality)_ [THIN]  `d2-1520-nicolai-ouporov-building-worlds-for-models`
+- `15:20-15:40` **Surviving Your Own Velocity: How VS Code Ships Weekly with 40 People** - Harald Kirschner _(sponsor, Track M, Track M)_  `d2-1520-harald-kirschner-surviving-your-own-velocity-how`
+- `15:45-16:05` **How We Built the Airbyte Agent MCP Server and CLI** - Cam Kennedy _(talk, Expo Stage 1 NE, Expo Stage 1)_  `d2-1545-cam-kennedy-how-we-built-the-airbyte`
+- `15:45-16:05` **From Chatbots to Agents: How Reducto builds for Agent Experience to Enable Real Work** - Abhi Arya _(talk, Expo Stage 2 NW, no track)_  `d2-1545-abhi-arya-from-chatbots-to-agents-how`
+- `15:45-16:05` **Towards Reliable Financial Agents: How a 4B Model Outsmarted a 235B Giant** - Charlie Dickens _(talk, Expo Stage 3 SW, no track)_  `d2-1545-charlie-dickens-towards-reliable-financial-agents-how`
+- `15:45-16:05` **AI Enablement at Automattic: How a Remote Company Builds AI Fluency** - Em Shreve _(talk, Expo Stage 4 SE, no track)_  `d2-1545-em-shreve-ai-enablement-at-automattic-how`
+- `15:45-16:05` **AI-transforming 18K engineers, 40K repos, and an agent swarm: what worked, what didn't** - Oscar Mullin _(talk, Leadership 1, AI-Native Enterprises)_  `d2-1545-oscar-mullin-ai-transforming-18k-engineers-40k`
+- `15:45-16:05` **Unlock Agent Autonomy: The Runtime for AI-Native Systems** - Tushar Jain _(talk, Leadership 2, AI Architects: Show my Workflow)_  `d2-1545-tushar-jain-unlock-agent-autonomy-the-runtime`
+- `15:45-16:05` **The Software Factory Survivor's Guide** - Kyle Mistele _(talk, Main Stage, Software Factories)_  `d2-1545-kyle-mistele-the-software-factory-survivors-guide`
+- `15:45-16:05` **Gadgets: Personal app vibe coding that is actually safe** - Kenton Varda _(talk, Track 1, Software Factories)_  `d2-1545-kenton-varda-gadgets-personal-app-vibe-coding`
+- `15:45-16:05` **Setting Yourself Up for Success — Part 3** - Jason Liu _(talk, Track 4, Workshops Day 2)_  `d2-1545-jason-liu-setting-yourself-up-for-success`
+- `15:45-16:05` **Secure Cloud Compute** - Ethan Sutin _(sponsor, Track 5, Security)_ [THIN] [TENT]  `d2-1545-ethan-sutin-secure-cloud-compute`
+- `15:45-16:05` **Reduce the OUCH: Smarter behavior for AI assistants and robots** - Amit Desai _(talk, Track 6, Voice & Realtime AI)_  `d2-1545-amit-desai-reduce-the-ouch-smarter-behavior`
+- `15:45-16:05` **Tools for data curation and post-training LLMs** - Mahesh Sathiamoorthy _(talk, Track 9, Data Quality)_ [THIN]  `d2-1545-mahesh-sathiamoorthy-tools-for-data-curation-and`
+- `16:30-16:50` **Harness Engineering is not Enough: Why Software Factories Fail** - Dex Horthy _(keynote, Main Stage, Software Factories)_ [THIN]  `d2-1630-dex-horthy-harness-engineering-is-not-enough`
+- `16:50-17:10` **In Code They Act, In Proof We Trust** - Erik Meijer _(keynote, Main Stage, Harness Engineering)_  `d2-1650-erik-meijer-in-code-they-act-in`
+- `17:10-17:30` **The Future of Cursor** - Lee Robinson _(keynote, Main Stage, Software Factories)_ [THIN]  `d2-1710-lee-robinson-the-future-of-cursor`
+
+## Day 3 - Session Day 2 (2026-06-30)
+
+- `09:00-09:05` **2026 AI Engineering Survey** - Barr Yaron _(keynote, Main Stage, Autoresearch)_ [THIN]  `d3-0900-barr-yaron-2026-ai-engineering-survey`
+- `09:05-09:25` **Seeing like an Agent** - Thariq Shihipar _(keynote, Main Stage, Autoresearch)_ [THIN]  `d3-0905-thariq-shihipar-seeing-like-an-agent`
+- `09:25-09:45` **In the Land of AI Agents, the Verifiers Are King** - Tariq Shaukat _(keynote, Main Stage, Software Factories)_  `d3-0925-tariq-shaukat-in-the-land-of-ai`
+- `09:45-10:05` **Perception Agents** - Antje Barth _(keynote, Main Stage, Autoresearch)_  `d3-0945-antje-barth-perception-agents`
+- `10:05-10:25` **Research to Reality with Google DeepMind** - Benoit Schillings _(keynote, Main Stage, Autoresearch)_ [THIN]  `d3-1005-benoit-schillings-research-to-reality-with-google`
+- `10:25-10:30` **Evals Track Intro** - Laurie Voss, Aparna Dhinakaran _(keynote, Main Stage, Autoresearch)_ [THIN]  `d3-1025-laurie-voss-evals-track-intro`
+- `10:45-11:05` **Circle Expo Session** - (no speaker listed) _(talk, Expo Stage 1 NE, no track)_ [THIN]  `d3-1045-circle-expo-session`
+- `10:45-11:05` **AI Engineering & Governance 2026 Trends** - Wallon Walusayi _(talk, Expo Stage 2 NW, Expo Stage 2)_ [THIN]  `d3-1045-wallon-walusayi-ai-engineering-governance-2026-trends`
+- `10:45-11:05` **Why AI Didn't Actually Make You Ship Faster** - Gabriel Spencer-Harper _(talk, Expo Stage 3 SW, Expo Stage 3)_  `d3-1045-gabriel-spencer-harper-why-ai-didnt-actually-make`
+- `10:45-11:05` **Redesigning how software gets built — TBD** - Sonar _(talk, Expo Stage 4 SE, Expo Stage 4)_  `d3-1045-sonar-redesigning-how-software-gets-built`
+- `10:45-11:05` **Vertical Superintelligence: Making AI Work in America's Messiest Industries** - Varun Shenoy, Rasmus Wissmann _(talk, Leadership 1, AI-Native Enterprises)_  `d3-1045-varun-shenoy-vertical-superintelligence-making-ai-work`
+- `10:45-11:05` **The Z/L Continuum: Should AI Engineers Still Read Code?** - Alex Volkov _(talk, Leadership 2, AI Architects: Tokenmaxxing)_  `d3-1045-alex-volkov-the-z-l-continuum-should`
+- `10:45-11:05` **First Steps Toward Automated AI Research** - Richard Socher _(talk, Main Stage, Autoresearch)_ [THIN]  `d3-1045-richard-socher-first-steps-toward-automated-ai`
+- `10:45-11:05` **Don't build agents, build environments** - Adam Azzam _(talk, Track 1, Sandbox & Platform Engineering)_ [TENT]  `d3-1045-adam-azzam-dont-build-agents-build-environments`
+- `10:45-11:05` **Building the simulation infrastructure for practical world model use** - Christopher Manning _(sponsor, Track 2, Robotics & World Models)_  `d3-1045-christopher-manning-building-the-simulation-infrastructure-for`
+- `10:45-11:05` **Beyond Static Intelligence: Evaluating Continual Learning** - Parth Asawa _(talk, Track 3, Memory & Continual Learning)_  `d3-1045-parth-asawa-beyond-static-intelligence-evaluating-continual`
+- `10:45-11:05` **Build realtime multimodal agents with Gemini Live** - Thor 雷神 Schaeff _(talk, Track 4, Workshops Day 2)_  `d3-1045-thor-schaeff-build-realtime-multimodal-agents-with`
+- `10:45-11:05` **Vending-Bench: Long-Horizon Agent Evals for a Simulated Vending Business** - Lukas Petersson _(sponsor, Track 5, Evals)_ [THIN]  `d3-1045-lukas-petersson-vending-bench-long-horizon-agent`
+- `10:45-11:05` **Understanding is the new bottleneck** - Geoffrey Litt _(talk, Track 6, Design Engineering)_  `d3-1045-geoffrey-litt-understanding-is-the-new-bottleneck`
+- `10:45-11:05` **Computer-use models will agentify the web, not APIs** - Dhruv Batra _(talk, Track 7, Computer Use)_  `d3-1045-dhruv-batra-computer-use-models-will-agentify`
+- `10:45-11:05` **Build-Time vs. Run-Time: Why Your Dev Tools Will Fail in Production** - Averi Kitsch, Prerna Kakkar _(talk, Track 8, Context Engineering)_  `d3-1045-averi-kitsch-build-time-vs-run-time`
+- `10:45-11:05` **What's next after RLHF?** - Diogo Almeida _(talk, Track 9, Posttraining & Midtraining)_  `d3-1045-diogo-almeida-whats-next-after-rlhf`
+- `10:45-11:05` **From framework to runtime: running agents with Foundry Agent Service** - Tina Manghnani, Keiji Kanazawa _(sponsor, Track M, Track M)_  `d3-1045-tina-manghnani-from-framework-to-runtime-running`
+- `11:00-12:00` **Tokenomics: From AI Spend to AI Value** - Martin Harrysson, Matt Linderman, Prakhar Dixit _(talk, Leadership Lounge, CTO Circle)_  `d3-1100-martin-harrysson-tokenomics-from-ai-spend-to`
+- `11:10-11:30` **Harnessing Agents: The Durable Runtime for Dynamic Workflows** - Viren Baraiya _(talk, Expo Stage 1 NE, no track)_  `d3-1110-viren-baraiya-harnessing-agents-the-durable-runtime`
+- `11:10-11:30` **AI-Assisted Engineering: 5 Trends We're Seeing From 500+ Organizations** - Justin Reock _(talk, Expo Stage 2 NW, Expo Stage 2)_  `d3-1110-justin-reock-ai-assisted-engineering-5-trends`
+- `11:10-11:30` **The Death of Keyword Search and the Rise of Agent-Readable Catalogs** - Nixon Dinh _(talk, Expo Stage 3 SW, Expo Stage 3)_  `d3-1110-nixon-dinh-the-death-of-keyword-search`
+- `11:10-11:30` **FDE Playbook: Build an AI Support Agent and Give It a Voice** - Matt Lawler _(talk, Expo Stage 4 SE, Expo Stage 4)_  `d3-1110-matt-lawler-fde-playbook-build-an-ai`
+- `11:10-11:30` **How to avoid disaster when vibe-coding a billing engine** - Andrew Garvin _(talk, Leadership 1, AI-Native Enterprises)_  `d3-1110-andrew-garvin-how-to-avoid-disaster-when`
+- `11:10-11:30` **Is Orchestration the Future?** - Vlad Luzin _(talk, Leadership 2, AI Architects: Tokenmaxxing)_  `d3-1110-vlad-luzin-is-orchestration-the-future`
+- `11:10-11:30` **Autoresearch for Dense Retrieval: Test-Time Compute with Frozen Embedding Models** - Han Xiao _(talk, Main Stage, Autoresearch)_  `d3-1110-han-xiao-autoresearch-for-dense-retrieval-test`
+- `11:10-11:30` **Building a Unified Interface For LLMs** - Shashank Goyal _(talk, Track 1, Sandbox & Platform Engineering)_ [THIN]  `d3-1110-shashank-goyal-building-a-unified-interface-for`
+- `11:10-11:30` **Building the simulation infrastructure for practical world model use** - Christopher Manning _(sponsor, Track 2, Robotics & World Models)_  `d3-1110-christopher-manning-building-the-simulation-infrastructure-for`
+- `11:10-11:30` **Scaling up Continual Learning** - Ronak Malde _(talk, Track 3, Memory & Continual Learning)_  `d3-1110-ronak-malde-scaling-up-continual-learning`
+- `11:10-11:30` **Build realtime multimodal agents with Gemini Live (continued 2)** - Thor 雷神 Schaeff _(talk, Track 4, Workshops Day 2)_  `d3-1110-thor-schaeff-build-realtime-multimodal-agents-with`
+- `11:10-11:30` **From Alert to PR: Building an Autonomous Agent Debugger** - Jason Lopatecki _(sponsor, Track 5, Evals)_  `d3-1110-jason-lopatecki-from-alert-to-pr-building`
+- `11:10-11:30` **The Spatial Harness: Bringing Agents to the Canvas** - Max Drake _(talk, Track 6, Design Engineering)_  `d3-1110-max-drake-the-spatial-harness-bringing-agents`
+- `11:10-11:30` **Computer Use at the Edge of the Statistical Precipice** - Pierluca D'Oro _(talk, Track 7, Computer Use)_  `d3-1110-pierluca-doro-computer-use-at-the-edge`
+- `11:10-11:30` **It's Tokens All The Way Down: How RLMs are Different** - Kevin Madura _(talk, Track 8, Context Engineering)_  `d3-1110-kevin-madura-its-tokens-all-the-way`
+- `11:10-11:30` **State of Data** - Sean Cai _(talk, Track 9, Posttraining & Midtraining)_ [THIN]  `d3-1110-sean-cai-state-of-data`
+- `11:40-12:00` **Fault-Tolerant Training at Scale: Making Hardware Failures a Non-Event** - (no speaker listed) _(talk, Expo Stage 1 NE, no track)_  `d3-1140-fault-tolerant-training-at-scale`
+- `11:40-12:00` **How to generate mergeable code with a context engine** - Peter Werry _(talk, Expo Stage 2 NW, no track)_  `d3-1140-peter-werry-how-to-generate-mergeable-code`
+- `11:40-12:00` **The Next Run Should Be Better** - Jake Broekhuizen _(talk, Expo Stage 3 SW, no track)_  `d3-1140-jake-broekhuizen-the-next-run-should-be`
+- `11:40-12:00` **AI agents don't read your policy docs. They hit your APIs.** - (no speaker listed) _(talk, Expo Stage 4 SE, no track)_  `d3-1140-ai-agents-dont-read-your`
+- `11:40-12:00` **Your Code Has Bugs. Lean4 Has Proofs. A Practical Guide to Formal Verification for Engineers** - Varun Pant _(talk, Leadership 1, AI-Native Enterprises)_  `d3-1140-varun-pant-your-code-has-bugs-lean4`
+- `11:40-12:00` **How to Kill the Code Review** - Ankit Jain _(talk, Leadership 2, AI Architects: Tokenmaxxing)_  `d3-1140-ankit-jain-how-to-kill-the-code`
+- `11:40-12:00` **Memory Harnesses for Long-Running Research Agents** - Stefania Druga _(talk, Main Stage, Memory & Continual Learning)_  `d3-1140-stefania-druga-memory-harnesses-for-long-running`
+- `11:40-12:00` **Kubernetes Is Not Your Sandbox** - Ivan Burazin _(talk, Track 1, Sandbox & Platform Engineering)_  `d3-1140-ivan-burazin-kubernetes-is-not-your-sandbox`
+- `11:40-12:00` **Commercial Grade-Robots for Real World Usage** - Jason Ma _(sponsor, Track 2, Robotics & World Models)_ [THIN]  `d3-1140-jason-ma-commercial-grade-robots-for-real`
+- `11:40-12:00` **Scaling Compute on Context** - Jack Morris _(talk, Track 3, Memory & Continual Learning)_ [THIN]  `d3-1140-jack-morris-scaling-compute-on-context`
+- `11:40-12:00` **Build realtime multimodal agents with Gemini Live (continued 3)** - Thor 雷神 Schaeff _(talk, Track 4, Workshops Day 2)_  `d3-1140-thor-schaeff-build-realtime-multimodal-agents-with`
+- `11:40-12:00` **Building Closed-Loop Evals for a Multimodal Agent at Uber Scale** - Soumya Gupta, Jai Chopra _(sponsor, Track 5, Evals)_  `d3-1140-soumya-gupta-building-closed-loop-evals-for`
+- `11:40-12:00` **The Design-Code Roundtrip That Isn't** - Jonathan Gordon _(talk, Track 6, Design Engineering)_  `d3-1140-jonathan-gordon-the-design-code-roundtrip-that`
+- `11:40-12:00` **Bringing agents onto the world wide web** - Paul Klein IV _(talk, Track 7, Computer Use)_  `d3-1140-paul-klein-iv-bringing-agents-onto-the-world`
+- `11:40-12:00` **500 Skills, Zero Fine-Tuning: LinkedIn's Playbook for AI Agents That Actually Know Your Codebase** - Ajay Prakash _(talk, Track 8, Context Engineering)_  `d3-1140-ajay-prakash-500-skills-zero-fine-tuning`
+- `11:40-12:00` **Arithmetic (fka Operating Intelligence)** - Uri Rolls _(talk, Track 9, Data Quality)_  `d3-1140-uri-rolls-arithmetic-fka-operating-intelligence`
+- `11:40-12:00` **OpenAI, Anthropic, or agent frameworks: choose the right AI stack** - Arun Sekhar, Pamela Fox _(sponsor, Track M, Track M)_  `d3-1140-arun-sekhar-openai-anthropic-or-agent-frameworks`
+- `12:05-12:25` **Your agent architecture has a half-life of 6 months** - Dan Farrelly _(talk, Expo Stage 1 NE, no track)_  `d3-1205-dan-farrelly-your-agent-architecture-has-a`
+- `12:05-12:25` **From Stateless to Stateful: Orchestrating Real-Time Voice & Messaging Agents with Twilio and Amazon Bedrock** - Rishab Kumar _(talk, Expo Stage 2 NW, no track)_  `d3-1205-rishab-kumar-from-stateless-to-stateful-orchestrating`
+- `12:05-12:25` **Harnessing Collective Agent Intelligence for Open Science** - James Zou _(talk, Expo Stage 3 SW, no track)_  `d3-1205-james-zou-harnessing-collective-agent-intelligence-for`
+- `12:05-12:25` **Prompt, Memory, Weights: The Architecture Decisions Most AI Teams Make by Accident** - Anant Srivastava _(talk, Expo Stage 4 SE, Context Engineering)_  `d3-1205-anant-srivastava-prompt-memory-weights-the-architecture`
+- `12:05-12:25` **AI-Native Organisations runs on Skills: How to Extract, Structure, evaluate and Scale Them** - Imad Touil _(talk, Leadership 1, AI-Native Enterprises)_ [THIN]  `d3-1205-imad-touil-ai-native-organisations-runs-on`
+- `12:05-12:25` **The Death of the Code Review** - Laurie Voss _(talk, Leadership 2, AI Architects: Tokenmaxxing)_  `d3-1205-laurie-voss-the-death-of-the-code`
+- `12:05-12:25` **« the era of (auto) research »** - Elie Bakouch _(talk, Main Stage, Autoresearch)_  `d3-1205-elie-bakouch-the-era-of-auto-research`
+- `12:05-12:25` **Your agent needs a sandbox, not a desert** - Samuel Colvin _(talk, Track 1, Sandbox & Platform Engineering)_  `d3-1205-samuel-colvin-your-agent-needs-a-sandbox`
+- `12:05-12:25` **Tell the Robot What You Want** - Sandhya Subramani _(sponsor, Track 2, Robotics & World Models)_  `d3-1205-sandhya-subramani-tell-the-robot-what-you`
+- `12:05-12:25` **Intelligence + Continual Learning = Expertise** - Yu Su _(talk, Track 3, Memory & Continual Learning)_ [THIN]  `d3-1205-yu-su-intelligence-continual-learning-expertise`
+- `12:05-12:25` **Build realtime multimodal agents with Gemini Live (continued 4)** - Thor 雷神 Schaeff _(talk, Track 4, Workshops Day 3)_ [THIN]  `d3-1205-thor-schaeff-build-realtime-multimodal-agents-with`
+- `12:05-12:25` **From Agent Traces to Agent Simulations: The next era of agent evaluation** - Rustem Feyzkhanov _(sponsor, Track 5, Evals)_  `d3-1205-rustem-feyzkhanov-from-agent-traces-to-agent`
+- `12:05-12:25` **Mousepower: agents that can't be measured, can't be managed.** - Maximillian Piras _(talk, Track 6, Design Engineering)_  `d3-1205-maximillian-piras-mousepower-agents-that-cant-be`
+- `12:05-12:25` **The Dark Arts of Web Automation: Teaching Agents to Use Websites Like Humans** - Corey Gallon _(talk, Track 7, Computer Use)_  `d3-1205-corey-gallon-the-dark-arts-of-web`
+- `12:05-12:25` **Your agents lack context: Here's how to fix "You're absolutely right!"** - Brandon Waselnuk _(talk, Track 8, Context Engineering)_  `d3-1205-brandon-waselnuk-your-agents-lack-context-heres`
+- `12:05-12:25` **Bring your own harness: flexible post-training** - Raymond Feng _(talk, Track 9, Posttraining & Midtraining)_ [THIN]  `d3-1205-raymond-feng-bring-your-own-harness-flexible`
+- `12:30-13:30` **Tokenomics: From AI Spend to AI Value (Working Lunch)** - Martin Harrysson, Matt Linderman, Prakhar Dixit _(talk, Leadership Lounge, CTO Circle)_  `d3-1230-martin-harrysson-tokenomics-from-ai-spend-to`
+- `13:30-13:50` **Surviving Your Own Velocity: How VS Code Ships Weekly with 40 People** - Harald Kirschner _(talk, Expo Stage 2 NW, Expo Stage 2)_  `d3-1330-harald-kirschner-surviving-your-own-velocity-how`
+- `13:30-13:50` **Deepmind Expo Session 3** - (no speaker listed) _(talk, Expo Stage 3 SW, no track)_ [THIN] [TENT]  `d3-1330-deepmind-expo-session-3`
+- `13:30-13:50` **Daytona Expo 1** - (no speaker listed) _(talk, Expo Stage 4 SE, no track)_ [THIN] [TENT]  `d3-1330-daytona-expo-1`
+- `13:30-13:50` **The Half Life of Agent Infrastructure** - Ben Kus _(talk, Leadership 1, AI-Native Enterprises)_ [THIN]  `d3-1330-ben-kus-the-half-life-of-agent`
+- `13:30-13:50` **Tokenmaxxing is the New "Lines of Code"** - Nicholas Arcolano _(talk, Leadership 2, AI Architects: Tokenmaxxing)_  `d3-1330-nicholas-arcolano-tokenmaxxing-is-the-new-lines`
+- `13:30-13:50` **Closing the Loop: An Autonomous AI Research Agent** - Tim Sweeney _(talk, Main Stage, Autoresearch)_  `d3-1330-tim-sweeney-closing-the-loop-an-autonomous`
+- `13:30-13:50` **From fork() to Fleet: Designing an Agent Sandbox Cloud Pt 1** - Abhishek Bhardwaj _(talk, Track 1, Sandbox & Platform Engineering)_  `d3-1330-abhishek-bhardwaj-from-fork-to-fleet-designing`
+- `13:30-13:50` **Unitree — TBD** - Unitree _(sponsor, Track 2, Robotics & World Models)_ [THIN] [TENT]  `d3-1330-unitree-unitree-tbd`
+- `13:30-13:50` **Adaption Labs — Gradient-Free Continual Learning** - Sara Hooker _(talk, Track 3, Memory & Continual Learning)_ [THIN]  `d3-1330-sara-hooker-adaption-labs-gradient-free-continual`
+- `13:30-13:50` **The Agentic Power User's Playbook: Tips and Tricks for Swarm-Style Agentic Development** - John Lindquist _(talk, Track 4, Workshops Day 3)_  `d3-1330-john-lindquist-the-agentic-power-users-playbook`
+- `13:30-13:50` **Model Whisperers: How Evals and Prompts Shape Agent Behavior** - Chris Souza, Preetika Bhateja, Daniel Bump _(sponsor, Track 5, Evals)_  `d3-1330-chris-souza-model-whisperers-how-evals-and`
+- `13:30-13:50` **Design at the Speed of Adjectives** - Paul Bakaus _(talk, Track 6, Design Engineering)_  `d3-1330-paul-bakaus-design-at-the-speed-of`
+- `13:30-13:50` **From RL to IRL** - Gaurav Mishra _(talk, Track 7, Computer Use)_  `d3-1330-gaurav-mishra-from-rl-to-irl`
+- `13:30-13:50` **How long can your skills be before your agent forgets what you told it?** - Laurie Voss _(talk, Track 8, Context Engineering)_  `d3-1330-laurie-voss-how-long-can-your-skills`
+- `13:30-13:50` **PRIME-RL: Async & Decentralized RL Training at Scale** - Will Brown _(talk, Track 9, Posttraining & Midtraining)_ [THIN]  `d3-1330-will-brown-prime-rl-async-decentralized-rl`
+- `13:30-13:50` **Design multi-agent systems that actually work** - Tina Manghnani _(sponsor, Track M, Track M)_  `d3-1330-tina-manghnani-design-multi-agent-systems-that`
+- `13:55-14:15` **Edge-Native AI: Building Ultra-Fast Agents and MCP Servers with Spin** - Thorsten Hans _(talk, Expo Stage 1 NE, Expo Stage 2)_  `d3-1355-thorsten-hans-edge-native-ai-building-ultra`
+- `13:55-14:15` **Why your company needs a context graph, and how to build it** - Gil Feig _(talk, Expo Stage 2 NW, Expo Stage 3)_  `d3-1355-gil-feig-why-your-company-needs-a`
+- `13:55-14:15` **Warp: Building Self-Improving Agent Software Factories** - Suraj Gupta _(talk, Expo Stage 3 SW, no track)_ [TENT]  `d3-1355-suraj-gupta-warp-building-self-improving-agent`
+- `13:55-14:15` **Natively Multimodal from Step Zero** - (no speaker listed) _(talk, Expo Stage 4 SE, no track)_  `d3-1355-natively-multimodal-from-step-zero`
+- `13:55-14:15` **Guardians of the State: How We Built an Air-Gapped AI Fortress for Consumer Data** - Rachna Srivastava _(talk, Leadership 1, AI-Native Enterprises)_  `d3-1355-rachna-srivastava-guardians-of-the-state-how`
+- `13:55-14:15` **Superhuman performance is a shape, not just nines.** - Matthew Jewkes _(talk, Leadership 2, AI Architects: Tokenmaxxing)_  `d3-1355-matthew-jewkes-superhuman-performance-is-a-shape`
+- `13:55-14:15` **An AI Agent Became the #1 Contributor in OpenAI's Hiring Challenge** - Zhengyao Jiang _(talk, Main Stage, Autoresearch)_  `d3-1355-zhengyao-jiang-an-ai-agent-became-the`
+- `13:55-14:15` **From fork() to Fleet: Designing an Agent Sandbox Cloud Pt2** - Abhishek Bhardwaj _(talk, Track 1, Sandbox & Platform Engineering)_  `d3-1355-abhishek-bhardwaj-from-fork-to-fleet-designing`
+- `13:55-14:15` **Frontier Robotics Research** - Deepak Pathak _(sponsor, Track 2, Robotics & World Models)_ [THIN]  `d3-1355-deepak-pathak-frontier-robotics-research`
+- `13:55-14:15` **Improving Agents is a Data Mining Problem** - Vivek Trivedy _(talk, Track 3, Memory & Continual Learning)_  `d3-1355-vivek-trivedy-improving-agents-is-a-data`
+- `13:55-14:15` **The Agentic Power User's Playbook: Tips and Tricks for Swarm-Style Agentic Development (continued 2)** - John Lindquist _(talk, Track 4, Workshops Day 3)_  `d3-1355-john-lindquist-the-agentic-power-users-playbook`
+- `13:55-14:15` **Evaling Video Slop** - Maor Bril _(sponsor, Track 5, Evals)_  `d3-1355-maor-bril-evaling-video-slop`
+- `13:55-14:15` **Training Taste** - Thais Castello Branco _(talk, Track 6, Design Engineering)_ [THIN] [TENT]  `d3-1355-thais-castello-branco-training-taste`
+- `13:55-14:15` **The Rise of CaaS: Context-as-a-Service for Agentic AI — TBD** - Bright Data speaker _(talk, Track 7, Computer Use)_  `d3-1355-bright-data-speaker-the-rise-of-caas-context`
+- `13:55-14:15` **Cut Through the Context Hype: 4 Layers Your Agent Is Missing** - Prukalpa Sankar _(talk, Track 8, Context Engineering)_  `d3-1355-prukalpa-sankar-cut-through-the-context-hype`
+- `13:55-14:15` **Emulated: The data for fully autonomous software engineers and companies** - Joseph Wang _(talk, Track 9, Posttraining & Midtraining)_ [THIN]  `d3-1355-joseph-wang-emulated-the-data-for-fully`
+- `14:25-14:45` **Power agents with Microsoft IQ** - Ronak Chokshi _(talk, Expo Stage 1 NE, Expo Stage 1)_ [REC]  `d3-1425-ronak-chokshi-power-agents-with-microsoft-iq`
+- `14:25-14:45` **Beyond Code Generation: API Context for Agentic Engineering** - Kamalakannan Nandagopal _(talk, Expo Stage 2 NW, no track)_  `d3-1425-kamalakannan-nandagopal-beyond-code-generation-api-context`
+- `14:25-14:45` **Latency Is a Budget. Humanlike Is the Goal.** - Jesse Hall _(talk, Expo Stage 3 SW, no track)_  `d3-1425-jesse-hall-latency-is-a-budget-humanlike`
+- `14:25-14:45` **Lightrun Expo Session** - (no speaker listed) _(talk, Expo Stage 4 SE, no track)_ [THIN] [TENT]  `d3-1425-lightrun-expo-session`
+- `14:25-14:45` **From Tokenmaxxing to Trusted Throughput** - Mingsheng Hong _(talk, Leadership 1, AI-Native Enterprises)_  `d3-1425-mingsheng-hong-from-tokenmaxxing-to-trusted-throughput`
+- `14:25-14:45` **I Let Agents Refactor My Codebase for 3 Weeks. Then I Read the Code.** - Keiji Kanazawa _(talk, Leadership 2, AI Architects: Tokenmaxxing)_  `d3-1425-keiji-kanazawa-i-let-agents-refactor-my`
+- `14:25-14:45` **Self-Improvement of Context, Harness, and Model Weights through Reflective Optimization** - Lakshya Agrawal _(talk, Main Stage, Autoresearch)_  `d3-1425-lakshya-agrawal-self-improvement-of-context-harness`
+- `14:25-14:45` **1,000 Agent Tasks in a Sandbox: What Breaks When LLMs Write and Run Code** - Kevin Orellana _(talk, Track 1, Sandbox & Platform Engineering)_  `d3-1425-kevin-orellana-1-000-agent-tasks-in`
+- `14:25-14:45` **From Manual Drones to Autonomous Multi-Agent Missions** - Juraj Kabzan _(sponsor, Track 2, Robotics & World Models)_  `d3-1425-juraj-kabzan-from-manual-drones-to-autonomous`
+- `14:25-14:45` **Distillation and Continual Learning for Enterprise AI** - Samuel Denton _(talk, Track 3, Memory & Continual Learning)_ [THIN]  `d3-1425-samuel-denton-distillation-and-continual-learning-for`
+- `14:25-14:45` **The Agentic Power User's Playbook: Tips and Tricks for Swarm-Style Agentic Development (continued 3)** - John Lindquist _(talk, Track 4, Workshops Day 3)_  `d3-1425-john-lindquist-the-agentic-power-users-playbook`
+- `14:25-14:45` **Don't Summarize. Sample. — How YouTube Re-Built Search for the LLM Era** - Mihnea Munteanu _(sponsor, Track 5, Evals)_  `d3-1425-mihnea-munteanu-dont-summarize-sample-how-youtube`
+- `14:25-14:45` **Imagination Engineering** - Eve Bouffard _(talk, Track 6, Design Engineering)_ [THIN]  `d3-1425-eve-bouffard-imagination-engineering`
+- `14:25-14:45` **Computer-Use 2.0: Agents Just Got Multi-Cursor** - Francesco Bonacci, Dillon DuPont _(talk, Track 7, Computer Use)_  `d3-1425-francesco-bonacci-computer-use-2-0-agents`
+- `14:25-14:45` **MCP Apps - Extending the frontier** - Liad Yosef, Ido Salomon _(talk, Track 8, Context Engineering)_  `d3-1425-liad-yosef-mcp-apps-extending-the-frontier`
+- `14:25-14:45` **LatchBio** - Kenny Workman _(talk, Track 9, Posttraining & Midtraining)_ [THIN]  `d3-1425-kenny-workman-latchbio`
+- `14:25-14:45` **Power agents with Microsoft IQ** - Marco Casalaina _(sponsor, Track M, Track M)_  `d3-1425-marco-casalaina-power-agents-with-microsoft-iq`
+- `14:50-15:10` **Inference performance as a competitive advantage** - Alex Campos, Yunmo Koo _(talk, Expo Stage 1 NE, no track)_  `d3-1450-alex-campos-inference-performance-as-a-competitive`
+- `14:50-15:10` **Building an Agent Harness for the Business, Not the Builder** - Garrett Galow _(talk, Expo Stage 2 NW, no track)_  `d3-1450-garrett-galow-building-an-agent-harness-for`
+- `14:50-15:10` **The Frontier Is Coming Home** - Dylan Couzon _(talk, Expo Stage 3 SW, no track)_  `d3-1450-dylan-couzon-the-frontier-is-coming-home`
+- `14:50-15:10` **Continuous Offensive Security the only approach in an agent-first world** - Eli Cohen _(talk, Expo Stage 4 SE, no track)_ [THIN] [TENT]  `d3-1450-eli-cohen-continuous-offensive-security-the-only`
+- `14:50-15:10` **Agents Are Where Microservices Were in 2015. We're Making All the Same Mistakes.** - Roberto Milev, Uday Kanagala _(talk, Leadership 1, AI-Native Enterprises)_  `d3-1450-roberto-milev-agents-are-where-microservices-were`
+- `14:50-15:10` **Intelligent Model Routing: Frontier Performance Without Frontier Bills** - Tomás Hernando Kofman _(talk, Leadership 2, Sandbox & Platform Engineering)_  `d3-1450-tom-s-hernando-intelligent-model-routing-frontier-performance`
+- `14:50-15:10` **Autoresearch for Kernels** - Tejas Bhakta _(talk, Main Stage, Autoresearch)_ [THIN]  `d3-1450-tejas-bhakta-autoresearch-for-kernels`
+- `14:50-15:10` **The Next Trillion Users of the Internet Still Don't Have an Identity** - Adi Singh _(talk, Track 1, Sandbox & Platform Engineering)_  `d3-1450-adi-singh-the-next-trillion-users-of`
+- `14:50-15:10` **Why Large? Tiny LMs & Agents on Edge/Robotics** - Cormac Brick _(sponsor, Track 2, Robotics & World Models)_  `d3-1450-cormac-brick-why-large-tiny-lms-agents`
+- `14:50-15:10` **Designing Agents (The Floor Is the Frontier)** - Ben Hylak _(talk, Track 3, Memory & Continual Learning)_  `d3-1450-ben-hylak-designing-agents-the-floor-is`
+- `14:50-15:10` **Don't Write Skills, Train Models** - Brian Douglas, John McBride _(talk, Track 4, Workshops Day 3)_  `d3-1450-brian-douglas-dont-write-skills-train-models`
+- `14:50-15:10` **Evals Driven-Development: Engineering a Mental Health AI Coach Ethically & Safely** - Akele Reed, Dave Revere, Doug Keller _(sponsor, Track 5, Evals)_  `d3-1450-akele-reed-evals-driven-development-engineering-a`
+- `14:50-15:10` **The Missing Layer: Design Taste in AI Agents // Stop Letting Your Agents Ship Ugly UIs** - Hassan El Mghari _(talk, Track 6, Design Engineering)_  `d3-1450-hassan-el-mghari-the-missing-layer-design-taste`
+- `14:50-15:10` **How Web Data Infrastructure Powers the Next Generation of AI** - Patricija Žemaitytė _(talk, Track 7, Computer Use)_  `d3-1450-patricija-emaityt-how-web-data-infrastructure-powers`
+- `14:50-15:10` **MCP Apps: Give the Model Data, Give the User a UI** - Dustin Mihalik _(talk, Track 8, Context Engineering)_  `d3-1450-dustin-mihalik-mcp-apps-give-the-model`
+- `14:50-15:10` **Agents at Scale: Inside MiniMax's Model and the Infrastructure Behind It** - Olive Song, Dan Fu _(talk, Track 9, Posttraining & Midtraining)_  `d3-1450-olive-song-agents-at-scale-inside-minimaxs`
+- `15:20-15:40` **The Self-Improving OSS Agent Stack** - (no speaker listed) _(talk, Expo Stage 1 NE, no track)_  `d3-1520-the-self-improving-oss-agent`
+- `15:20-15:40` **Runpod Expo Session** - Pranjal Jain _(talk, Expo Stage 2 NW, no track)_ [THIN] [TENT]  `d3-1520-pranjal-jain-runpod-expo-session`
+- `15:20-15:40` **The Infinite Context Window Is a Myth: Context Engineering for AI Agents** - Morgan Willis _(talk, Expo Stage 3 SW, no track)_  `d3-1520-morgan-willis-the-infinite-context-window-is`
+- `15:20-15:40` **Vibe Code Safely: Introducing Gadgets** - (no speaker listed) _(talk, Expo Stage 4 SE, no track)_  `d3-1520-vibe-code-safely-introducing-gadgets`
+- `15:20-15:40` **Agentic Sites: Building Hyper Personalized Websites** - Carlos Sanchez _(talk, Leadership 1, AI-Native Enterprises)_  `d3-1520-carlos-sanchez-agentic-sites-building-hyper-personalized`
+- `15:20-15:40` **Inference is the New Training Loop: Architecting High-Reliability Agents and Continuous AI Systems** - David Corbitt _(talk, Leadership 2, Posttraining & Midtraining)_  `d3-1520-david-corbitt-inference-is-the-new-training`
+- `15:20-15:40` **Autoresearch in the wild** - Roland Gavrilescu, Julian Bright _(talk, Main Stage, Autoresearch)_  `d3-1520-roland-gavrilescu-autoresearch-in-the-wild`
+- `15:20-15:40` **Sandboxes Aren't Optional: Runtime Isolation Patterns for Coding Agents at Scale** - Robert Brennan _(talk, Track 1, Sandbox & Platform Engineering)_  `d3-1520-robert-brennan-sandboxes-arent-optional-runtime-isolation`
+- `15:20-15:40` **From Self-Driving Monorepo to Self-Driving Cars** - Amit Navindgi _(sponsor, Track 2, Robotics & World Models)_  `d3-1520-amit-navindgi-from-self-driving-monorepo-to`
+- `15:20-15:40` **Lessons from Studying Every Memory System** - Shlok Khemani _(talk, Track 3, Memory & Continual Learning)_  `d3-1520-shlok-khemani-lessons-from-studying-every-memory`
+- `15:20-15:40` **Don't Write Skills, Train Models (cont. 2/3)** - Brian Douglas _(talk, Track 4, Workshops Day 3)_ [THIN]  `d3-1520-brian-douglas-dont-write-skills-train-models`
+- `15:20-15:40` **Will AI predict people like we predict the weather? (alternate title “A field guide to synthetic personas for market research”)** - Ishan Anand _(sponsor, Track 5, Evals)_  `d3-1520-ishan-anand-will-ai-predict-people-like`
+- `15:20-15:40` **Generative UI... in Python?** - Jeremiah Lowin _(talk, Track 6, Design Engineering)_  `d3-1520-jeremiah-lowin-generative-ui-in-python`
+- `15:20-15:40` **MCP Tasks (async)/ Why the heck aren't any agents supporting MCP tasks/async?** - Cornelia Davis _(talk, Track 8, Context Engineering)_  `d3-1520-cornelia-davis-mcp-tasks-async-why-the`
+- `15:20-15:40` **Benchmarks: The Good, the Bad, and the Ugly** - Ali Khial _(talk, Track 9, Posttraining & Midtraining)_ [TENT]  `d3-1520-ali-khial-benchmarks-the-good-the-bad`
+- `15:20-15:40` **Deploy agents to users in M365, Teams, and apps** - Ashu Joshi _(sponsor, Track M, Track M)_ [THIN]  `d3-1520-ashu-joshi-deploy-agents-to-users-in`
+- `15:45-16:05` **Modular: Taming the AI Hardware Cambrian Explosion** - Abdul Dakkak _(talk, Expo Stage 1 NE, no track)_  `d3-1545-abdul-dakkak-modular-taming-the-ai-hardware`
+- `15:45-16:05` **Codex, Behind the Harness** - Dominik Kundel _(talk, Expo Stage 2 NW, no track)_  `d3-1545-dominik-kundel-codex-behind-the-harness`
+- `15:45-16:05` **Stop Renting Intelligence: The Train-to-Deploy Loop for Specialized AI** - Jetashree Ravi _(talk, Expo Stage 3 SW, no track)_  `d3-1545-jetashree-ravi-stop-renting-intelligence-the-train`
+- `15:45-16:05` **Ray Actors, Vision Tokens, and the GIL: Engineering an SFT Data Pipeline That Keeps GPUs Busy** - Tarun Sunkaraneni _(talk, Expo Stage 4 SE, no track)_  `d3-1545-tarun-sunkaraneni-ray-actors-vision-tokens-and`
+- `15:45-16:05` **The Chief AI Officer: A framework for the emerging Swiss Army Knife of roles** - Rania Khalaf _(talk, Leadership 1, AI Architects: Tokenmaxxing)_  `d3-1545-rania-khalaf-the-chief-ai-officer-a`
+- `15:45-16:05` **The state of AI in software development: Insights across 400+ organizations** - Justin Reock _(talk, Leadership 2, AI Architects: Tokenmaxxing)_  `d3-1545-justin-reock-the-state-of-ai-in`
+- `15:45-16:05` **Autoresearch in a Multi-Agent AI Village** - Erina Karati, Arunachalam Manikandan _(talk, Main Stage, Autoresearch)_  `d3-1545-erina-karati-autoresearch-in-a-multi-agent`
+- `15:45-16:05` **Building ambitious software** - Jonathan Kelley _(talk, Track 1, Sandbox & Platform Engineering)_ [THIN]  `d3-1545-jonathan-kelley-building-ambitious-software`
+- `15:45-16:05` **I gave an AI a body** - Cyrus Clarke _(sponsor, Track 2, Robotics & World Models)_  `d3-1545-cyrus-clarke-i-gave-an-ai-a`
+- `15:45-16:05` **LLM Knowledge Bases: a practical guide** - Ben Holmes _(talk, Track 3, Memory & Continual Learning)_  `d3-1545-ben-holmes-llm-knowledge-bases-a-practical`
+- `15:45-16:05` **Don't Write Skills, Train Models (cont. 3/3)** - Brian Douglas _(talk, Track 4, Workshops Day 3)_ [THIN]  `d3-1545-brian-douglas-dont-write-skills-train-models`
+- `15:45-16:05` **Don't Ship Skills Without Evals** - Philipp Schmid _(sponsor, Track 5, Evals)_  `d3-1545-philipp-schmid-dont-ship-skills-without-evals`
+- `15:45-16:05` **Let My People Code** - Vincent Wendy _(talk, Track 6, Design Engineering)_ [THIN]  `d3-1545-vincent-wendy-let-my-people-code`
+- `15:45-16:05` **The Universal Remote Control for AI** - Alex Hancock _(talk, Track 8, Context Engineering)_  `d3-1545-alex-hancock-the-universal-remote-control-for`
+- `16:30-16:50` **Closing Keynote** - Addy Osmani _(keynote, Main Stage, Autoresearch)_ [THIN]  `d3-1630-addy-osmani-closing-keynote`
+- `16:50-17:10` **Trends in AI** - George Cameron, Micah Hill-Smith _(keynote, Main Stage, Autoresearch)_ [THIN]  `d3-1650-george-cameron-trends-in-ai`
+- `17:10-17:30` **Closing Keynote — TBD** - Anastasios N. Angelopoulos _(keynote, Main Stage, Autoresearch)_ [THIN] [TENT]  `d3-1710-anastasios-n-angelopoulos-closing-keynote-tbd`
+
+## Day 4 - Session Day 3 (2026-07-01)
+
+- `09:00-09:20` **Building Great Agent Skills: The Missing Manual** - Matt Pocock _(keynote, Main Stage, Software Factories)_ [THIN]  `d4-0900-matt-pocock-building-great-agent-skills-the`
+- `09:20-09:40` **TCP and RDMA are Killing Inference Throughput; Homa can Fix It** - John Ousterhout _(keynote, Main Stage, Software Factories)_  `d4-0920-john-ousterhout-tcp-and-rdma-are-killing`
+- `09:40-10:00` **The Unreasonable Effectiveness of Separating the Task from the Model** - Maxime Rivest, Isaac Miller _(keynote, Main Stage, Harness Engineering)_  `d4-0940-maxime-rivest-the-unreasonable-effectiveness-of-separating`
+- `10:00-10:20` **How Tag changed Labs** - Mike Krieger _(keynote, Main Stage, Harness Engineering)_ [THIN]  `d4-1000-mike-krieger-how-tag-changed-labs`
+- `10:20-10:30` **Why Graphs?** - Emil Eifrem _(keynote, Main Stage, Graphs)_ [THIN]  `d4-1020-emil-eifrem-why-graphs`
+- `10:45-11:05` **AI Engineering & Governance 2026 Trends** - Wallon Walusayi _(talk, Expo Stage 1 NE, Expo Stage 1)_ [THIN]  `d4-1045-wallon-walusayi-ai-engineering-governance-2026-trends`
+- `10:45-11:05` **Your Agent Can't Tell If It's Right** - Willem Pienaar _(talk, Expo Stage 2 NW, no track)_  `d4-1045-willem-pienaar-your-agent-cant-tell-if`
+- `10:45-11:05` **No, That's Not a Software Factory** - Ryan Cooke _(talk, Expo Stage 3 SW, Expo Stage 3)_  `d4-1045-ryan-cooke-no-thats-not-a-software`
+- `10:45-11:05` **Vector Isn't Enough: Hybrid Search & Retrieval for AI Engineers** - (no speaker listed) _(talk, Expo Stage 4 SE, no track)_ [REC] [TENT]  `d4-1045-vector-isnt-enough-hybrid-search`
+- `10:45-11:05` **Building safe payment infrastructure for machine-to-machine commerce** - Jennifer Lee _(talk, Leadership 1, Agentic Commerce)_  `d4-1045-jennifer-lee-building-safe-payment-infrastructure-for`
+- `10:45-11:05` **The Agent Behind the Curtain: Building the Oz Cloud Agent Platform** - Safia Abdalla _(talk, Leadership 2, AI Architects: AI Factories)_  `d4-1045-safia-abdalla-the-agent-behind-the-curtain`
+- `10:45-11:05` **Tokens Should Have Jobs** - Katelyn Lesse, Angela Jiang _(talk, Main Stage, Harness Engineering)_ [THIN]  `d4-1045-katelyn-lesse-tokens-should-have-jobs`
+- `10:45-11:05` **Designing Multimodal Collaborative Agents for Next-Gen Commerce** - Nidhi Kaushik Vyas _(sponsor, Track 2, Agentic Commerce)_  `d4-1045-nidhi-kaushik-vyas-designing-multimodal-collaborative-agents-for`
+- `10:45-11:05` **ALPHALAB: Autonomous Multi-Agent Research Across Optimization Domains with Frontier LLMs** - Brendan Rappazzo _(talk, Track 3, AI in Finance)_  `d4-1045-brendan-rappazzo-alphalab-autonomous-multi-agent-research`
+- `10:45-11:05` **Local AI State of the Union: Part 1** - Nader Khalil, Alex Cheema, Ahmad Osman, Michael Chiang _(talk, Track 4, Local AI)_ [THIN] [TENT]  `d4-1045-nader-khalil-local-ai-state-of-the`
+- `10:45-11:05` **CrabRAG: Why Automated Assistants Need Graph Memory, Not More Tokens** - Stephen Chin _(sponsor, Track 5, Graphs)_  `d4-1045-stephen-chin-crabrag-why-automated-assistants-need`
+- `10:45-11:05` **GTM Engineering: The Technical Bits** - Everett Berry _(talk, Track 6, AI in GTM)_ [THIN]  `d4-1045-everett-berry-gtm-engineering-the-technical-bits`
+- `10:45-11:05` **From Ambient Documentation to Clinical Intelligence** - Chaitanya Asawa _(talk, Track 7, AI in Healthcare)_  `d4-1045-chaitanya-asawa-from-ambient-documentation-to-clinical`
+- `10:45-11:05` **DeepSWE: expert code datasets** - Serena Ge _(talk, Track 8, Agentic Engineering)_ [THIN]  `d4-1045-serena-ge-deepswe-expert-code-datasets`
+- `10:45-11:05` **Operating Distributed Inference Systems at Scale** - Nishant Gupta, Naman Ahuja _(talk, Track 9, Inference)_  `d4-1045-nishant-gupta-operating-distributed-inference-systems-at`
+- `10:45-11:05` **Diagnosing agent failures in production** - Pamela Fox _(sponsor, Track M, Track M)_ [THIN]  `d4-1045-pamela-fox-diagnosing-agent-failures-in-production`
+- `11:00-12:00` **The Agentic Product Development Organization** - Martin Harrysson, Matt Linderman, Prakhar Dixit _(talk, Leadership Lounge, CTO Circle)_  `d4-1100-martin-harrysson-the-agentic-product-development-organization`
+- `11:10-11:30` **Beyond RAG: See a relational context engine reduce token burn** - Brandon Waselnuk _(talk, Expo Stage 1 NE, no track)_  `d4-1110-brandon-waselnuk-beyond-rag-see-a-relational`
+- `11:10-11:30` **Keycard AI Expo 1** - (no speaker listed) _(talk, Expo Stage 2 NW, no track)_ [THIN] [TENT]  `d4-1110-keycard-ai-expo-1`
+- `11:10-11:30` **The Lethal Trifecta Is Already on Your Developers' Laptops** - Michael Patterson _(talk, Expo Stage 3 SW, no track)_  `d4-1110-michael-patterson-the-lethal-trifecta-is-already`
+- `11:10-11:30` **Your AI Agent Has No Nervous System** - Matt Gibiec _(talk, Expo Stage 4 SE, no track)_  `d4-1110-matt-gibiec-your-ai-agent-has-no`
+- `11:10-11:30` **Tribal Dungeons of Global Shipping: AI Agents at Global Scale** - Dmitry Buykin _(talk, Leadership 1, AI-Native Enterprises)_  `d4-1110-dmitry-buykin-tribal-dungeons-of-global-shipping`
+- `11:10-11:30` **FinOps for AI Agents: Who Spent All the Tokens?** - Tisha Chawla, Susheem Koul _(talk, Leadership 2, AI Architects: AI Factories)_  `d4-1110-tisha-chawla-finops-for-ai-agents-who`
+- `11:10-11:30` **MCPs, CLIs, and Skills: Choosing the Right Tooling Layer for Agentic Development** - Nikita Kothari _(talk, Main Stage, Agentic Engineering)_  `d4-1110-nikita-kothari-mcps-clis-and-skills-choosing`
+- `11:10-11:30` **HTML Is All Agents Need** - James Russo _(talk, Track 1, Generative Media)_  `d4-1110-james-russo-html-is-all-agents-need`
+- `11:10-11:30` **Why Your AI Agent Needs a Wallet: Agentic commerce on Arc with USDC and Nanopayments** - Harshal Bhangale _(sponsor, Track 2, Agentic Commerce)_  `d4-1110-harshal-bhangale-why-your-ai-agent-needs`
+- `11:10-11:30` **Why Off-the-Shelf AI Doesn't Understand Money** - Udi Menkes _(talk, Track 3, AI in Finance)_  `d4-1110-udi-menkes-why-off-the-shelf-ai`
+- `11:10-11:30` **Local AI State of the Union (cont'd)** - (no speaker listed) _(talk, Track 4, Local AI)_ [THIN] [TENT]  `d4-1110-local-ai-state-of-the`
+- `11:10-11:30` **Active Graph Agent Runtime (BabyAGI 4)** - Yohei Nakajima _(sponsor, Track 5, Graphs)_  `d4-1110-yohei-nakajima-active-graph-agent-runtime-babyagi`
+- `11:10-11:30` **Reverse-Engineering the AI Buyer** - Aliisa Rosenthal _(talk, Track 6, AI in GTM)_  `d4-1110-aliisa-rosenthal-reverse-engineering-the-ai-buyer`
+- `11:10-11:30` **Guardrails First: Engineering Member-Facing Health AI** - Rashi Agrawal _(talk, Track 7, AI in Healthcare)_  `d4-1110-rashi-agrawal-guardrails-first-engineering-member-facing`
+- `11:10-11:30` **Anthropic's CCA Exam as a Field-Guide for Agentic Engineering** - Frank Coyle _(talk, Track 8, Agentic Engineering)_  `d4-1110-frank-coyle-anthropics-cca-exam-as-a`
+- `11:10-11:30` **Routing LLM Inference in Production: From Engine Signals to Policy** - Qianru Lao, Lu Zhang _(talk, Track 9, Inference)_  `d4-1110-qianru-lao-routing-llm-inference-in-production`
+- `11:10-11:30` **Tracing and debugging agents across systems with OpenTelemetry** - Chang Liu _(sponsor, Track M, Track M)_ [THIN]  `d4-1110-chang-liu-tracing-and-debugging-agents-across`
+- `11:40-12:00` **The Art of Building Verifiers for Computer Use Agents** - Miguel González Fernández, Corby Rosset _(talk, Expo Stage 1 NE, no track)_  `d4-1140-miguel-gonz-lez-the-art-of-building-verifiers`
+- `11:40-12:00` **Seeing the Plumbing: Profiling vLLM Speculative Decoding on NVIDIA Blackwell** - Sheilah Kirui _(talk, Expo Stage 2 NW, no track)_  `d4-1140-sheilah-kirui-seeing-the-plumbing-profiling-vllm`
+- `11:40-12:00` **Voice is the universal interface** - Kwindla Kramer, Neil Zeghidour _(talk, Expo Stage 3 SW, no track)_  `d4-1140-kwindla-kramer-voice-is-the-universal-interface`
+- `11:40-12:00` **Building agents is trivial now, context is the next frontier** - Jeff Ng _(talk, Expo Stage 4 SE, no track)_ [TENT]  `d4-1140-jeff-ng-building-agents-is-trivial-now`
+- `11:40-12:00` **All the Things We Have to Do to Satisfy Your Insatiable Need for Tokens** - Daniel Kim, Michelle Nguyen _(talk, Leadership 1, Inference)_  `d4-1140-daniel-kim-all-the-things-we-have`
+- `11:40-12:00` **What If Your Chip Design Team Moved Like a Single Body?** - Khaled Alashmouny, Abduallah Mohamed _(talk, Leadership 2, AI Architects: AI Factories)_  `d4-1140-khaled-alashmouny-what-if-your-chip-design`
+- `11:40-12:00` **Auth for Agents: Unblock Autonomous AI with auth.md** - Michael Grinich _(talk, Main Stage, Agentic Engineering)_  `d4-1140-michael-grinich-auth-for-agents-unblock-autonomous`
+- `11:40-12:00` **Building an Agentic Video Editor for Mass Consumer** - Ekaterina Deyneka _(talk, Track 1, Generative Media)_  `d4-1140-ekaterina-deyneka-building-an-agentic-video-editor`
+- `11:40-12:00` **When AI Agents Pay and Sellers Monetize: Building x402 Apps for Agentic Commerce on AWS** - Anil Nadiminti _(sponsor, Track 2, Agentic Commerce)_  `d4-1140-anil-nadiminti-when-ai-agents-pay-and`
+- `11:40-12:00` **Let's integrate AI Agents in Event-Sourced Systems** - Divakar Kumar _(talk, Track 3, AI in Finance)_  `d4-1140-divakar-kumar-lets-integrate-ai-agents-in`
+- `11:40-12:00` **Local AI in Industry** - (no speaker listed) _(talk, Track 4, Local AI)_ [THIN] [TENT]  `d4-1140-local-ai-in-industry`
+- `11:40-12:00` **Your Moat Is Your Data Model** - Mike Phipps _(sponsor, Track 5, Graphs)_  `d4-1140-mike-phipps-your-moat-is-your-data`
+- `11:40-12:00` **AI in GTM at Notion** - Flora Liu _(talk, Track 6, AI in GTM)_ [THIN]  `d4-1140-flora-liu-ai-in-gtm-at-notion`
+- `11:40-12:00` **Shipping AI to a Million Patients Without an A/B Test** - Jared Joselowitz _(talk, Track 7, AI in Healthcare)_  `d4-1140-jared-joselowitz-shipping-ai-to-a-million`
+- `11:40-12:00` **Guide, Verify, Solve: The Engineering Discipline Agentic Development Demands** - Manish Kapur, Anirban Chatterjee _(talk, Track 8, Agentic Engineering)_  `d4-1140-manish-kapur-guide-verify-solve-the-engineering`
+- `11:40-12:00` **Are LLM Performance Benchmarks Reliable?** - Ashok Chandrasekar, Jason Kramberger _(talk, Track 9, Inference)_  `d4-1140-ashok-chandrasekar-are-llm-performance-benchmarks-reliable`
+- `11:40-12:00` **Benchmarking VS Code with VSC-Bench: How to measure agent performance** - Ross Wollman _(sponsor, Track M, Track M)_  `d4-1140-ross-wollman-benchmarking-vs-code-with-vsc`
+- `12:05-12:25` **The Missing Layer in Agentic AI** - Giedrius Steimantas _(talk, Expo Stage 1 NE, no track)_  `d4-1205-giedrius-steimantas-the-missing-layer-in-agentic`
+- `12:05-12:25` **While You Were Generating: The Verification Gap Nobody Talked About** - Ali Adl-Tabatabai _(talk, Expo Stage 2 NW, no track)_  `d4-1205-ali-adl-tabatabai-while-you-were-generating-the`
+- `12:05-12:25` **Move fast and (don't) break things** - Ben Dicken _(talk, Expo Stage 3 SW, no track)_ [TENT]  `d4-1205-ben-dicken-move-fast-and-dont-break`
+- `12:05-12:25` **Agents That Forge Their Own Tools: Self-Modifying AI in the Wild** - Sandhya Subramani _(talk, Expo Stage 4 SE, no track)_  `d4-1205-sandhya-subramani-agents-that-forge-their-own`
+- `12:05-12:25` **Stop Model Shopping: Why Ownership Beats Choice in the Agent Stack** - George Hu _(talk, Leadership 1, Inference)_  `d4-1205-george-hu-stop-model-shopping-why-ownership`
+- `12:05-12:25` **Preferences > Benchmarks: Model Routing for How Teams Actually Build: Model Routing for How Teams Actually Build** - Archana Kamath, Tyler Gillam _(talk, Leadership 2, AI Architects: AI Factories)_  `d4-1205-archana-kamath-preferences-benchmarks-model-routing-for`
+- `12:05-12:25` **Harness Engineering: Building the Production Cage for Powerful Domain Agents** - Mike Chambers _(talk, Main Stage, Harness Engineering)_  `d4-1205-mike-chambers-harness-engineering-building-the-production`
+- `12:05-12:25` **The Next Game Engine Won't Have a Manual** - Arturo Nunez _(talk, Track 1, Generative Media)_  `d4-1205-arturo-nunez-the-next-game-engine-wont`
+- `12:05-12:25` **x402 isn't good (yet)** - Jan Curn _(sponsor, Track 2, Agentic Commerce)_  `d4-1205-jan-curn-x402-isnt-good-yet`
+- `12:05-12:25` **How Kepler Built Verifiable AI for Financial Services** - Vinoo Ganesh _(talk, Track 3, AI in Finance)_  `d4-1205-vinoo-ganesh-how-kepler-built-verifiable-ai`
+- `12:05-12:25` **Local AI in Industry** - (no speaker listed) _(talk, Track 4, Local AI)_ [THIN] [TENT]  `d4-1205-local-ai-in-industry`
+- `12:05-12:25` **From Systems of Record to Systems of Context** - Omri Bruchim _(sponsor, Track 5, Graphs)_  `d4-1205-omri-bruchim-from-systems-of-record-to`
+- `12:05-12:25` **The Building Blocks of GTM Orchestration** - Arman Vaziri _(talk, Track 6, AI in GTM)_ [THIN]  `d4-1205-arman-vaziri-the-building-blocks-of-gtm`
+- `12:05-12:25` **200 Million Patient Interactions Later: What the Generic Voice Stack Misses** - Vivek Muppalla _(talk, Track 7, AI in Healthcare)_  `d4-1205-vivek-muppalla-200-million-patient-interactions-later`
+- `12:05-12:25` **Benchmarking Coding Agents on New vs Legacy Code bases** - Denys Linkov _(talk, Track 8, Agentic Engineering)_  `d4-1205-denys-linkov-benchmarking-coding-agents-on-new`
+- `12:05-12:25` **Vertical Mobility: Building an AI Inference Platform That Scales from MVP to Trillion-Parameter Workloads** - Rita Zhang, Sitanshu Gupta _(talk, Track 9, Inference)_  `d4-1205-rita-zhang-vertical-mobility-building-an-ai`
+- `13:30-13:50` **YOLO Mode, Safely: microVM Sandboxes for Any Agent** - Eric Jia _(talk, Expo Stage 2 NW, no track)_  `d4-1330-eric-jia-yolo-mode-safely-microvm-sandboxes`
+- `13:30-13:50` **Your Model is Private. Your System Isn't.** - Joshua Mo _(talk, Expo Stage 3 SW, no track)_  `d4-1330-joshua-mo-your-model-is-private-your`
+- `13:30-13:50` **Video Discovery for Agentic World-Model Training** - (no speaker listed) _(talk, Expo Stage 4 SE, no track)_  `d4-1330-video-discovery-for-agentic-world`
+- `13:30-13:50` **From Zero to AI-Native: Scaling AI Across the Org** - Josh Leavitt _(talk, Leadership 1, AI-Native Enterprises)_  `d4-1330-josh-leavitt-from-zero-to-ai-native`
+- `13:30-13:50` **Coding Agents Don't Scale Themselves. Neither Do Your Teams.The Rise of Agent Enablement.** - Patrick Debois _(talk, Leadership 2, AI Architects: AI Factories)_  `d4-1330-patrick-debois-coding-agents-dont-scale-themselves`
+- `13:30-13:50` **Loophole - Adversarial Agents To Stress Test Your Morality** - Brendan Rappazzo _(talk, Main Stage, Harness Engineering)_  `d4-1330-brendan-rappazzo-loophole-adversarial-agents-to-stress`
+- `13:30-13:50` **While my guitar gently speaks** - Todd Fisher _(talk, Track 1, Generative Media)_  `d4-1330-todd-fisher-while-my-guitar-gently-speaks`
+- `13:30-13:50` **Agent Spending Without Controls: The Missing Infrastructure Layer for AI Pa…** - Rodrigo Coelho, Pranav Maheshwari _(sponsor, Track 2, Agentic Commerce)_  `d4-1330-rodrigo-coelho-agent-spending-without-controls-the`
+- `13:30-13:50` **Local AI: Best Models** - (no speaker listed) _(talk, Track 4, Local AI)_ [THIN] [TENT]  `d4-1330-local-ai-best-models`
+- `13:30-13:50` **AI : Learned Execution Graphs for Real-Time Anomaly Detection & Drift Classification in APIs** - Ritvik Pandya _(sponsor, Track 5, Graphs)_  `d4-1330-ritvik-pandya-ai-learned-execution-graphs-for`
+- `13:30-13:50` **How Juries and Librarians Can Solve GTM's AI Trust Problem** - Alex Bauer _(talk, Track 6, AI in GTM)_ [THIN]  `d4-1330-alex-bauer-how-juries-and-librarians-can`
+- `13:30-13:50` **Al is becoming the World's largest Relationship Therapist. We Can't Afford to Get it Wrong.** - Clay Cockrell, Tony Fabrikant _(talk, Track 7, AI in Healthcare)_  `d4-1330-clay-cockrell-al-is-becoming-the-worlds`
+- `13:30-13:50` **Building on the Codex Harness** - Dominik Kundel _(talk, Track 8, Agentic Engineering)_ [THIN] [TENT]  `d4-1330-dominik-kundel-building-on-the-codex-harness`
+- `13:30-13:50` **What's New in Inference Engineering** - Philip Kiely _(talk, Track 9, Inference)_  `d4-1330-philip-kiely-whats-new-in-inference-engineering`
+- `13:30-13:50` **Evaluating and optimizing AI agents: from observability to continuous improvement** - Chang Liu _(sponsor, Track M, Track M)_  `d4-1330-chang-liu-evaluating-and-optimizing-ai-agents`
+- `13:55-14:15` **Dash0 Add-On Expo Session** - (no speaker listed) _(talk, Expo Stage 1 NE, no track)_ [THIN] [TENT]  `d4-1355-dash0-add-on-expo-session`
+- `13:55-14:15` **MCP doesn't suck — your agent does** - Jan Curn _(talk, Expo Stage 2 NW, no track)_  `d4-1355-jan-curn-mcp-doesnt-suck-your-agent`
+- `13:55-14:15` **From Agent Prototype to Production: Evaluation-Led Development in Microsoft Foundry** - Sharmila Chockalingam _(talk, Expo Stage 3 SW, no track)_  `d4-1355-sharmila-chockalingam-from-agent-prototype-to-production`
+- `13:55-14:15` **Everyone talks about document search, but what about results?** - George He _(talk, Expo Stage 4 SE, no track)_  `d4-1355-george-he-everyone-talks-about-document-search`
+- `13:55-14:15` **Which AI startups actually land enterprise contracts? Lessons from evaluating 100+ AI startups at Millennium Management** - Brian Lewis _(talk, Leadership 1, AI-Native Enterprises)_  `d4-1355-brian-lewis-which-ai-startups-actually-land`
+- `13:55-14:15` **Agent Frameworks Considered Harmful** - Rémi Louf _(talk, Leadership 2, Harness Engineering)_ [THIN]  `d4-1355-r-mi-louf-agent-frameworks-considered-harmful`
+- `13:55-14:15` **🎵 Every step you take, every call you make - the reliable agent stack** - Giselle van Dongen _(talk, Main Stage, Harness Engineering)_  `d4-1355-giselle-van-dongen-every-step-you-take-every`
+- `13:55-14:15` **Voice agents with Realtime Video** - Lina Colucci _(talk, Track 1, Generative Media)_ [THIN]  `d4-1355-lina-colucci-voice-agents-with-realtime-video`
+- `13:55-14:15` **Teaching agents to pay** - Anna Spysz _(sponsor, Track 2, Agentic Commerce)_  `d4-1355-anna-spysz-teaching-agents-to-pay`
+- `13:55-14:15` **We Vetted 2,000 AI Skills Before They Reached Developers** - Lucas Palma _(talk, Track 3, AI in Finance)_  `d4-1355-lucas-palma-we-vetted-2-000-ai`
+- `13:55-14:15` **Local AI: Best Models (con'td)** - (no speaker listed) _(talk, Track 4, Local AI)_ [THIN] [TENT]  `d4-1355-local-ai-best-models-contd`
+- `13:55-14:15` **Why Agentic Systems Need Ontologies** - Frank Coyle _(sponsor, Track 5, Graphs)_  `d4-1355-frank-coyle-why-agentic-systems-need-ontologies`
+- `13:55-14:15` **How We Got LLMs to Recommend Our Open Source Library (Without Paying or Plug-ins)** - Christopher Burns _(talk, Track 6, AI in GTM)_  `d4-1355-christopher-burns-how-we-got-llms-to`
+- `13:55-14:15` **Healthcare's Agent Bytecode: X12 as the Harness for AI Agents** - Vasant Kearney _(talk, Track 7, AI in Healthcare)_  `d4-1355-vasant-kearney-healthcares-agent-bytecode-x12-as`
+- `13:55-14:15` **Multiplayer agentic engineering: enabling your whole team and your best agents to work together** - Arjun Singh _(talk, Track 8, Agentic Engineering)_  `d4-1355-arjun-singh-multiplayer-agentic-engineering-enabling-your`
+- `13:55-14:15` **Rob Wachen — transformer-only ASICs for inference** - Rob Wachen _(talk, Track 9, Inference)_ [THIN]  `d4-1355-rob-wachen-rob-wachen-transformer-only-asics`
+- `13:55-14:15` **Blast Radius Zero: One‑Command OpenClaw Sandboxes in the Cloud** - Arun Sekhar _(sponsor, Track M, Track M)_  `d4-1355-arun-sekhar-blast-radius-zero-one-command`
+- `14:25-14:45` **Optimizing Open Models for Production Grade Inference** - Sujee Maniyam, Dylan Bristot _(talk, Expo Stage 1 NE, no track)_ [TENT]  `d4-1425-sujee-maniyam-optimizing-open-models-for-production`
+- `14:25-14:45` **[Braintrust Expo Session 3]** - (no speaker listed) _(talk, Expo Stage 3 SW, no track)_ [THIN] [TENT]  `d4-1425-braintrust-expo-session-3`
+- `14:25-14:45` **The Human Is an Async API** - Melanie Warrick _(talk, Expo Stage 4 SE, no track)_  `d4-1425-melanie-warrick-the-human-is-an-async`
+- `14:25-14:45` **Your Hero Agent Needs a Party** - Kunal Lanjewar _(talk, Leadership 1, AI-Native Enterprises)_  `d4-1425-kunal-lanjewar-your-hero-agent-needs-a`
+- `14:25-14:45` **We let an AI agent execute Bash and lived to talk about it** - Sarah Sanders _(talk, Main Stage, Harness Engineering)_  `d4-1425-sarah-sanders-we-let-an-ai-agent`
+- `14:25-14:45` **Generative Video at the Speed of Light** - Keegan McCallum _(talk, Track 1, Generative Media)_  `d4-1425-keegan-mccallum-generative-video-at-the-speed`
+- `14:25-14:45` **The Agentic Commerce Stack** - Ahnaf Prio _(sponsor, Track 2, Agentic Commerce)_  `d4-1425-ahnaf-prio-the-agentic-commerce-stack`
+- `14:25-14:45` **Your Finance Agent's Bottleneck Is You** - Ramana Siddanth Emani _(talk, Track 3, AI in Finance)_  `d4-1425-ramana-siddanth-emani-your-finance-agents-bottleneck-is`
+- `14:25-14:45` **Local AI: Quantization & Compression** - (no speaker listed) _(talk, Track 4, Local AI)_ [THIN] [TENT]  `d4-1425-local-ai-quantization-compression`
+- `14:25-14:45` **Video Has No Memory. Here's How We Built One.** - James Le _(sponsor, Track 5, Graphs)_  `d4-1425-james-le-video-has-no-memory-heres`
+- `14:25-14:45` **Lessons From Building The World's Largest Knowledge Graph** - Jeffrey Wang _(talk, Track 6, AI in GTM)_ [THIN]  `d4-1425-jeffrey-wang-lessons-from-building-the-worlds`
+- `14:25-14:45` **Trading Desks to Clinical Trials: Parallels in Applied Vertical AI** - Ayush Bhardwaj _(talk, Track 7, AI in Healthcare)_  `d4-1425-ayush-bhardwaj-trading-desks-to-clinical-trials`
+- `14:25-14:45` **Always-on agents run production without the on-call tax** - Justin Smith _(talk, Track 8, Agentic Engineering)_  `d4-1425-justin-smith-always-on-agents-run-production`
+- `14:25-14:45` **The Frontier AI Inference Cloud for Agents** - Byung-Gon (Gon) Chun _(talk, Track 9, Inference)_  `d4-1425-byung-gon-gon-the-frontier-ai-inference-cloud`
+- `14:25-14:45` **Operate agents safely at scale with enterprise governance** - Ashu Joshi _(sponsor, Track M, Track M)_ [THIN]  `d4-1425-ashu-joshi-operate-agents-safely-at-scale`
+- `14:50-15:10` **Harness Engineering: The New Core Skill for Agentic Developers** - Dru Knox _(talk, Expo Stage 1 NE, no track)_  `d4-1450-dru-knox-harness-engineering-the-new-core`
+- `14:50-15:10` **Designing Evals That Earn User Trust** - Felipe Blanes _(talk, Expo Stage 2 NW, no track)_  `d4-1450-felipe-blanes-designing-evals-that-earn-user`
+- `14:50-15:10` **Small Claws Are Beautiful: Edge Agents with NanoClaw, Raspberry Pi, and Graph Memory** - Jeremy Adams _(talk, Expo Stage 3 SW, Expo Stage 3)_ [THIN]  `d4-1450-jeremy-adams-small-claws-are-beautiful-edge`
+- `14:50-15:10` **The Software Factory** - (no speaker listed) _(talk, Expo Stage 4 SE, no track)_  `d4-1450-the-software-factory`
+- `14:50-15:10` **AI Agents Are Just Distributed Systems Now** - Salman Munaf _(talk, Leadership 1, AI-Native Enterprises)_  `d4-1450-salman-munaf-ai-agents-are-just-distributed`
+- `14:50-15:10` **Inside 847 Production Clinical AI Notes** - Sebastian Fox _(talk, Leadership 2, AI Architects: AI Factories)_  `d4-1450-sebastian-fox-inside-847-production-clinical-ai`
+- `14:50-15:10` **No Memory, No Harness: Why the Database Is the Last Line of Defense** - Kay Malcolm _(talk, Main Stage, Harness Engineering)_  `d4-1450-kay-malcolm-no-memory-no-harness-why`
+- `14:50-15:10` **The Next Medium: Why Real-Time Interactive Video Changes Everything for Developers** - Ahmed Ahres _(talk, Track 1, Generative Media)_  `d4-1450-ahmed-ahres-the-next-medium-why-real`
+- `14:50-15:10` **Your Agent Just Authorized What?!** - Jay Mok _(sponsor, Track 2, Agentic Commerce)_  `d4-1450-jay-mok-your-agent-just-authorized-what`
+- `14:50-15:10` **Simulationmaxxing for 20x Faster Agent Dev** - Shreya Rajpal _(talk, Track 3, AI in Finance)_  `d4-1450-shreya-rajpal-simulationmaxxing-for-20x-faster-agent`
+- `14:50-15:10` **Local AI: Quantization & Compression (Con'td)** - (no speaker listed) _(talk, Track 4, Local AI)_ [THIN] [TENT]  `d4-1450-local-ai-quantization-compression-contd`
+- `14:50-15:10` **On-Device Agentic AI for the New York Times Games** - Shafik Quoraishee, Joanne Song _(sponsor, Track 5, Graphs)_  `d4-1450-shafik-quoraishee-on-device-agentic-ai-for`
+- `14:50-15:10` **How AI Agents Let GTM Teams Scale** - Justin Joyce _(talk, Track 6, AI in GTM)_  `d4-1450-justin-joyce-how-ai-agents-let-gtm`
+- `14:50-15:10` **How to build an AI-Native Health Company** - Dan Feng _(talk, Track 7, AI in Healthcare)_  `d4-1450-dan-feng-how-to-build-an-ai`
+- `14:50-15:10` **Realtime multiplayer, automation, and you!** - Idan Gazit _(talk, Track 8, Agentic Engineering)_  `d4-1450-idan-gazit-realtime-multiplayer-automation-and-you`
+- `14:50-15:10` **KV Cache-Aware Routing and P/D Disaggregation on Kubernetes: The Parts Public Benchmarks Don't Show** - Yuchen Fama, Michey Mehta, Ashish Kamra _(talk, Track 9, Inference)_ [THIN]  `d4-1450-yuchen-fama-kv-cache-aware-routing-and`
+- `15:20-15:40` **Agent Memory Is a Solved Problem. Agent Learning Is Not.** - Karthik Ranganathan, Heather Downing _(talk, Expo Stage 1 NE, no track)_  `d4-1520-karthik-ranganathan-agent-memory-is-a-solved`
+- `15:20-15:40` **Deepmind Expo Session 2** - (no speaker listed) _(talk, Expo Stage 2 NW, no track)_ [THIN] [TENT]  `d4-1520-deepmind-expo-session-2`
+- `15:20-15:40` **Replicated Expo Session** - (no speaker listed) _(talk, Expo Stage 3 SW, no track)_ [THIN] [TENT]  `d4-1520-replicated-expo-session`
+- `15:20-15:40` **An AI Future Without the Lock-In** - Remy Guercio _(talk, Expo Stage 4 SE, no track)_  `d4-1520-remy-guercio-an-ai-future-without-the`
+- `15:20-15:40` **The Signal Layer: What to Build When Anything Can Be Built** - Lena Hall _(talk, Leadership 1, AI-Native Enterprises)_  `d4-1520-lena-hall-the-signal-layer-what-to`
+- `15:20-15:40` **Give the Agent a Budget, Not a Token** - Sachin Malhotra _(talk, Leadership 2, AI Architects: AI Factories)_  `d4-1520-sachin-malhotra-give-the-agent-a-budget`
+- `15:20-15:40` **We Solved Agent Building - The Evolution of Building A Successful Data Science Agent** - Andrew Qu _(talk, Main Stage, Harness Engineering)_  `d4-1520-andrew-qu-we-solved-agent-building-the`
+- `15:20-15:40` **The End of the Static Screen: Architecting Intent-Driven UX with Agentic Orchestration** - Gus Iwanaga _(sponsor, Track 2, Agentic Commerce)_  `d4-1520-gus-iwanaga-the-end-of-the-static`
+- `15:20-15:40` **It's a Skill Issue : Best practices in building skills that work** - Yogendra Miraje _(talk, Track 3, AI in Finance)_ [THIN]  `d4-1520-yogendra-miraje-its-a-skill-issue-best`
+- `15:20-15:40` **Local AI: Model Routing** - (no speaker listed) _(talk, Track 4, Local AI)_ [THIN] [TENT]  `d4-1520-local-ai-model-routing`
+- `15:20-15:40` **Citation Needed: Provenance for LLM-Built Knowledge Graphs** - Daniel Chalef _(sponsor, Track 5, Graphs)_  `d4-1520-daniel-chalef-citation-needed-provenance-for-llm`
+- `15:20-15:40` **Fin.ai in GTM** - Bil Erdenekhuyag _(talk, Track 6, AI in GTM)_ [THIN]  `d4-1520-bil-erdenekhuyag-fin-ai-in-gtm`
+- `15:20-15:40` **Don't be data poor** - Anuj Iravane _(talk, Track 7, AI in Healthcare)_  `d4-1520-anuj-iravane-dont-be-data-poor`
+- `15:20-15:40` **Velocity Sickness: What Happens When Your Whole Team Gets 10x Faster** - Matt Dailey _(talk, Track 8, Agentic Engineering)_  `d4-1520-matt-dailey-velocity-sickness-what-happens-when`
+- `15:20-15:40` **Two Bugs That Hid in Plain Sight: A vLLM Debugging Detective Story** - Asaf Gardin, Yuval Belfer _(talk, Track 9, Inference)_  `d4-1520-asaf-gardin-two-bugs-that-hid-in`
+- `15:45-16:05` **Taking Reinforcement Learning Cross Datacenter** - Adam Azzam _(talk, Expo Stage 1 NE, no track)_ [TENT]  `d4-1545-adam-azzam-taking-reinforcement-learning-cross-datacenter`
+- `15:45-16:05` **Composio Expo Session** - (no speaker listed) _(talk, Expo Stage 2 NW, no track)_ [THIN]  `d4-1545-composio-expo-session`
+- `15:45-16:05` **Agents Without Code: How Skills, YAML, and Filesystems Replaced Python** - Philipp Schmid _(talk, Main Stage, Harness Engineering)_  `d4-1545-philipp-schmid-agents-without-code-how-skills`
+- `15:45-16:05` **Beyond the Lethal Trifecta: Agentic Commerce on the Open Internet at Machine Speed** - David Levine _(sponsor, Track 2, Agentic Commerce)_  `d4-1545-david-levine-beyond-the-lethal-trifecta-agentic`
+- `15:45-16:05` **Wearing the Agent: Engineering a Family-and-Friends Personal Agent, from Group Chats to Glasses** - Sai Krishna Rallabandi _(talk, Track 3, AI in Finance)_  `d4-1545-sai-krishna-rallabandi-wearing-the-agent-engineering-a`
+- `15:45-16:05` **Local AI: Model Routing (con'td)** - (no speaker listed) _(talk, Track 4, Local AI)_ [THIN] [TENT]  `d4-1545-local-ai-model-routing-contd`
+- `15:45-16:05` **Why We Killed Our Multi-Agent Pipeline: Lessons From Pharma Commercial Intelligence** - Subbiah Sethuraman, Abhilash Asokan _(sponsor, Track 5, Graphs)_  `d4-1545-subbiah-sethuraman-why-we-killed-our-multi`
+- `15:45-16:05` **The Death of Developer Advocates** - Stephanie Jarmak _(talk, Track 6, AI in GTM)_  `d4-1545-stephanie-jarmak-the-death-of-developer-advocates`
+- `15:45-16:05` **Why Your Enterprise Tech Stack Isn't Ready for AI Agents - And What to Build Instead** - Christopher Lovejoy, Saul Howard _(talk, Track 7, AI in Healthcare)_  `d4-1545-christopher-lovejoy-why-your-enterprise-tech-stack`
+- `15:45-16:05` **Open Source Is Dead. Long Live Open Source.** - Saoud Rizwan _(talk, Track 8, Agentic Engineering)_ [TENT]  `d4-1545-saoud-rizwan-open-source-is-dead-long`
+- `15:45-16:05` **Weight Folding, CUDA Streams, and the Bug That Made My Model Speak Backwards** - Filip Makraduli _(talk, Track 9, Inference)_  `d4-1545-filip-makraduli-weight-folding-cuda-streams-and`
+- `16:30-16:50` **Closing Keynote — Theo Browne** - Theo Browne _(keynote, Main Stage, Main Stage)_ [THIN]  `d4-1630-theo-browne-closing-keynote-theo-browne`
+- `16:50-17:10` **Closing Keynote: Garry Tan** - Garry Tan _(keynote, Main Stage, Main Stage)_ [THIN]  `d4-1650-garry-tan-closing-keynote-garry-tan`
+- `17:10-17:30` **Startup Battlefield** - Howie Liu _(keynote, Main Stage, Main Stage)_ [THIN]  `d4-1710-howie-liu-startup-battlefield`
