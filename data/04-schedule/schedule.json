@@ -30,6 +30,16 @@
     },
     {
       "day": "2026-06-29",
+      "start": "11:05",
+      "end": "12:05",
+      "event_id": "d1-1105-dhruv-nathawani-teaching-agents-to-search-building",
+      "room": "Track 5",
+      "score": 0.8,
+      "why": "added per user: Mon Workshop-Day 11:05 lab, T3 teaching agents to search (synthetic training data)",
+      "alternatives": []
+    },
+    {
+      "day": "2026-06-29",
       "start": "14:20",
       "end": "16:20",
       "event_id": "d1-1420-louis-fran-ois-context-engineering-in-2026-compaction",
@@ -133,6 +143,16 @@
     },
     {
       "day": "2026-06-30",
+      "start": "13:30",
+      "end": "13:50",
+      "event_id": "d2-1330-jean-denis-greze-agents-next-frontier-agent-to",
+      "room": "Track 1",
+      "score": 0.8,
+      "why": "added per user: Tue lunch-gap fill (1:30), T1 agent-to-agent/network effects",
+      "alternatives": []
+    },
+    {
+      "day": "2026-06-30",
       "start": "13:55",
       "end": "14:15",
       "event_id": "d2-1355-lance-martin-claude-for-long-horizon-tasks",
@@ -182,6 +202,26 @@
           "why_not": "lower fit (0.524 vs 0.791; Retrieval, Memory & Knowledge)"
         }
       ]
+    },
+    {
+      "day": "2026-06-30",
+      "start": "15:20",
+      "end": "15:40",
+      "event_id": "d2-1520-sam-bhagwat-every-harness-will-become-a",
+      "room": "Track 1",
+      "score": 0.8,
+      "why": "added per user: Tue afternoon-gap fill (3:20), T1 harnesses \u2014 'Every Harness Will Become A Claw'",
+      "alternatives": []
+    },
+    {
+      "day": "2026-06-30",
+      "start": "15:45",
+      "end": "16:05",
+      "event_id": "d2-1545-cam-kennedy-how-we-built-the-airbyte",
+      "room": "Expo Stage 1 NE",
+      "score": 0.8,
+      "why": "added per user: Tue afternoon-gap fill (3:45), T1 MCP server build",
+      "alternatives": []
     },
     {
       "day": "2026-06-30",
@@ -452,6 +492,26 @@
     },
     {
       "day": "2026-07-02",
+      "start": "13:30",
+      "end": "13:50",
+      "event_id": "d4-1330-ritvik-pandya-ai-learned-execution-graphs-for",
+      "room": "Track 5",
+      "score": 0.8,
+      "why": "added per user: Thu lunch-fill (1:30), T5 execution graphs / anomaly detection",
+      "alternatives": []
+    },
+    {
+      "day": "2026-07-02",
+      "start": "13:55",
+      "end": "14:15",
+      "event_id": "d4-1355-jan-curn-mcp-doesnt-suck-your-agent",
+      "room": "Expo Stage 2 NW",
+      "score": 0.8,
+      "why": "added per user: Thu lunch-fill (1:55), T1 'MCP doesn't suck - your agent does'",
+      "alternatives": []
+    },
+    {
+      "day": "2026-07-02",
       "start": "14:50",
       "end": "15:10",
       "event_id": "d4-1450-dru-knox-harness-engineering-the-new-core",
@@ -505,66 +565,6 @@
   ],
   "free_blocks": [
     {
-      "day": "2026-06-29",
-      "start": "08:30",
-      "end": "09:00",
-      "purpose": "buffer"
-    },
-    {
-      "day": "2026-06-29",
-      "start": "11:00",
-      "end": "14:20",
-      "purpose": "break"
-    },
-    {
-      "day": "2026-06-29",
-      "start": "16:20",
-      "end": "19:00",
-      "purpose": "networking"
-    },
-    {
-      "day": "2026-06-30",
-      "start": "08:30",
-      "end": "09:00",
-      "purpose": "break"
-    },
-    {
-      "day": "2026-06-30",
-      "start": "09:45",
-      "end": "11:10",
-      "purpose": "break"
-    },
-    {
-      "day": "2026-06-30",
-      "start": "11:30",
-      "end": "11:40",
-      "purpose": "buffer"
-    },
-    {
-      "day": "2026-06-30",
-      "start": "12:00",
-      "end": "13:55",
-      "purpose": "meal"
-    },
-    {
-      "day": "2026-06-30",
-      "start": "14:15",
-      "end": "14:25",
-      "purpose": "buffer"
-    },
-    {
-      "day": "2026-06-30",
-      "start": "14:45",
-      "end": "16:30",
-      "purpose": "break"
-    },
-    {
-      "day": "2026-06-30",
-      "start": "16:50",
-      "end": "19:00",
-      "purpose": "networking"
-    },
-    {
       "day": "2026-07-01",
       "start": "08:30",
       "end": "09:25",
@@ -608,10 +608,85 @@
       "purpose": "networking"
     },
     {
+      "day": "2026-07-01",
+      "start": "14:15",
+      "end": "14:50",
+      "purpose": "break",
+      "note": "post-talk breather before the afternoon block"
+    },
+    {
+      "day": "2026-06-30",
+      "start": "08:30",
+      "end": "09:00",
+      "purpose": "break"
+    },
+    {
+      "day": "2026-06-30",
+      "start": "09:05",
+      "end": "09:25",
+      "purpose": "break"
+    },
+    {
+      "day": "2026-06-30",
+      "start": "09:45",
+      "end": "11:10",
+      "purpose": "break"
+    },
+    {
+      "day": "2026-06-30",
+      "start": "11:30",
+      "end": "11:40",
+      "purpose": "buffer"
+    },
+    {
+      "day": "2026-06-30",
+      "start": "12:00",
+      "end": "13:30",
+      "purpose": "meal",
+      "note": "lunch (kept free)"
+    },
+    {
+      "day": "2026-06-30",
+      "start": "13:50",
+      "end": "13:55",
+      "purpose": "buffer"
+    },
+    {
+      "day": "2026-06-30",
+      "start": "14:15",
+      "end": "14:25",
+      "purpose": "buffer"
+    },
+    {
+      "day": "2026-06-30",
+      "start": "14:45",
+      "end": "15:20",
+      "purpose": "break"
+    },
+    {
+      "day": "2026-06-30",
+      "start": "15:40",
+      "end": "15:45",
+      "purpose": "buffer"
+    },
+    {
+      "day": "2026-06-30",
+      "start": "16:05",
+      "end": "16:30",
+      "purpose": "break"
+    },
+    {
+      "day": "2026-06-30",
+      "start": "16:50",
+      "end": "19:00",
+      "purpose": "networking",
+      "note": "evening kept light"
+    },
+    {
       "day": "2026-07-02",
       "start": "08:30",
       "end": "09:00",
-      "purpose": "buffer"
+      "purpose": "break"
     },
     {
       "day": "2026-07-02",
@@ -623,7 +698,7 @@
       "day": "2026-07-02",
       "start": "10:30",
       "end": "10:45",
-      "purpose": "buffer"
+      "purpose": "break"
     },
     {
       "day": "2026-07-02",
@@ -636,7 +711,27 @@
       "start": "11:30",
       "end": "12:05",
       "purpose": "meal",
-      "note": "lunch part 1 (flexed for the Next Game Engine wildcard 12:05-12:25)"
+      "note": "lunch (kept free)"
+    },
+    {
+      "day": "2026-07-02",
+      "start": "12:25",
+      "end": "13:30",
+      "purpose": "meal",
+      "note": "lunch (kept free)"
+    },
+    {
+      "day": "2026-07-02",
+      "start": "13:50",
+      "end": "13:55",
+      "purpose": "meal",
+      "note": "lunch (kept free)"
+    },
+    {
+      "day": "2026-07-02",
+      "start": "14:15",
+      "end": "14:50",
+      "purpose": "break"
     },
     {
       "day": "2026-07-02",
@@ -651,24 +746,29 @@
       "purpose": "break"
     },
     {
-      "day": "2026-07-02",
-      "start": "12:25",
-      "end": "14:50",
-      "purpose": "meal",
-      "note": "lunch part 2"
-    },
-    {
-      "day": "2026-06-30",
-      "start": "09:05",
-      "end": "09:25",
+      "day": "2026-06-29",
+      "start": "08:30",
+      "end": "09:00",
       "purpose": "break"
     },
     {
-      "day": "2026-07-01",
-      "start": "14:15",
-      "end": "14:50",
-      "purpose": "break",
-      "note": "post-talk breather before the afternoon block"
+      "day": "2026-06-29",
+      "start": "11:00",
+      "end": "11:05",
+      "purpose": "buffer"
+    },
+    {
+      "day": "2026-06-29",
+      "start": "12:05",
+      "end": "14:20",
+      "purpose": "meal",
+      "note": "your personal 12:00-2:00 lunch (starts after the 11:05 workshop)"
+    },
+    {
+      "day": "2026-06-29",
+      "start": "16:20",
+      "end": "19:00",
+      "purpose": "break"
     }
   ],
   "objective_breakdown": {
@@ -748,6 +848,12 @@
   "date_mapping_corrected": "All selection/free-block dates shifted +1 day (Day1=2026-06-29 Mon ... Day4=2026-07-02 Thu). Anchor: Startup Battlefield Day-4 closing = July 2 per source Highlights.",
   "added_after_schedule": [
     "d3-1330-laurie-voss-how-long-can-your-skills (Wed Jul 1 13:30)",
-    "d3-1355-prukalpa-sankar-cut-through-the-context-hype (Wed Jul 1 13:55)"
+    "d3-1355-prukalpa-sankar-cut-through-the-context-hype (Wed Jul 1 13:55)",
+    "d2-1330-jean-denis-greze-agents-next-frontier-agent-to (Tue Jun 30 13:30)",
+    "d2-1520-sam-bhagwat-every-harness-will-become-a (Tue Jun 30 15:20)",
+    "d2-1545-cam-kennedy-how-we-built-the-airbyte (Tue Jun 30 15:45)",
+    "d4-1330-ritvik-pandya-ai-learned-execution-graphs-for (2026-07-02 13:30)",
+    "d4-1355-jan-curn-mcp-doesnt-suck-your-agent (2026-07-02 13:55)",
+    "d1-1105-dhruv-nathawani-teaching-agents-to-search-building (2026-06-29 11:05)"
   ]
 }
